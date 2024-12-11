@@ -1,3 +1,10 @@
+---
+title: Example
+draft: true
+tags:
+  - example-tag
+---
+
 [[Physics Home Page | Back to Homepage ]]
 [[Unit A.2 - Forces and Momentum | Next Unit : Forces and Momentum ]]
 
@@ -118,30 +125,10 @@
 ### Acceleration
 
 >[!info] Acceleration
->Acceleration is the ==rate of change of velocity==
->Acceleration is a **vector**.
->Acceleration is written in $ms^{-2}$
-><br>
-><br>
->$acceleration = \dfrac{change \space in \space velocity}{time \space taken \space for \space the \space change}$
-><br>
-><br>
->$acceleration = \dfrac{d^2s}{dt^2} \space or \space \dfrac{dv}{dt}$
-
->[!info] Average Acceleration
-> - Average Acceleration is the the overall change in velocity over the time taken for the overall change
-> <br>
-> - Can be found by taking the area under a v-t of a graph of a specific time period and dividing the area by the duration of that time period
-> <br>
-> <br>
-> $Average \space Acceleration = \dfrac{overall \space change \space in \space velocity}{time \space taken \space for \space the \space overall \space change }$
-> <br>
-> <br>
-> $Average \space Acceleration =\dfrac{ \int_{T_1}^{T_2}{\dfrac{dv}{dt} dt} }{T_2 - T_1}$
+>
 
 
-
-
+#### Average acceleration
 
 #### Instantaneous acceleration
 
