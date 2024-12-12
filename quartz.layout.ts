@@ -43,18 +43,22 @@ export const defaultContentPageLayout: PageLayout = {
         opacityScale: 1, // how quickly do we fade out the labels when zooming out?
         removeTags: [], // what tags to remove from the graph
         showTags: true, // whether to show tags in the graph
+        focusOnHover: true, // whether to highlight nodes when hovering over them
       },
       globalGraph: {
         drag: true,
         zoom: true,
         depth: -1,
-        scale: 0.9,
-        repelForce: 1,
-        centerForce: 0.1,
-        linkDistance: 30,
+        scale: 1,
+        repelForce: 20,
+        centerForce: 0.42,
+        linkDistance: 500,
         fontSize: 0.8,
         opacityScale: 1,
-        removeTags: [], // what tags to remove from the graph
+
+        focusOnHover: true,
+
+        removeTags: ['excalidraw'], // what tags to remove from the graph
         showTags: true, // whether to show tags in the graph
       },
     }),
