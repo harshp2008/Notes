@@ -1,7 +1,9 @@
 ---
 title: L'Imperative
-draft: "false"
+draft: false
 tags:
+  - french
+  - grammer
 ---
 ---
 **NOTE :** Only for Tu, Nous, Vous

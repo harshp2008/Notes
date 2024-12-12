@@ -1,3 +1,11 @@
+---
+title: Unit 1.2 - Types of Business Entries
+draft: false
+tags:
+  - BM
+---
+---
+
 - [[Unit 1.1 - Types of Business Entries| Previous Unit : What is a Business ? ]]
 - [[Unit 1.3 - Business Objectives | Next Unit : Business Objectives]]
 

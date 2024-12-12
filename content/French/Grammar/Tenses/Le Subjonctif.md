@@ -1,7 +1,9 @@
 ---
-title: New Note
-draft: "false"
+title: Le Subjonctif
+draft: false
 tags:
+  - french
+  - grammer
 ---
 ---
 # Why is Subjonctif Used:

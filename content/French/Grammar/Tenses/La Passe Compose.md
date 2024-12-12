@@ -1,7 +1,9 @@
 ---
 title: La Passe Compose
-draft: "false"
+draft: false
 tags:
+  - french
+  - grammer
 ---
 ---
 

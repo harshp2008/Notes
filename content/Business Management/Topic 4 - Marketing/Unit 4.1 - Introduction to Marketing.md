@@ -1,3 +1,11 @@
+---
+title: Unit 4.1 - Introduction to Marketing
+draft: false
+tags:
+  - BM
+---
+---
+
 [[Unit 4.2 - Marketing Planning | Next Unit : Marketing Planning  ]]
 
 >[!info] What is marketing

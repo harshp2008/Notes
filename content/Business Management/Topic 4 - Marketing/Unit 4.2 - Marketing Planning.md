@@ -1,3 +1,11 @@
+---
+title: Unit 4.2 - Marketing Planning
+draft: false
+tags:
+  - BM
+---
+---
+
 >[!info] Define Marketing Plan
 >Marketing plan sets out the ==marketing objectives==, ==strategies==, ==budgets== and ==marketing activities== necessary to achieve the marketing objectives.
 

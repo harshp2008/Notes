@@ -1,3 +1,11 @@
+---
+title: Unit 1.1 - Types of Business Entries
+draft: false
+tags:
+  - BM
+---
+---
+
 [[Business Management Home Page| Go back to Homepage]]
 [[Unit 1.2 - Types of Business Entries | Next Unit : Types of Business Entries ]]
 <hr>

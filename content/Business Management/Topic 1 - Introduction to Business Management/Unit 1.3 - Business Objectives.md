@@ -1,3 +1,11 @@
+---
+title: Unit 1.3 - Business Objectives
+draft: false
+tags:
+  - BM
+---
+---
+
 - [[Unit 1.2 - Types of Business Entries | Previous Unit : Types of Business Entries]]
 - [[Unit 1.4 - Stakeholders | Next Unit : Stakeholders ]]
 

@@ -1,32 +1,10 @@
-```meta-bind-button
-label: Previous Unit
-hidden: true
-id: "previous"
-style: "primary"
-actions:
-  - type: command
-    command: neighbouring-files:prev
-```
-
-```meta-bind-button
-label: "Next Unit"
-hidden: true
-id: "next"
-style: "primary"
-actions:
-  - type: command
-    command: neighbouring-files:next
-```
-`BUTTON[previous]`   `BUTTON[next]`
-
-| <center>Property</center> | <center>Data</center> |
-| ------------------------- | --------------------- |
-| Date created              | 2024-11-22            |
-| Time created              | 03:10                 |
-| Tags                      |                       |
-
-***
-
+---
+title: Structure 2.1 - The Ionic Model
+draft: false
+tags:
+  - chemistry
+---
+---
 # Introduction to bonds and structure
 
 - Atoms are held together by **chemical bonds**

@@ -1,6 +1,6 @@
 ---
 title: New Note
-draft: "false"
+draft: false
 tags:
 ---
 ---

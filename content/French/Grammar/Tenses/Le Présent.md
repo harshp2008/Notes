@@ -1,6 +1,8 @@
 ---
 title: Le Présent
-draft: "false"
+draft: false
 tags:
+  - french
+  - grammer
 ---
 ---
