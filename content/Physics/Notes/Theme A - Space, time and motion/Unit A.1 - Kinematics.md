@@ -215,7 +215,7 @@ $\Large{s = \frac{1}{2}t(u + v)} \space\space\rightarrow \text{Equation 2}$
 
 Substituting **Equation 1** into **Equation 2** we get:
 
-$\Large{s = \frac{1}{2}t(u + \colorbox{yellow}{(u + at)})}$
+$\Large{s = \frac{1}{2}t(u + [\space u + at \space])}$
 
 $\Large{s = \frac{1}{2}t(2u + at)}$
 
@@ -231,7 +231,7 @@ $\Large{u = v - at}$
 
 and substituting that into **equation 2** gives :
 
-$\Large{s = \frac{1}{2}t(\colorbox{yellow}{(v - at)} + v)}$
+$\Large{s = \frac{1}{2}t([\space v - at \space] + v)}$
 
 $\Large{s = \frac{1}{2}t(2v - at)}$
 
@@ -258,3 +258,48 @@ $\Large{v^2 - u^2 = 2a[s]}$
 $\Large{v^2 - u^2 = 2as \space\space\rightarrow \text{Equation 5}}$
 
 # Motion with Gravity (Projectile Motion)
+
+## Introduction
+
+Watch a dog catching a ball thrown high into the air. It is a remarkable feat of coordination by the animal. What is the physics of the motion? The ball is moving in two dimensions, and it is subject to the vertical acceleration of gravity and the deceleration of air resistance. How do physicists treat this complex situation? The trick they use is to split it up into horizontal and vertical components.
+
+When an object is released close to Earth’s surface, it accelerates downwards. The force of gravity acts on the object, pulling it towards the centre of Earth. Equally, the object pulls with the same force on Earth in the opposite direction. Not surprisingly, with small objects, the eect of the force on Earth is so small that you do not notice it.
+
+## Is the gravitational field strength ($g$) constant everywhere ?
+
+The acceleration due to gravity at Earth’s surface is given the symbol $g$ . The accepted value varies from place to place on the surface. For example, in Kuala Lumpur g is $9.776 \space ms^{-2}$ whereas in Stockholm it is $9.818 \space ms^{-2}$ . This is because Earth is not a perfect sphere (it is slightly flattened at the poles) and the densities of the rocks in dierent locations vary. The dierent tangential speeds of Earth at dierent latitudes also have an eect. It is better to buy gold by weight at the equator and sell it at the North Pole rather than the other way round—of course, buying by mass makes no dierence!
+
+>[!info] But for answering questions if the $g$ value is not specified use $g=9.81\space ms^{-2}$ 
+
+## Acceleration under gravity
+
+### Example question: 
+
+In 2012, the Red Bull Stratos project set the record for the highest altitude parachute jump when Felix Baumgartner jumped from an altitude of almost 39 km. This record was subsequently broken by Alan Eustace in 2014.
+
+
+| $h \space/ m$ | $v\space/m^{-1}$ |
+| :-----------: | :--------------: |
+|     38965     |       6.7        |
+|     38960     |       11.4       |
+|     38955     |       14.4       |
+|     38949     |       18.3       |
+|     38945     |       20.3       |
+|     38940     |       21.7       |
+|     38936     |       23.6       |
+The table shows Baumgartner’s speed $v$ at dierent altitudes h above Earth’s surface.
+• Plot a graph of $v^2$ against $h$ • Find the gradient of the graph.
+• Deduce what the gradient represents.
+• The absolute uncertainty in the given speeds is ±$1 \space m s^{-1}$. Calculate the uncertainties in the values of $v^2$ and add error bars to your graph.
+• By considering the maximum and minimum gradients of your graph, deduce whether the data are consistent with an acceleration due to gravity of 9.8 $ms^{-2}$
+• When you have studied Topic D.1 you will be able to calculate the acceleration due to gravity g at an altitude of 39 km. Show that it is only about 1% lower than g at the surface of Earth.
+
+
+```desmos-graph
+   y=\sin(x)
+   y=\frac{1}{x}
+   [(1,2), (2,4)]
+```
+
+
+
