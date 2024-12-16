@@ -279,26 +279,27 @@ In 2012, the Red Bull Stratos project set the record for the highest altitude pa
 
 
 |  $h \space/ m$ | $v\space/m^{-1}$ |
-| :-----------: | :--------------: |
-|     38965     |        6.7       |
-|     38960     |       11.4       |
-|     38955     |       14.4       |
-|     38949     |       18.3       |
-|     38945     |       20.3       |
-|     38940     |       21.7       |
-|     38936     |       23.6       |
+| :-----------:  | :--------------: |
+|     38965      |        6.7       |
+|     38960      |       11.4       |
+|     38955      |       14.4       |
+|     38949      |       18.3       |
+|     38945      |       20.3       |
+|     38940      |       21.7       |
+|     38936      |       23.6       |
+|                |                  |
 
 The table shows Baumgartner’s speed $v$ at different altitudes h above Earth’s surface.
 
-• Plot a graph of $v^2$ against $h$ 
-• Find the gradient of the graph.
-• Deduce what the gradient represents. (Hint: use $v^2 = u^2 + 2as$.)
+- Plot a graph of $v^2$ against $h$ 
+- Find the gradient of the graph.
+- Deduce what the gradient represents. (Hint: use $v^2 = u^2 + 2as$.)
 
-•The absolute uncertainty in the given speeds is ±$1 \space m s^{-1}$. Calculate the uncertainties in the values of $v^2$ and add error bars to your graph.
+-The absolute uncertainty in the given speeds is ±$1 \space m s^{-1}$. Calculate the uncertainties in the values of $v^2$ and add error bars to your graph.
 
-• By considering the maximum and minimum gradients of your graph, deduce whether the data are consistent with an acceleration due to gravity of 9.8 $ms^{-2}$
+- By considering the maximum and minimum gradients of your graph, deduce whether the data are consistent with an acceleration due to gravity of 9.8 $ms^{-2}$
 
-• When you have studied Topic D.1 you will be able to calculate the acceleration due to gravity g at an altitude of 39 km. Show that it is only about 1% lower than g at the surface of Earth.
+- When you have studied Topic D.1 you will be able to calculate the acceleration due to gravity g at an altitude of 39 km. Show that it is only about 1% lower than g at the surface of Earth.
 
 | $h \space/ m$ | $v\space/m^{-1}$ | $v^2 \space/m^{-2}$ |
 | :-----------: | :--------------: | :-----------------: |
