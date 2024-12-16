@@ -41,20 +41,17 @@ tags:
 > - Entrepreneurs must be able to make decisions that will determine the **Success or failure of their business**
 > <br>
 >- E.g: A restaurant owner may need to decide what type of food to serve, where to locate the restaurant, and **what prices to charge.** These decisions require a combination of market research, creativity, and business skill
-> <br></br>
+> <br>
 > - Making the wrong decision can lead to ==wasted resource==, ==lost opportunities== and **ultimately business failure.**
 
 >[!correct] They take risks
 >- Entrepreneurship involves taking risks - financial, personal, or professional.
-> 
-><br></br>
 >- They make also take risks by **introducing new products** or entering new markets
-><Br></Br>
 >- These risks can pay off with great rewards, but they can also lead to failure and financial loss
 >
->
 
 
 
 
-![[BM Figure 1.1 - The production process.excalidraw|100%]]
+
+![[BM Figure 1.1 - The production process.excalidraw.svg|100%]]
