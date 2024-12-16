@@ -67,19 +67,19 @@ tags:
 
 >[!info] Speed
 > - Speed is the rate at which an object travels a **distance over time**
-> - Si unit is ==$ms^{-1}$==.
+> - Si unit is $ms^{-1}$.
 > - Speed is a **scalar** quantity
 > - Speed can be found by taking the gradient of a distance-time graph
-> - Speed is denoted by ==" _$v$_ "== (italics)
+> - Speed is denoted by " $v$ " (italics)
 > <br>
 > $Speed = \dfrac{\triangle distance }{\triangle time}$
 
 >[!info] Velocity
 >- Velocity is the rate at which an object changes its **displacement over time**.
->- Si unit is ==$ms^{-1}$==.
+>- Si unit is $ms^{-1}$.
 >- Velocity is a **vector** quantity.
 >- Velocity can be found by taking the gradient of a displacement-time graph
->- Speed is denoted by ==" __$v$__ "== (bold)
+>- Speed is denoted by " $v$" (bold)
 ><br>
 >$veloctiy = \dfrac{ds}{dt}$
 
@@ -126,10 +126,10 @@ tags:
 >[!info] Acceleration
 >
 >- Acceleration is the rate at which an object changes its **velocity over time**.
->- Si unit is ==$ms^{-2}$==.
+>- Si unit is $ms^{-2}$.
 >- Acceleration is a **vector** quantity.
 >- Acceleration can be found by taking the gradient of a Velocity time graph
->- Speed is denoted by ==" $a$ "==
+>- Speed is denoted by " $a$ "
 ><br>
 >$acceleration = \dfrac{d^2s}{dt^2} \space or \space \dfrac{velocity}{time \space taken}$
 
