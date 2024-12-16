@@ -263,35 +263,41 @@ $\Large{v^2 - u^2 = 2as \space\space\rightarrow \text{Equation 5}}$
 
 Watch a dog catching a ball thrown high into the air. It is a remarkable feat of coordination by the animal. What is the physics of the motion? The ball is moving in two dimensions, and it is subject to the vertical acceleration of gravity and the deceleration of air resistance. How do physicists treat this complex situation? The trick they use is to split it up into horizontal and vertical components.
 
-When an object is released close to Earth’s surface, it accelerates downwards. The force of gravity acts on the object, pulling it towards the centre of Earth. Equally, the object pulls with the same force on Earth in the opposite direction. Not surprisingly, with small objects, the eect of the force on Earth is so small that you do not notice it.
+When an object is released close to Earth’s surface, it accelerates downwards. The force of gravity acts on the object, pulling it towards the centre of Earth. Equally, the object pulls with the same force on Earth in the opposite direction. Not surprisingly, with small objects, the effect of the force on Earth is so small that you do not notice it.
 
 ## Is the gravitational field strength ($g$) constant everywhere ?
 
-The acceleration due to gravity at Earth’s surface is given the symbol $g$ . The accepted value varies from place to place on the surface. For example, in Kuala Lumpur g is $9.776 \space ms^{-2}$ whereas in Stockholm it is $9.818 \space ms^{-2}$ . This is because Earth is not a perfect sphere (it is slightly flattened at the poles) and the densities of the rocks in dierent locations vary. The dierent tangential speeds of Earth at dierent latitudes also have an eect. It is better to buy gold by weight at the equator and sell it at the North Pole rather than the other way round—of course, buying by mass makes no dierence!
+The acceleration due to gravity at Earth’s surface is given the symbol $g$ . The accepted value varies from place to place on the surface. For example, in Kuala Lumpur g is $9.776 \space ms^{-2}$ whereas in Stockholm it is $9.818 \space ms^{-2}$ . This is because Earth is not a perfect sphere (it is slightly flattened at the poles) and the densities of the rocks in different locations vary. The different tangential speeds of Earth at different latitudes also have an effect. It is better to buy gold by weight at the equator and sell it at the North Pole rather than the other way round—of course, buying by mass makes no difference!
 
 >[!info] But for answering questions if the $g$ value is not specified use $g=9.81\space ms^{-2}$ 
 
 ## Acceleration under gravity
 
-### Example question: 
+### Example question (Incomplete: requires clarification): 
 
 In 2012, the Red Bull Stratos project set the record for the highest altitude parachute jump when Felix Baumgartner jumped from an altitude of almost 39 km. This record was subsequently broken by Alan Eustace in 2014.
 
 
-| $h \space/ m$ | $v\space/m^{-1}$ |
+|  $h \space/ m$ | $v\space/m^{-1}$ |
 | :-----------: | :--------------: |
-|     38965     |       6.7        |
+|     38965     |        6.7       |
 |     38960     |       11.4       |
 |     38955     |       14.4       |
 |     38949     |       18.3       |
 |     38945     |       20.3       |
 |     38940     |       21.7       |
 |     38936     |       23.6       |
-The table shows Baumgartner’s speed $v$ at dierent altitudes h above Earth’s surface.
-• Plot a graph of $v^2$ against $h$ • Find the gradient of the graph.
-• Deduce what the gradient represents.
-• The absolute uncertainty in the given speeds is ±$1 \space m s^{-1}$. Calculate the uncertainties in the values of $v^2$ and add error bars to your graph.
+
+The table shows Baumgartner’s speed $v$ at different altitudes h above Earth’s surface.
+
+• Plot a graph of $v^2$ against $h$ 
+• Find the gradient of the graph.
+• Deduce what the gradient represents. (Hint: use $v^2 = u^2 + 2as$.)
+
+•The absolute uncertainty in the given speeds is ±$1 \space m s^{-1}$. Calculate the uncertainties in the values of $v^2$ and add error bars to your graph.
+
 • By considering the maximum and minimum gradients of your graph, deduce whether the data are consistent with an acceleration due to gravity of 9.8 $ms^{-2}$
+
 • When you have studied Topic D.1 you will be able to calculate the acceleration due to gravity g at an altitude of 39 km. Show that it is only about 1% lower than g at the surface of Earth.
 
 | $h \space/ m$ | $v\space/m^{-1}$ | $v^2 \space/m^{-2}$ |
@@ -304,4 +310,49 @@ The table shows Baumgartner’s speed $v$ at dierent altitudes h above Earth�
 |     38940     |       21.7       |       470.89        |
 |     38936     |       23.6       |       556.96        |
 
-<iframe src="https://www.desmos.com/calculator/kswckr6lnt?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>
+
+<iframe src="https://www.desmos.com/calculator/9pryrjuxmx?embed" width="100%" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>graph of $v^2$ against $h$
+
+$v^2 = u^2 + 2as$ => $v^2 = 2a(h) + u^2$
+
+gradient ($2a$) = $-17.7 \space ms^{-2}$
+
+$2a = -17.7 \space ms^{-2}$
+$\space\space  a = -8.8 \space\space\space ms^{-2}$
+
+Y-intercept ($u^2$)= $689580 \space m^2s^{-2}$
+
+$u^2 = 689580 \space m^2s^{-2}$
+$u\space = 830.4 \space ms^{-1}$  --> actually in this case it is the final speed
+
+## Projectile motion in two-dimensions
+
+![[Pasted image 20241216171204.png|400]]
+A baseball is thrown vertically upwards with an initial speed $u$. Gravity acts on the baseball from the moment of its release, slowing it down until it stops for an instant at the top of its motion. Gravity continues to act and the baseball now accelerates downwards to reach the ground with the same speed at which it was released. Without air resistance, the displacement–time graph would look like Figure 1 below. The ball goes vertically up and then down to land in the same spot from which it was projected. The path in the air is called the trajectory and is a vertical line up and down for this case.
+
+A distance–time graph would look dierent (Figure 2). It gives similar information but without the direction part of the displacement and velocity vectors. Make sure that you understand the dierence between these graphs.
+
+
+|                   Displacement-time graph                   |                        Distance-time graph                         |
+| :---------------------------------------------------------: | :----------------------------------------------------------------: |
+| ![[{D1A7F92B-AA85-4653-B48B-1144202385C7}.png]]<br>figure 1 | ![[{874E6162-6009-4741-85EC-8CEB30AE1C01}.png\|250px]]<br>figure 2 |
+
+
+|               Velocity-time graph               |                Speed-time graph                 |
+| :---------------------------------------------: | :---------------------------------------------: |
+| ![[{5F846B84-1B35-4A2B-A80F-40B6E11ADEEF}.png]] | ![[{9F8C94D7-3E19-43D7-9E2B-3693C9F5F95C}.png]] |
+
+### Suvat Equation Analyses
+
+The suvat equations introduced earlier can be used to analyse this motion. The initial vertical speed is u, the time to reach the highest point is T, the maximum height is H and the acceleration of the ball is –g; g has a negative sign because upwards is the positive direction. As the acceleration due to gravity is downwards, g must have the opposite, that is, negative, sign. 
+
+The kinematic equations are printed again but with differences to reflect the vertical motion to the highest point:
+
+
+|     |     |
+| --- | --- |
+|     |     |
+
+
+
+
