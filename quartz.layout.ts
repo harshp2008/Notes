@@ -9,19 +9,16 @@ export const sharedPageComponents: SharedLayout = {
     Component.Comments({
       provider: 'giscus',
       options: {
-        // from data-repo
-        repo: 'harshp2008/Notes',
-        // from data-repo-id
-        repoId: 'R_kgDONbjX7g',
-        // from data-category
-        category: 'Announcements',
-        // from data-category-id
-        categoryId: 'DIC_kwDONbjX7s4ClQNU',
-        
+        repo:"harshp2008/Notes",
+        repoId:"R_kgDONbjX7g",
+        category:"Announcements",
+        categoryId:"DIC_kwDONbjX7s4ClQNU",
 
-        lightTheme: "light-theme", // corresponds to light-theme.css in quartz/static/giscus/
-        darkTheme: "dark-theme", // corresponds to dark-theme.css quartz/static/giscus/
-      }
+        inputPosition: "bottom",
+        reactionsEnabled: true,
+        strict: true,
+        mapping: "url",
+ }
     }),
   ],
   footer: Component.Footer({
