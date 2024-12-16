@@ -189,11 +189,72 @@ Kinematic equations are sets of 5 equations that show the relation between 5 var
 
 ## Kinematic Equations
 
-| <center>Equations                                                                                                                                                                | <center>Suvat Definitions                                                                                                                                                                                                                                 |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| $\Large{v = u + at}$<br><br>$\Large{v^2 = u^2 + 2as}$<br><br>$\Large{s = ut + \frac{1}{2}at^2}$<br><br>$\Large{s = vt - \frac{1}{2}at^2}$<br><br>$\Large{s = \frac{1}{2}(u+v)t}$ | $\Large{s \space-\space \text{displacement}}$<br><br>$\Large{s \space-\space \text{initial speed}}$<br><br>$\Large{v \space-\space \text{final speed}}$<br><br>$\Large{a \space-\space \text{acceleration}}$<br><br>$\Large{t \space-\space \text{time}}$ |
+| <center>Equations                                                                                                                                                                    | <center>Suvat Definitions                                                                                                                                                                                                                                 |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| $\Large{v = u + at}$<br><br>$\Large{s = \frac{1}{2}(u+v)t}$<br><br>$\Large{s = ut + \frac{1}{2}at^2}$<br><br>$\Large{s = vt - \frac{1}{2}at^2}$<br><br>$\Large{v^2 - u^2 = 2as}$<br> | $\Large{s \space-\space \text{displacement}}$<br><br>$\Large{s \space-\space \text{initial speed}}$<br><br>$\Large{v \space-\space \text{final speed}}$<br><br>$\Large{a \space-\space \text{acceleration}}$<br><br>$\Large{t \space-\space \text{time}}$ |
+|                                                                                                                                                                                      |                                                                                                                                                                                                                                                           |
 ## Deriving Suvat Equations (incomplete) [Extra]
 
+Suvat equations come from observing patterns in velocity-time graphs. Here is the velocity-time grap3h that bodies with uniform motion follows. 
+
 ![[suvat equation triangle.png]]
+
+Looking at the equation of the straight-line in the velocity graph above we can see: 
+
+$\Large{v = u + at} \space\space\rightarrow \text{Equation 1}$
+
+Given that the area under the curve is the displacement ($s$) and the the green triangle + yellow rectangle above adds up to that we can observe that:
+
+$\Large{s = ut + \frac{1}{2} * (v - u)t}$
+
+$\Large{s = t(u + \frac{1}{2} * v - \frac{1}{2}u)}$
+
+$\Large{s = t(\frac{1}{2} * u + \frac{1}{2}v)}$
+
+$\Large{s = \frac{1}{2}t(u + v)} \space\space\rightarrow \text{Equation 2}$
+
+Substituting **Equation 1** into **Equation 2** we get:
+
+$\Large{s = \frac{1}{2}t(u + \colorbox{yellow}{(u + at)})}$
+
+$\Large{s = \frac{1}{2}t(2u + at)}$
+
+$\Large{s = ut + \frac{1}{2}at} \space\space\rightarrow \text{Equation 3}$ 
+
+Rearranging **equation 1** in for u gives:
+
+$\Large{v = u + at}$
+
+$\Large{v - at = u}$
+
+$\Large{u = v - at}$
+
+and substituting that into **equation 2** gives :
+
+$\Large{s = \frac{1}{2}t(\colorbox{yellow}{(v - at)} + v)}$
+
+$\Large{s = \frac{1}{2}t(2v - at)}$
+
+$\Large{s = vt - \frac{1}{2}at} \space\space\rightarrow \text{Equation 4}$ 
+
+For the last equation we need to  **equation 1**  it 
+
+$\Large{v = u + at} \space\space\rightarrow \text{Equation 1}$
+
+$\Large{(v)^2 = (u + at)^2}$
+
+$\Large{v^2 = u^2 + 2(u)(at) + (at)^2}$
+
+Rearrange it!
+
+$\Large{v^2 - u^2 = 2a(ut) + a(at^2)}$
+
+$\Large{v^2 - u^2 = 2a[\space ut + \frac{1}{2}at^2\space]}$
+
+The text in the square brackets is exactly **equation 3**. We can substitute it into the equation above.
+
+$\Large{v^2 - u^2 = 2a[s]}$
+
+$\Large{v^2 - u^2 = 2as \space\space\rightarrow \text{Equation 5}}$
 
 # Motion with Gravity (Projectile Motion)
