@@ -192,7 +192,6 @@ Kinematic equations are sets of 5 equations that show the relation between 5 var
 | <center>Equations                                                                                                                                                                    | <center>Suvat Definitions                                                                                                                                                                                                                                 |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | $\Large{v = u + at}$<br><br>$\Large{s = \frac{1}{2}(u+v)t}$<br><br>$\Large{s = ut + \frac{1}{2}at^2}$<br><br>$\Large{s = vt - \frac{1}{2}at^2}$<br><br>$\Large{v^2 - u^2 = 2as}$<br> | $\Large{s \space-\space \text{displacement}}$<br><br>$\Large{s \space-\space \text{initial speed}}$<br><br>$\Large{v \space-\space \text{final speed}}$<br><br>$\Large{a \space-\space \text{acceleration}}$<br><br>$\Large{t \space-\space \text{time}}$ |
-|                                                                                                                                                                                      |                                                                                                                                                                                                                                                           |
 ## Deriving Suvat Equations (incomplete) [Extra]
 
 Suvat equations come from observing patterns in velocity-time graphs. Here is the velocity-time grap3h that bodies with uniform motion follows. 
@@ -271,68 +270,15 @@ The acceleration due to gravity at Earth’s surface is given the symbol $g$ . T
 
 >[!info] But for answering questions if the $g$ value is not specified use $g=9.81\space ms^{-2}$ 
 
-## Acceleration under gravity
+## Acceleration Under Gravity
 
-### Example question (Incomplete: requires clarification): 
-
-In 2012, the Red Bull Stratos project set the record for the highest altitude parachute jump when Felix Baumgartner jumped from an altitude of almost 39 km. This record was subsequently broken by Alan Eustace in 2014.
-
-
-|  $h \space/ m$ | $v\space/m^{-1}$ |
-| :-----------:  | :--------------: |
-|     38965      |        6.7       |
-|     38960      |       11.4       |
-|     38955      |       14.4       |
-|     38949      |       18.3       |
-|     38945      |       20.3       |
-|     38940      |       21.7       |
-|     38936      |       23.6       |
-|                |                  |
-
-The table shows Baumgartner’s speed $v$ at different altitudes h above Earth’s surface.
-
-- Plot a graph of $v^2$ against $h$ 
-- Find the gradient of the graph.
-- Deduce what the gradient represents. (Hint: use $v^2 = u^2 + 2as$.)
-
--The absolute uncertainty in the given speeds is ±$1 \space m s^{-1}$. Calculate the uncertainties in the values of $v^2$ and add error bars to your graph.
-
-- By considering the maximum and minimum gradients of your graph, deduce whether the data are consistent with an acceleration due to gravity of 9.8 $ms^{-2}$
-
-- When you have studied Topic D.1 you will be able to calculate the acceleration due to gravity g at an altitude of 39 km. Show that it is only about 1% lower than g at the surface of Earth.
-
-| $h \space/ m$ | $v\space/m^{-1}$ | $v^2 \space/m^{-2}$ |
-| :-----------: | :--------------: | :-----------------: |
-|     38965     |       6.7        |        44.89        |
-|     38960     |       11.4       |       129.96        |
-|     38955     |       14.4       |       207.36        |
-|     38949     |       18.3       |       334.89        |
-|     38945     |       20.3       |       412.09        |
-|     38940     |       21.7       |       470.89        |
-|     38936     |       23.6       |       556.96        |
-
-
-<iframe src="https://www.desmos.com/calculator/9pryrjuxmx?embed" width="100%" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>graph of $v^2$ against $h$
-
-$v^2 = u^2 + 2as$ => $v^2 = 2a(h) + u^2$
-
-gradient ($2a$) = $-17.7 \space ms^{-2}$
-
-$2a = -17.7 \space ms^{-2}$
-$\space\space  a = -8.8 \space\space\space ms^{-2}$
-
-Y-intercept ($u^2$)= $689580 \space m^2s^{-2}$
-
-$u^2 = 689580 \space m^2s^{-2}$
-$u\space = 830.4 \space ms^{-1}$  --> actually in this case it is the final speed
-
-## Projectile motion in two-dimensions
+[[A.1 - junk 1]]
 
 ![[Pasted image 20241216171204.png|400]]
+
 A baseball is thrown vertically upwards with an initial speed $u$. Gravity acts on the baseball from the moment of its release, slowing it down until it stops for an instant at the top of its motion. Gravity continues to act and the baseball now accelerates downwards to reach the ground with the same speed at which it was released. Without air resistance, the displacement–time graph would look like Figure 1 below. The ball goes vertically up and then down to land in the same spot from which it was projected. The path in the air is called the trajectory and is a vertical line up and down for this case.
 
 A distance–time graph would look dierent (Figure 2). It gives similar information but without the direction part of the displacement and velocity vectors. Make sure that you understand the dierence between these graphs.
-
 
 |                   Displacement-time graph                   |                        Distance-time graph                         |
 | :---------------------------------------------------------: | :----------------------------------------------------------------: |
@@ -349,11 +295,58 @@ The suvat equations introduced earlier can be used to analyse this motion. The i
 
 The kinematic equations are printed again but with differences to reflect the vertical motion to the highest point:
 
+>[!info] Here's a copy of the suvat equations
+>
+>| Equations                         |  Suvat Definitions                         |
+>| ---------------------------------- | ------------------------------------------------- |
+>| $\Large{v = u + at}$          | $\Large{s \space-\space \text{displacement}}$     |
+>| $\Large{s = \frac{1}{2}(u+v)t}$    | $\Large{u \space-\space \text{initial speed}}$    |
+>| $\Large{s = ut + \frac{1}{2}at^2}$ | $\Large{v \space-\space \text{final speed}}$      |
+>| $\Large{s = vt - \frac{1}{2}at^2}$ | $\Large{a \space-\space \text{acceleration}}$<br> |
+>| $\Large{v^2 - u^2 = 2as}$          | $\Large{t \space-\space \text{time}}$             |
 
-|     |     |
-| --- | --- |
-|     |     |
+>[!info] When the object is at maximum height (H) the vertical velocity = 0
+
+| <center>Equations</center>        | <center>Derived from</center>      |
+| --------------------------------- | ---------------------------------- |
+| $\Large{T = \dfrac{u}{g}}$        | $\Large{v = u + at}$               |
+| $\Large{H = uT -\frac{1}{2}gT^2}$ | $\Large{s = ut + \frac{1}{2}at^2}$ |
+| $\Large{H = \dfrac{u^2}{2g}}$     | $\Large{v^2 - u^2 = 2as}$          |
+>[!tip] TIP : the time taken for an object to be thrown up vertically and come back down to its same height from where it was thrown from is:
+>$\large{Time\space taken = 2T = \dfrac{2u}{g}}$ 
+
+### Worked Examples
+
+>[!example] Example Question 1:
+>
+A student drops a stone from rest at the top of a well. She hears the stone splash into the water at the bottom of the well $2.3 \space s$ after releasing the stone. Ignore the time taken for the sound to reach the student from the bottom of the well. The acceleration due to gravity $g$ is $9.8 \space ms^{-2}$ . 
+>1. Calculate the depth of the well.
+>2. Calculate the speed at which the stone hits the water surface. 
+>3. Explain why the time taken for the sound to reach the student can be ignored
+
+>[!solution] Solution:
+>1. $\large{u = 0;\space t=2.3\space s}$
+>	$\large{s = ut + \frac{1}{2}at^2}$
+>	$\large{s = 0 + \frac{1}{2} \times 9.8 \times 2.3^2}$ 
+>	$\large{s=26\space m}$
+><br>
+>1. $\large{v = u + at}$
+>   $\large{v = 0 + 9.8 \times 2.3}$
+>   $\large{v = 23 \space ms^{-1}}$
+>   <br>
+> 1. The speed of sound is about $300 \space ms^{-1}$  and so the time to travel about $25 \space m$ is about $0.08 \space s$. This is only about 4% of the time taken for the stone to fall.
+
+>[!Example] Example Question 2
+> A hot-air balloon is rising vertically at a constant speed of $5.0 \space ms^{-1}$ . A small object is released from rest relative to the balloon when the balloon is $30 \space m$ above the ground. Calculate: 
+> 
+> 1. the maximum height of the object above the ground
+> 2. the time taken to reach the maximum height 
+> 3. the total time taken for the object to reach the ground.
+
+>[!solution] Solution (incomplete):
+>1. The object is moving upwards at $+\space 5.0 \space ms^{-1}$ when it is released. The acceleration due to gravity is $- \space 9.8\space ms^{-2}$ .
+>   
+>   So $u = +\space 5.0 \space ms^{-1}$ and $a =- \space 9.8\space ms^{-2}$
 
 
-
-
+## Projectile motion in two-dimensions
