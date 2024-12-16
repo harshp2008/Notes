@@ -294,12 +294,14 @@ The table shows Baumgartner’s speed $v$ at dierent altitudes h above Earth�
 • By considering the maximum and minimum gradients of your graph, deduce whether the data are consistent with an acceleration due to gravity of 9.8 $ms^{-2}$
 • When you have studied Topic D.1 you will be able to calculate the acceleration due to gravity g at an altitude of 39 km. Show that it is only about 1% lower than g at the surface of Earth.
 
+| $h \space/ m$ | $v\space/m^{-1}$ | $v^2 \space/m^{-2}$ |
+| :-----------: | :--------------: | :-----------------: |
+|     38965     |       6.7        |        44.89        |
+|     38960     |       11.4       |       129.96        |
+|     38955     |       14.4       |       207.36        |
+|     38949     |       18.3       |       334.89        |
+|     38945     |       20.3       |       412.09        |
+|     38940     |       21.7       |       470.89        |
+|     38936     |       23.6       |       556.96        |
 
-```desmos-graph
-   y=\sin(x)
-   y=\frac{1}{x}
-   [(1,2), (2,4)]
-```
-
-
-
+<iframe src="https://www.desmos.com/calculator/kswckr6lnt?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>
