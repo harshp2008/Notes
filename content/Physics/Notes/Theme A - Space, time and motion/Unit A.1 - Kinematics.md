@@ -72,7 +72,7 @@ tags:
 > - Speed can be found by taking the gradient of a distance-time graph
 > - Speed is denoted by " $v$ " (italics)
 > <br>
-> $Speed = \dfrac{\triangle distance }{\triangle time}$
+> $\large{Speed = \dfrac{\triangle distance }{\triangle time}}$
 
 >[!info] Velocity
 >- Velocity is the rate at which an object changes its **displacement over time**.
@@ -81,7 +81,7 @@ tags:
 >- Velocity can be found by taking the gradient of a displacement-time graph
 >- Speed is denoted by " $v$" (bold)
 ><br>
->$veloctiy = \dfrac{ds}{dt}$
+>$\large{veloctiy = \dfrac{ds}{dt}}$
 
 ![[Speed vs Velocity.png]]
 
@@ -93,16 +93,16 @@ tags:
 >- Average speed is **always positive** and ==doesn't indicate the direction of motion==.
 >- Can be found by taking the  area under a d-t graph and dividing by the time
 ><br>
->- $Average \space Speed = \dfrac{total \space distance}{time}$
+>- $\large{Average \space Speed = \dfrac{total \space distance}{time}}$
 
 >[!info] Average Velocity
 >-  Average velocity is the displacement divided by the time.
 >- Average Speed is a **vector**.
 >- Can be found by taking the  area under a s-t graph and dividing by the time
 ><br>
->- $Average \space Velocity = \dfrac{displacement}{time} = \dfrac{\triangle \space position}{\triangle \space time}$
+>- $\large{Average \space Velocity = \dfrac{displacement}{time} = \dfrac{\triangle \space position}{\triangle \space time}}$
 ><br>
->- $Average \space Velocity = \dfrac{\triangle x_{final} - \triangle x_{initial}}{\triangle t_{final} - \triangle t_{initial}}$
+>- $\large{Average \space Velocity = \dfrac{\triangle x_{final} - \triangle x_{initial}}{\triangle t_{final} - \triangle t_{initial}}}$
 
 #### Instantaneous Speed vs Velocity
 
@@ -111,14 +111,14 @@ tags:
 >- Instantaneous Speed is a **scalar**.
 >- can be found by taking the gradient at a specific time value in a d-t graph
 ><br>
->- $Instantaneous \space Speed = \dfrac{distance \space travelled \space at \space time \space t}{t}$
+>- $\large{Instantaneous \space Speed = \dfrac{distance \space travelled \space at \space time \space t}{t}}$
 
 >[!info] Instantaneous Velocity
 >-  Instantaneous speed is ==the velocity of an object at a specific moment in time==
 >- Instantaneous Speed is a **vector**.
 >- can be found by taking the gradient at a specific time value in a s-t graph
 ><br>
->- $Instantaneous \space Velocity = \dfrac{displacement \space at \space t=T }{T}$
+>- $\large{Instantaneous \space Velocity = \dfrac{displacement \space at \space t=T }{T}}$
 
 
 ### Acceleration
@@ -131,14 +131,14 @@ tags:
 >- Acceleration can be found by taking the gradient of a Velocity time graph
 >- Speed is denoted by " $a$ "
 ><br>
->$acceleration = \dfrac{d^2s}{dt^2} \space or \space \dfrac{velocity}{time \space taken}$
+>$\large{acceleration = \dfrac{d^2s}{dt^2} \space or \space \dfrac{velocity}{time \space taken}}$
 
 >[!info] Average Acceleration
 >-  Average velocity is the **overall velocity over the time period**.
 >- Average acceleration is a **vector**.
 >- Can be found by taking the  area under a v-t graph and dividing by the time
 ><br>
->- $Average \space acceleration = \dfrac{\triangle \space Velocity}{\triangle \space time} = \dfrac{\triangle v - \triangle u}{\triangle t_{2} - \triangle t_{1}}$
+>- $\large{Average \space acceleration = \dfrac{\triangle \space Velocity}{\triangle \space time} = \dfrac{\triangle v - \triangle u}{\triangle t_{2} - \triangle t_{1}}}$
 #### Instantaneous acceleration
 
 >[!info] Instantaneous acceleration
@@ -146,7 +146,7 @@ tags:
 >- Instantaneous acceleration is a **vector**.
 >- can be found by taking the gradient at a specific time value in a v-t graph
 ><br>
->- $Instantaneous \space acceleration = \dfrac{Velocity \space at \space t=T }{T}$
+>- $\large{Instantaneous \space acceleration = \dfrac{Velocity \space at \space t=T }{T}}$
 
 ## Analysing Graphs (Incomplete)
 
@@ -191,7 +191,7 @@ Kinematic equations are sets of 5 equations that show the relation between 5 var
 
 | <center>Equations                                                                                                                                                                    | <center>Suvat Definitions                                                                                                                                                                                                                                 |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| $\Large{v = u + at}$<br><br>$\Large{s = \frac{1}{2}(u+v)t}$<br><br>$\Large{s = ut + \frac{1}{2}at^2}$<br><br>$\Large{s = vt - \frac{1}{2}at^2}$<br><br>$\Large{v^2 - u^2 = 2as}$<br> | $\Large{s \space-\space \text{displacement}}$<br><br>$\Large{s \space-\space \text{initial speed}}$<br><br>$\Large{v \space-\space \text{final speed}}$<br><br>$\Large{a \space-\space \text{acceleration}}$<br><br>$\Large{t \space-\space \text{time}}$ |
+| $\large{v = u + at}$<br><br>$\large{s = \frac{1}{2}(u+v)t}$<br><br>$\large{s = ut + \frac{1}{2}at^2}$<br><br>$\large{s = vt - \frac{1}{2}at^2}$<br><br>$\large{v^2 - u^2 = 2as}$<br> | $\large{s \space-\space \text{displacement}}$<br><br>$\large{s \space-\space \text{initial speed}}$<br><br>$\large{v \space-\space \text{final speed}}$<br><br>$\large{a \space-\space \text{acceleration}}$<br><br>$\large{t \space-\space \text{time}}$ |
 ## Deriving Suvat Equations (incomplete) [Extra]
 
 Suvat equations come from observing patterns in velocity-time graphs. Here is the velocity-time grap3h that bodies with uniform motion follows. 
@@ -200,61 +200,61 @@ Suvat equations come from observing patterns in velocity-time graphs. Here is th
 
 Looking at the equation of the straight-line in the velocity graph above we can see: 
 
-$\Large{v = u + at} \space\space\rightarrow \text{Equation 1}$
+$\large{v = u + at} \space\space\rightarrow \text{Equation 1}$
 
 Given that the area under the curve is the displacement ($s$) and the the green triangle + yellow rectangle above adds up to that we can observe that:
 
-$\Large{s = ut + \frac{1}{2} * (v - u)t}$
+$\large{s = ut + \frac{1}{2} * (v - u)t}$
 
-$\Large{s = t(u + \frac{1}{2} * v - \frac{1}{2}u)}$
+$\large{s = t(u + \frac{1}{2} * v - \frac{1}{2}u)}$
 
-$\Large{s = t(\frac{1}{2} * u + \frac{1}{2}v)}$
+$\large{s = t(\frac{1}{2} * u + \frac{1}{2}v)}$
 
-$\Large{s = \frac{1}{2}t(u + v)} \space\space\rightarrow \text{Equation 2}$
+$\large{s = \frac{1}{2}t(u + v)} \space\space\rightarrow \text{Equation 2}$
 
 Substituting **Equation 1** into **Equation 2** we get:
 
-$\Large{s = \frac{1}{2}t(u + [\space u + at \space])}$
+$\large{s = \frac{1}{2}t(u + [\space u + at \space])}$
 
-$\Large{s = \frac{1}{2}t(2u + at)}$
+$\large{s = \frac{1}{2}t(2u + at)}$
 
-$\Large{s = ut + \frac{1}{2}at} \space\space\rightarrow \text{Equation 3}$ 
+$\large{s = ut + \frac{1}{2}at} \space\space\rightarrow \text{Equation 3}$ 
 
 Rearranging **equation 1** in for u gives:
 
-$\Large{v = u + at}$
+$\large{v = u + at}$
 
-$\Large{v - at = u}$
+$\large{v - at = u}$
 
-$\Large{u = v - at}$
+$\large{u = v - at}$
 
 and substituting that into **equation 2** gives :
 
-$\Large{s = \frac{1}{2}t([\space v - at \space] + v)}$
+$\large{s = \frac{1}{2}t([\space v - at \space] + v)}$
 
-$\Large{s = \frac{1}{2}t(2v - at)}$
+$\large{s = \frac{1}{2}t(2v - at)}$
 
-$\Large{s = vt - \frac{1}{2}at} \space\space\rightarrow \text{Equation 4}$ 
+$\large{s = vt - \frac{1}{2}at} \space\space\rightarrow \text{Equation 4}$ 
 
 For the last equation we need to  **equation 1**  it 
 
-$\Large{v = u + at} \space\space\rightarrow \text{Equation 1}$
+$\large{v = u + at} \space\space\rightarrow \text{Equation 1}$
 
-$\Large{(v)^2 = (u + at)^2}$
+$\large{(v)^2 = (u + at)^2}$
 
-$\Large{v^2 = u^2 + 2(u)(at) + (at)^2}$
+$\large{v^2 = u^2 + 2(u)(at) + (at)^2}$
 
 Rearrange it!
 
-$\Large{v^2 - u^2 = 2a(ut) + a(at^2)}$
+$\large{v^2 - u^2 = 2a(ut) + a(at^2)}$
 
-$\Large{v^2 - u^2 = 2a[\space ut + \frac{1}{2}at^2\space]}$
+$\large{v^2 - u^2 = 2a[\space ut + \frac{1}{2}at^2\space]}$
 
 The text in the square brackets is exactly **equation 3**. We can substitute it into the equation above.
 
-$\Large{v^2 - u^2 = 2a[s]}$
+$\large{v^2 - u^2 = 2a[s]}$
 
-$\Large{v^2 - u^2 = 2as \space\space\rightarrow \text{Equation 5}}$
+$\large{v^2 - u^2 = 2as \space\space\rightarrow \text{Equation 5}}$
 
 # Motion with Gravity (Projectile Motion)
 
@@ -299,19 +299,19 @@ The kinematic equations are printed again but with differences to reflect the ve
 >
 >| Equations                         |  Suvat Definitions                         |
 >| ---------------------------------- | ------------------------------------------------- |
->| $\Large{v = u + at}$          | $\Large{s \space-\space \text{displacement}}$     |
->| $\Large{s = \frac{1}{2}(u+v)t}$    | $\Large{u \space-\space \text{initial speed}}$    |
->| $\Large{s = ut + \frac{1}{2}at^2}$ | $\Large{v \space-\space \text{final speed}}$      |
->| $\Large{s = vt - \frac{1}{2}at^2}$ | $\Large{a \space-\space \text{acceleration}}$<br> |
->| $\Large{v^2 - u^2 = 2as}$          | $\Large{t \space-\space \text{time}}$             |
+>| $\large{v = u + at}$          | $\large{s \space-\space \text{displacement}}$     |
+>| $\large{s = \frac{1}{2}(u+v)t}$    | $\large{u \space-\space \text{initial speed}}$    |
+>| $\large{s = ut + \frac{1}{2}at^2}$ | $\large{v \space-\space \text{final speed}}$      |
+>| $\large{s = vt - \frac{1}{2}at^2}$ | $\large{a \space-\space \text{acceleration}}$<br> |
+>| $\large{v^2 - u^2 = 2as}$          | $\large{t \space-\space \text{time}}$             |
 
 >[!info] When the object is at maximum height (H) the vertical velocity = 0
 
 | <center>Equations</center>        | <center>Derived from</center>      |
 | --------------------------------- | ---------------------------------- |
-| $\Large{T = \dfrac{u}{g}}$        | $\Large{v = u + at}$               |
-| $\Large{H = uT -\frac{1}{2}gT^2}$ | $\Large{s = ut + \frac{1}{2}at^2}$ |
-| $\Large{H = \dfrac{u^2}{2g}}$     | $\Large{v^2 - u^2 = 2as}$          |
+| $\large{T = \dfrac{u}{g}}$        | $\large{v = u + at}$               |
+| $\large{H = uT -\frac{1}{2}gT^2}$ | $\large{s = ut + \frac{1}{2}at^2}$ |
+| $\large{H = \dfrac{u^2}{2g}}$     | $\large{v^2 - u^2 = 2as}$          |
 >[!tip] TIP : the time taken for an object to be thrown up vertically and come back down to its same height from where it was thrown from is:
 >$\large{Time\space taken = 2T = \dfrac{2u}{g}}$ 
 
