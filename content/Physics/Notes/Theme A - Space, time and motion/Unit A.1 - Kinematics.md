@@ -464,8 +464,9 @@ Given that an object is travelling with a velocity of $50 \space ms^{-1}$ on a b
 >It takes approximately$-4.62 \space s$  for the object to reach the vertical velocity of $5 \space ms^{-2}$
 
 ---
-<center>WORK IN PROGRESS FROM THIS POINT FORWARD
----
+
+<h1><center>WORK IN PROGRESS FROM THIS POINT FORWARD</center><h1>
+
 ---
 Let's understand Projectile motion by taking a simple example, a stone being thrown straight of a cliff. Here we consider air resistance to be negligible.
 
