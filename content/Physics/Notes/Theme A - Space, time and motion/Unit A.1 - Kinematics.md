@@ -358,7 +358,7 @@ A student drops a stone from rest at the top of a well. She hears the stone spla
 > 3. the total time taken for the object to reach the ground.
 
 >[!solution] Solution:
->![[A.1-worked example 1.excalidraw.svg]]
+>![[A.1 - worked example 1.svg]]
 >
 >The object is moving upwards at $+\space 5.0 \space ms^{-1}$ when it is released. The acceleration due to gravity is $- \space 9.8\space ms^{-2}$ . The speed at max height is 0, thus we can take $v = 0 \space ms^{-2}$. and the time taken to reach max height is denoted by "$\space T\space$"
 >
@@ -371,11 +371,12 @@ A student drops a stone from rest at the top of a well. She hears the stone spla
 >$H = \dfrac{(5.0)^2}{2(9.8)}$
 >
 >$H = +1.28 \space m$
-><br>
 >
+><br>
+> 
 ><u>Part 2</u>
 >
- Using $T = \dfrac{u}{g}$,
+ >Using $T = \dfrac{u}{g}$,
  >
 > $T = \dfrac{5.0}{9.8}$
 > 
@@ -404,7 +405,80 @@ A student drops a stone from rest at the top of a well. She hears the stone spla
 > Notice that, in this example, if you carry the signs through consistently, they give you information about the motion of the object.
 
 
+
+
+
 ## Projectile motion in two-dimensions
+
+### Introduction to 2 Dimensional Motion
+
+**Motion in two different perpendicular directions are non-independant of each other**, i.e if the speed in x-axis is $3\space ms^{-1}$ and speed in y-axis is $6\space ms^{-1}$, then we can treat both of them as different and apply kinematic laws individually to both. This makes understanding motion of objects much easier.  
+
+For questions where the x-axis, y-axis values are not explicitly given and a angle is given instead, we can split the x and y components of it and solve it. This is called as resolutions of vector.
+
+![[Resolution-of-Vector.jpg]]
+
+Given a vector with a magnitude $R$ and an angle $\theta$ we can resolute the vector:
+
+$\large{R_x=R\cos\theta}$
+
+$\large{R_y=R\sin\theta}$
+
+>[!tip] Resolute Vectors with Bearing  
+>given a vector with a magnitude $u$ with a bearing $\theta \degree$, the vector can resolute into it's components.
+>
+>![[A.1 - Resolute Vectors with Bearing.svg]]
+>
+>$\large{R_x=R\sin\theta}$
+>
+>$\large{R_y=R\cos\theta}$
+
+
+>[!example] Example Question
+Given that an object is travelling with a velocity of $50 \space ms^{-1}$ on a bearing of $300\degree$  and has acceleration of $5 \space ms^{-2}$ on a bearing of $30\degree$ which is  slowing it down. Find the time it takes for the object's vertical velocity to be $5\space ms^{-1}$.
+
+>[!solution] Solution
+>
+><font color="#c00000">Resolute the Speed vector</font>
+>
+>$\large{u_x=50\sin(300\degree)} = -\space25\sqrt{3}$
+>
+>$\large{u_y=50\cos(300\degree)} = 25$
+>
+><font color="#c00000">Resolute the Acceleration vector</font>
+>
+>$\large{a_x=5\sin(30\degree)} = 2.5$
+>
+>$\large{a_y=5\cos(30\degree)} = \dfrac{5}{2}\sqrt{3}$
+>
+><font color="#c00000">Solve for $v_y = 0$ using ${v = u + at}$</font>
+>
+>${v_y = u_y + (a_y)t}$
+>
+>$5 =(\space25\space) + (\space\dfrac{5}{2}\sqrt{3}\space) \times t$
+>
+>$(\space\dfrac{5}{2}\sqrt{3}\space) \times t = -20$
+>
+>$t = -\dfrac{8 \sqrt3}{3} \space s\approx -4.62 \space s$
+>
+>It takes approximately$-4.62 \space s$  for the object to reach the vertical velocity of $5 \space ms^{-2}$
+
+---
+<center>WORK IN PROGRESS FROM THIS POINT FORWARD
+---
+---
+Let's understand Projectile motion by taking a simple example, a stone being thrown straight of a cliff. Here we consider air resistance to be negligible.
+
+![[A.1 - cliff example.svg]]
+
+
+
+let's go back to the example of a person trying to shooting a basketball in the hoop. Let's see try to mathematically calculate the range of the the throw and where it will hit and other useful features that we can discover from analysing the path.  
+
+
+
+Now, let's find the optimal path(s) that the ball can take so that it exactly goes in the hoop 
+
 
 
 
