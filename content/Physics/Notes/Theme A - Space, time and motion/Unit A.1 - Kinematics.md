@@ -325,12 +325,17 @@ A student drops a stone from rest at the top of a well. She hears the stone spla
 
 >[!solution] Solution:
 >1. ${u = 0;\space t=2.3\space s}$
+>	
 >	${s = ut + \frac{1}{2}at^2}$
+>	
 >	${s = 0 + \frac{1}{2} \times 9.8 \times 2.3^2}$ 
+>	
 >	${s=26\space m}$
 ><br>
 >1. ${v = u + at}$
+>   
 >   ${v = 0 + 9.8 \times 2.3}$
+>   
 >   ${v = 23 \space ms^{-1}}$
 >   <br>
 > 1. The speed of sound is about $300 \space ms^{-1}$  and so the time to travel about $25 \space m$ is about $0.08 \space s$. This is only about 4% of the time taken for the stone to fall.
@@ -356,27 +361,37 @@ A student drops a stone from rest at the top of a well. She hears the stone spla
 >	$H = +1.28 \space m$
 ><br>
 >2. Using $T = \dfrac{u}{g}$
->
+>	
 >	$T = \dfrac{5.0}{9.8}$
->
+>	
 >	$T = +0.51 \space s$
 >  <br> 
 > 3. If we imagine that the starting position of the object to be as $0\space m$, the highest point to be at $+\space 1.28\space m$ and the ground to be at $-\space 30\space m$ relative from the starting point we can easily use ${s = ut + \frac{1}{2}at^2}$ to find the total time taken.
 > 	
 > 	${s = ut + \frac{1}{2}at^2}$
+> 	
 > 	<br>
+> 	
 > 	$(-30) = (5.0)t + \frac{1}{2}(-9.8)t^2$
 > 	
 > 	$5t + (-4.9)t^2 = -30$
 > 	
 > 	$4.9t^2 -5t -30 = 0$
+> 	
 > 	<br>
+> 	
 > 	Use the quadratic formula, $x = \dfrac{-b \pm \sqrt{b^2 - 4ac}}{2a}$, solve for t
+> 	
 > 	<br><br>
+> 	
 > 	$time\space taken = \dfrac{-(-5) \pm \sqrt{(-5)^2 - 4(4.9)(-30)}} {2(4.9)} \space s$
+> 	
 > 	<br><br>
+> 	
 > 	$time\space taken = \dfrac{25 \pm 5\sqrt{613}}{49} \space s$
+> 	
 > 	<br><br>
+> 	
 > 	negative values of time is rejected so $time\space taken = +3.04 \space s$
 > 	
 > Notice that, in this example, if you carry the signs through consistently, they give you information about the motion of the object.
