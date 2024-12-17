@@ -43,8 +43,7 @@ tags:
 
 ## Defining kinematic quantities 
 
-
-## Distance Vs Displacement
+### Distance Vs Displacement
 
 >[!info] Distance
 > - The **total length of the path** an object takes, regardless of its starting or ending point.
@@ -63,7 +62,7 @@ tags:
 ![[Distance vs displacement.webp]]
 
 
-## Speed Vs Velocity
+### Speed Vs Velocity
 
 >[!info] Speed
 > - Speed is the rate at which an object travels a **distance over time**
@@ -72,7 +71,7 @@ tags:
 > - Speed can be found by taking the gradient of a distance-time graph
 > - Speed is denoted by " $v$ " (italics)
 > <br>
-> $\large{Speed = \dfrac{\triangle distance }{\triangle time}}$
+> $Speed = \dfrac{\triangle distance }{\triangle time}$
 
 >[!info] Velocity
 >- Velocity is the rate at which an object changes its **displacement over time**.
@@ -81,7 +80,7 @@ tags:
 >- Velocity can be found by taking the gradient of a displacement-time graph
 >- Speed is denoted by " $v$" (bold)
 ><br>
->$\large{veloctiy = \dfrac{ds}{dt}}$
+>$veloctiy = \dfrac{ds}{dt}$
 
 ![[Speed vs Velocity.png]]
 
@@ -93,16 +92,16 @@ tags:
 >- Average speed is **always positive** and ==doesn't indicate the direction of motion==.
 >- Can be found by taking the  area under a d-t graph and dividing by the time
 ><br>
->- $\large{Average \space Speed = \dfrac{total \space distance}{time}}$
+>- $Average \space Speed = \dfrac{total \space distance}{time}$
 
 >[!info] Average Velocity
 >-  Average velocity is the displacement divided by the time.
 >- Average Speed is a **vector**.
 >- Can be found by taking the  area under a s-t graph and dividing by the time
 ><br>
->- $\large{Average \space Velocity = \dfrac{displacement}{time} = \dfrac{\triangle \space position}{\triangle \space time}}$
+>- $Average \space Velocity = \dfrac{displacement}{time} = \dfrac{\triangle \space position}{\triangle \space time}$
 ><br>
->- $\large{Average \space Velocity = \dfrac{\triangle x_{final} - \triangle x_{initial}}{\triangle t_{final} - \triangle t_{initial}}}$
+>- $Average \space Velocity = \dfrac{\triangle x_{final} - \triangle x_{initial}}{\triangle t_{final} - \triangle t_{initial}}$
 
 #### Instantaneous Speed vs Velocity
 
@@ -111,14 +110,14 @@ tags:
 >- Instantaneous Speed is a **scalar**.
 >- can be found by taking the gradient at a specific time value in a d-t graph
 ><br>
->- $\large{Instantaneous \space Speed = \dfrac{distance \space travelled \space at \space time \space t}{t}}$
+>- $Instantaneous \space Speed = \dfrac{distance \space travelled \space at \space time \space t}{t}$
 
 >[!info] Instantaneous Velocity
 >-  Instantaneous speed is ==the velocity of an object at a specific moment in time==
 >- Instantaneous Speed is a **vector**.
 >- can be found by taking the gradient at a specific time value in a s-t graph
 ><br>
->- $\large{Instantaneous \space Velocity = \dfrac{displacement \space at \space t=T }{T}}$
+>- $Instantaneous \space Velocity = \dfrac{displacement \space at \space t=T }{T}$
 
 
 ### Acceleration
@@ -343,10 +342,40 @@ A student drops a stone from rest at the top of a well. She hears the stone spla
 > 2. the time taken to reach the maximum height 
 > 3. the total time taken for the object to reach the ground.
 
->[!solution] Solution (incomplete):
->1. The object is moving upwards at $+\space 5.0 \space ms^{-1}$ when it is released. The acceleration due to gravity is $- \space 9.8\space ms^{-2}$ .
->   
->   So $u = +\space 5.0 \space ms^{-1}$ and $a =- \space 9.8\space ms^{-2}$
+>[!solution] Solution:
+>![[A.1-worked example 1.excalidraw.svg]]
+>
+>The object is moving upwards at $+\space 5.0 \space ms^{-1}$ when it is released. The acceleration due to gravity is $- \space 9.8\space ms^{-2}$ . The speed at max height is 0, thus we can take $v = 0 \space ms^{-2}$. and the time taken to reach max height is denoted by "$\space T\space$"
+>
+>So $u = +5.0 \space ms^{-1}$ and $a =-9.8\space ms^{-2}$
+>
+>1. Using $H = \dfrac{u^2}{2g}$, 
+>	$H = \dfrac{(5.0)^2}{2(9.8)}$
+>	$H = +1.28 \space m$
+><br>
+>2. Using $T = \dfrac{u}{g}$
+>	$T = \dfrac{5.0}{9.8}$
+>	$T = +0.51 \space s$
+>  <br> 
+> 3. If we imagine that the starting position of the object to be as $0\space m$, the highest point to be at $+\space 1.28\space m$ and the ground to be at $-\space 30\space m$ relative from the starting point we can easily use $\large{s = ut + \frac{1}{2}at^2}$ to find the total time taken.
+> 	
+> 	$\large{s = ut + \frac{1}{2}at^2}$
+> 	<br>
+> 	$(-30) = (5.0)t + \frac{1}{2}(-9.8)t^2$
+> 	$5t + (-4.9)t^2 = -30$
+> 	$4.9t^2 -5t -30 = 0$
+> 	<br>
+> 	Use the quadratic formula, $x = \dfrac{-b \pm \sqrt{b^2 - 4ac}}{2a}$, solve for t
+> 	<br>
+> 	$time\space taken = \dfrac{-(-5) \pm \sqrt{(-5)^2 - 4(4.9)(-30)}} {2(4.9)} \space s$
+> 	$time\space taken = \dfrac{25 \pm 5\sqrt{613}}{49} \space s$
+> 	<br>
+> 	negative values of time is rejected so $time\space taken = +3.04 \space s$
+> 	
+> Notice that, in this example, if you carry the signs through consistently, they give you information about the motion of the object
 
 
 ## Projectile motion in two-dimensions
+
+
+
