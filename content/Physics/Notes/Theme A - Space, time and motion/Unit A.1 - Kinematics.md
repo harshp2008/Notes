@@ -277,7 +277,7 @@ The acceleration due to gravity at Earth’s surface is given the symbol $g$ . T
 
 A baseball is thrown vertically upwards with an initial speed $u$. Gravity acts on the baseball from the moment of its release, slowing it down until it stops for an instant at the top of its motion. Gravity continues to act and the baseball now accelerates downwards to reach the ground with the same speed at which it was released. Without air resistance, the displacement–time graph would look like Figure 1 below. The ball goes vertically up and then down to land in the same spot from which it was projected. The path in the air is called the trajectory and is a vertical line up and down for this case.
 
-A distance–time graph would look dierent (Figure 2). It gives similar information but without the direction part of the displacement and velocity vectors. Make sure that you understand the dierence between these graphs.
+A distance–time graph would look different (Figure 2). It gives similar information but without the direction part of the displacement and velocity vectors. Make sure that you understand the difference between these graphs.
 
 |                   Displacement-time graph                   |                        Distance-time graph                         |
 | :---------------------------------------------------------: | :----------------------------------------------------------------: |
@@ -350,11 +350,15 @@ A student drops a stone from rest at the top of a well. She hears the stone spla
 >So $u = +5.0 \space ms^{-1}$ and $a =-9.8\space ms^{-2}$
 >
 >1. Using $H = \dfrac{u^2}{2g}$, 
+>	
 >	$H = \dfrac{(5.0)^2}{2(9.8)}$
+>	
 >	$H = +1.28 \space m$
 ><br>
 >2. Using $T = \dfrac{u}{g}$
+>
 >	$T = \dfrac{5.0}{9.8}$
+>
 >	$T = +0.51 \space s$
 >  <br> 
 > 3. If we imagine that the starting position of the object to be as $0\space m$, the highest point to be at $+\space 1.28\space m$ and the ground to be at $-\space 30\space m$ relative from the starting point we can easily use ${s = ut + \frac{1}{2}at^2}$ to find the total time taken.
@@ -362,17 +366,20 @@ A student drops a stone from rest at the top of a well. She hears the stone spla
 > 	${s = ut + \frac{1}{2}at^2}$
 > 	<br>
 > 	$(-30) = (5.0)t + \frac{1}{2}(-9.8)t^2$
+> 	
 > 	$5t + (-4.9)t^2 = -30$
+> 	
 > 	$4.9t^2 -5t -30 = 0$
 > 	<br>
 > 	Use the quadratic formula, $x = \dfrac{-b \pm \sqrt{b^2 - 4ac}}{2a}$, solve for t
-> 	<br>
+> 	<br><br>
 > 	$time\space taken = \dfrac{-(-5) \pm \sqrt{(-5)^2 - 4(4.9)(-30)}} {2(4.9)} \space s$
+> 	<br><br>
 > 	$time\space taken = \dfrac{25 \pm 5\sqrt{613}}{49} \space s$
-> 	<br>
+> 	<br><br>
 > 	negative values of time is rejected so $time\space taken = +3.04 \space s$
 > 	
-> Notice that, in this example, if you carry the signs through consistently, they give you information about the motion of the object
+> Notice that, in this example, if you carry the signs through consistently, they give you information about the motion of the object.
 
 
 ## Projectile motion in two-dimensions
