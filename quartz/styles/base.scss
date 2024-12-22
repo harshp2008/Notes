@@ -404,19 +404,9 @@ pre {
   // font-family: var(--codeFont);
   // padding: 0 0.5rem;
   // border-radius: 5px;
-  overflow-x: auto;
+  //overflow-x: auto;
   // border: 1px solid var(--lightgray);
-  position: relative;
-
-
-  margin: 0;
-  box-sizing: border-box;
-  padding: 0;
-  background-color: var(--light);
-  font-family: var(--bodyFont);
-  color: var(--darkgray);
-  border : 0px solid var(--lightgray); //
-  line-height: 1.6rem; //
+  // position: relative;
   
 
   &:has(> code.mermaid) {
@@ -467,6 +457,18 @@ pre {
       width: 3rem;
     }
   }
+
+  margin: 0;
+  box-sizing: border-box;
+  padding: 0;
+  background-color: var(--light);
+  font-family: var(--bodyFont);
+  color: var(--darkgray);
+  border : 0px solid var(--lightgray); //
+  line-height: 1.6rem; //
+  overflow-x: auto;
+  position: relative;
+
 }
 
 code {
