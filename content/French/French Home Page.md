@@ -6,15 +6,23 @@ tags:
 ---
 ---
 
+
 # Grammer
 
 >[!info] Tenses
 >- [[Le Présent]]
 >- [[L'Imperative]]
 >
->- [[La Passe Compose]]
+>- [[La Passé Compose]]
 >
 >- [[Le Subjonctif]]
 
 # Vocabulary
 
+
+
+
+---
+# Resources used
+
+- https://www.lawlessfrench.com/

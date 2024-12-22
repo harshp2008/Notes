@@ -397,7 +397,7 @@ The kinematic equations are printed again but with differences to reflect the ve
 >
 > Notice that, in this example, if you carry the signs through consistently, they give you information about the motion of the object.
 
-## Projectile motion in two-dimensions
+## Projectile Motion
 
 ### Introduction to 2 Dimensional Motion
 
@@ -457,9 +457,66 @@ $\large{R_y=R\sin\theta}$
 
 ---
 
-Let's understand Projectile motion by taking a simple example, a stone being thrown straight of a cliff. Here we consider air resistance to be negligible.
+### Projectile motion in 2 dimensions
+
+Let's understand Projectile motion by taking a simple example, a stone being thrown straight of a cliff. Here we consider air resistance to be negligible. 
+
+Question: Find a suitable equation for the following:
+- Trajectory of the stone
+- Range (Max horizontal distance travelled)
+- Time taken to hit the floor 
 
 ![[A.1 - cliff example.svg]]
+
+Let's resolute the acceleration and velocity vectors to understand it further.
+
+|       Variables        |   x   |  y   |
+| :--------------------: | :---: | :--: |
+| Initial Velocity ($u$) | $u_x$ |  0   |
+|   acceleration ($a$)   |   0   | $-g$ |
+using this and $v =u + at$ this we can find the velocity for any point in time for this case.
+
+$\large{v_x = u_x}$
+$\large{v_y = - g \times t}$
+
+Notice how the horizontal velocity is constant throughout the motion. This will mostly be the case for most of the questions you will face, unless the questions mentions air resistance or some sort of acceleration for example:
+
+- A rocket being launched from the side of a cliff.
+- A rocket being launched at an angle into the sky.
+- A rock being launched from a catapult (air resistance included )
+- Trajectory of a glider with a motor, propelling it forward horizontally with an acceleration of A, and generates a lift force F, while it's vertical height reduces over time. If the mass of the glider is M, Find the maximum range of the flight, given that it starts H meters over the ground, (ignore air resistance). 
+
+The last question isn't too hard once you will make yourself familiar with basic calculus and the next unit : [[Unit A.2 - Forces and Momentum | Forces and Momentum]]
+
+Let's go back to solving the original question, 
+
+>[!solution] Finding the equation of the trajectory
+>Using $s = ut + \frac{1}{2}at^2$ 
+>
+>$(s_x) = (u)t + \frac{1}{2}(0)t^2$
+>$s_x = u$
+>
+>$(s_y) = (0) + \frac{1}{2}(-g)t^2$
+>$s_y = -gt^2$
+>
+
+>[!solution] Finding the equation of the Range
+>Using $s = u + \frac{1}{2}at^2$ 
+>
+>$(s_x) = (u_x) + \frac{1}{2}(0)t^2$
+>$s_x = u_x$
+>
+>$(s_y) = (0) + \frac{1}{2}(-g)t^2$
+>$s_y = -gt^2$
+>
+
+
+
+
+
+
+
+
 
 let's go back to the example of a person trying to shooting a basketball in the hoop. Let's see try to mathematically calculate the range of the the throw and where it will hit and other useful features that we can discover from analysing the path.
 
