@@ -6,24 +6,23 @@ tags:
 ---
 ---
 # Poem
-<pre>
 
 What passing-bells for these who die as cattle?  
-	— Only the monstrous anger of the guns.  
-	Only the stuttering rifles' rapid rattle   
+<span>&emsp;&emsp;</span>— Only the monstrous anger of the guns.  
+<span>&emsp;&emsp;</span>Only the stuttering rifles' rapid rattle   
  Can patter out their hasty orisons.  
 No mockeries now for them; no prayers nor bells;  
-	Nor any voice of mourning save the choirs,—
+<span>&emsp;&emsp;</span>Nor any voice of mourning save the choirs,—
 The shrill, demented choirs of wailing shells;  
-    And bugles calling for them from sad shires.  
+<span>&emsp;&emsp;</span>And bugles calling for them from sad shires.  
 
 What candles may be held to speed them all? 
-    Not in the hands of boys, but in their eyes
+<span>&emsp;&emsp;</span>Not in the hands of boys, but in their eyes
 Shall shine the holy glimmers of goodbyes.  
-    The pallor of girls' brows shall be their pall;  
+ <span>&emsp;&emsp;</span>The pallor of girls' brows shall be their pall;  
 Their flowers the tenderness of patient minds,  
 And each slow dusk a drawing-down of blinds.
-</pre>
+
 # Poem Analysis
 
 ---
