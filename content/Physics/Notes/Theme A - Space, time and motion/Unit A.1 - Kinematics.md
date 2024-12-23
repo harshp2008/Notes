@@ -168,7 +168,7 @@ Kinematic equations are sets of 5 equations that show the relation between 5 var
 > - Moving car slowing down with a non-constant acceleration
 > - Arrow / ball flying in the air and landing with **air resistance** (complex)
 
-> [!note] **air resistance** can be included given that it stays consistent over time but that doesn't usually happen as it depends on the current speed of object. Due to this the force changes causing the motion to be non-uniform i.e acceleration is not constant.
+> [!warning] **air resistance** can be included given that it stays consistent over time but that doesn't usually happen as it depends on the current speed of object. Due to this the force changes causing the motion to be non-uniform i.e acceleration is not constant.
 
 > [!info] What does SUVAT stand for :
 >
@@ -180,13 +180,17 @@ Kinematic equations are sets of 5 equations that show the relation between 5 var
 
 ## Kinematic Equations
 
-| <center>Equations                                                                                                                                      | <center>Suvat Definitions                                                                                                                                                                                                   |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ${v = u + at}$<br><br>${s = \frac{1}{2}(u+v)t}$<br><br>${s = ut + \frac{1}{2}at^2}$<br><br>${s = vt - \frac{1}{2}at^2}$<br><br>${v^2 - u^2 = 2as}$<br> | ${s \space-\space \text{displacement}}$<br><br>${s \space-\space \text{initial speed}}$<br><br>${v \space-\space \text{final speed}}$<br><br>${a \space-\space \text{acceleration}}$<br><br>${t \space-\space \text{time}}$ |
+| Equations                    | Suvat Definitions                        |
+| ---------------------------- | ---------------------------------------- |
+| ${v = u + at}$               | ${s \space-\space \text{displacement}}$  |
+| ${s = \frac{1}{2}(u+v)t}$    | ${u \space-\space \text{initial speed}}$ |
+| ${s = ut + \frac{1}{2}at^2}$ | ${v \space-\space \text{final speed}}$   |
+| ${s = vt - \frac{1}{2}at^2}$ | ${a \space-\space \text{acceleration}}$  |
+| ${v^2 - u^2 = 2as}$          | ${t \space-\space \text{time}}$          |
 
 ## Deriving Suvat Equations (incomplete) [Extra]
 
-Suvat equations come from observing patterns in velocity-time graphs. Here is the velocity-time grap3h that bodies with uniform motion follows.
+Suvat equations come from observing patterns in velocity-time graphs. Here is the velocity-time graph that bodies with uniform motion follows.
 
 ![[suvat equation triangle.png]]
 
@@ -482,16 +486,23 @@ John is throwing a ball of a cliff with an angle $\theta$ with a initial velocit
 3. Find the time taken for the ball to hit the floor.
 4. Find the velocity the ball has just before it hits the floor, thus find speed of the ball at this point
 
+
 <u><strong>Hard questions</strong></u>
 
 ==John is now able to alter his throwing angle to be any angle between -70° and 70° ==
 
 <u>Find:</u>
-- The angle required to maximise the range of the ball (Max horizontal distance). 
-- The angle required to maximise the height that the ball can travel to.
-- The angle required to maximise the time the ball is in the air.
-- The angle require to maximise the speed of the ball before it hits the floor.
 
+1. The angle required to maximise the range of the ball (Max horizontal distance). 
+2.  The angle required to maximise the height that the ball can travel to.
+3.  The angle required to maximise the time the ball is in the air.
+4. The angle require to maximise the speed of the ball before it hits the floor.
+
+<u><strong>More than Hard but less than extreme questions</u></strong>
+
+==As John is a human and not a robot, his aim accuracy now has a uncertainty of ±5°.== 
+
+John's friend paints a red circle with a radius $(30 \pm 5)\space m$ , which is located on the bottom of the cliff. It is located $(90 \pm 2)\space m$ horizontally from where John stand. John wants the ball to land. ==What are the ranges of angles that john must throw with such that it always lands in the circle== despite his horrible aim and the very uncertain position and shape of the circle.  
 
 <u><strong>Extreme question</strong></u>
 
@@ -499,7 +510,7 @@ John is throwing a ball of a cliff with an angle $\theta$ with a initial velocit
 
 Given that ball is now able to rebound of the Flat surface below. The ball is allowed to bounce for 4 times. 
 
-The energy of the ball after each bounce is reduced by 50 percent. Assume air resistance to be negligible. 
+The 50 percent of the energy of the ball is lost after each bounce to heat generated  by friction and the sound produced. Assume air resistance to be negligible. 
 
 <u>Find:</u>
 
@@ -540,27 +551,3 @@ Notice how the horizontal velocity is constant throughout the motion. This will 
 The last question isn't too hard once you will make yourself familiar with basic calculus and the next unit : [[Unit A.2 - Forces and Momentum | Forces and Momentum]]
 
 Let's go back to solving the original question, 
-
->[!solution] Finding the equation of the trajectory
->Using $s = ut + \frac{1}{2}at^2$ 
->
->$(s_x) = (u)t + \frac{1}{2}(0)t^2$
->$s_x = ut$
->
->$(s_y) = (0) + \frac{1}{2}(-g)t^2$
->$s_y = -gt^2$
->
->We can also write this in the notation of ${\hat{i}}$ (x-axis), ${\hat{j}}$, (y-axis ) and ${\hat{k}}$ (z-axis)
->
->$S = ut\cdot \hat{i} -gt^2\cdot \hat{j}$ 
-
-
->[!solution] Finding the equation of the Range
->By equating $s_y = 0$ we get the time taken for the total duration of the journey 
->
->
-
-
-let's go back to the example of a person trying to shooting a basketball in the hoop. Let's see try to mathematically calculate the range of the the throw and where it will hit and other useful features that we can discover from analysing the path.
-
-Now, let's find the optimal path(s) that the ball can take so that it exactly goes in the hoop

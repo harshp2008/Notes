@@ -108,7 +108,7 @@ const config: QuartzConfig = {
       }),
       Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: true, enableCheckbox: true }),
       Plugin.HardLineBreaks(),
-      //Plugin.GitHubFlavoredMarkdown(),
+      Plugin.GitHubFlavoredMarkdown(),
       Plugin.TableOfContents(),
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
       Plugin.Description(),
