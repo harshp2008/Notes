@@ -451,22 +451,73 @@ $\large{R_y=R\sin\theta}$
 >
 > It takes approximately$-4.62 \space s$ for the object to reach the vertical velocity of $5 \space ms^{-2}$
 
+### Projectile motion in 2 dimensions
+
+Let's understand Projectile motion by taking a simple question and then progressively make it harder.
+
+John is throwing a ball of a cliff with an angle $\theta$ with a initial velocity of $u$. The height of where the ball is thrown off from with respect to the foot of the cliff is $S_y$. Given that air resistance is negligible and the gravitation field strength to be $9.8 \space ms^{-2}$
+
+![[A.1 - cliff example.svg]]
+ 
+>[!info] Define unknowns as :
+>- initial velocity :  $u = 20 \space ms^{-1}$
+>- initial height : $S_y  = 500 \space m$  
+
+<u><strong>Intemediate questions</strong></u>
+
+==Let the angle (θ) to be 0°, i.e the ball is thrown off horizontally of the cliff. In this case your H will be your initial height==
+
+1. Find the equation for the trajectory of the ball in the air.
+2. Find the time taken for the ball to reach max height.
+3. Find the time taken for the ball to hit the floor.
+4. Find the velocity the ball has just before it hits the floor, thus find speed of the ball at this point
+
+
+<u><strong>Intemediate questions</strong></u>
+
+==Let the angle (θ) to be 30°==
+
+1. Find the equation for the trajectory of the ball in the air.
+2. Find the time taken for the ball to reach max height.
+3. Find the time taken for the ball to hit the floor.
+4. Find the velocity the ball has just before it hits the floor, thus find speed of the ball at this point
+
+<u><strong>Hard questions</strong></u>
+
+==John is now able to alter his throwing angle to be any angle between -70° and 70° ==
+
+<u>Find:</u>
+- The angle required to maximise the range of the ball (Max horizontal distance). 
+- The angle required to maximise the height that the ball can travel to.
+- The angle required to maximise the time the ball is in the air.
+- The angle require to maximise the speed of the ball before it hits the floor.
+
+
+<u><strong>Extreme question</strong></u>
+
+>[!warning] Requires knowledge of [[Unit A.3 - Work, Energy and Power | work, energy and power]] and calculus to solve
+
+Given that ball is now able to rebound of the Flat surface below. The ball is allowed to bounce for 4 times. 
+
+The energy of the ball after each bounce is reduced by 50 percent. Assume air resistance to be negligible. 
+
+<u>Find:</u>
+
+1. Find the optimal angle required such that it travels the maximum range. The ball is stopped on the 4th contact with the floor and the horizontal distance is measured. 
+   
+2. Find the optimal angle required such that it maximises the time of ball in the air . The ball is stopped on the 4th contact with the floor and the time is stopped, the time taken is then measured.
+
+>[!tip] Tip: Use these equations
+> - $\text{Gravitational Potential Energy} \space : E_p = mg\triangle h$
+> - $\text{Kinetic Energy} \space : E_k = \frac{1}{2}mv^2$
+
 ---
 
 <h1 style="text-align:center">WORK IN PROGRESS FROM THIS POINT FORWARD</h1>
 
 ---
 
-### Projectile motion in 2 dimensions
 
-Let's understand Projectile motion by taking a simple example, a stone being thrown straight of a cliff. Here we consider air resistance to be negligible. 
-
-Question: Find a suitable equation for the following:
-- Trajectory of the stone
-- Range (Max horizontal distance travelled)
-- Time taken to hit the floor 
-
-![[A.1 - cliff example.svg]]
 
 Let's resolute the acceleration and velocity vectors to understand it further.
 
@@ -494,28 +545,20 @@ Let's go back to solving the original question,
 >Using $s = ut + \frac{1}{2}at^2$ 
 >
 >$(s_x) = (u)t + \frac{1}{2}(0)t^2$
->$s_x = u$
+>$s_x = ut$
 >
 >$(s_y) = (0) + \frac{1}{2}(-g)t^2$
 >$s_y = -gt^2$
 >
+>We can also write this in the notation of ${\hat{i}}$ (x-axis), ${\hat{j}}$, (y-axis ) and ${\hat{k}}$ (z-axis)
+>
+>$S = ut\cdot \hat{i} -gt^2\cdot \hat{j}$ 
+
 
 >[!solution] Finding the equation of the Range
->Using $s = u + \frac{1}{2}at^2$ 
+>By equating $s_y = 0$ we get the time taken for the total duration of the journey 
 >
->$(s_x) = (u_x) + \frac{1}{2}(0)t^2$
->$s_x = u_x$
 >
->$(s_y) = (0) + \frac{1}{2}(-g)t^2$
->$s_y = -gt^2$
->
-
-
-
-
-
-
-
 
 
 let's go back to the example of a person trying to shooting a basketball in the hoop. Let's see try to mathematically calculate the range of the the throw and where it will hit and other useful features that we can discover from analysing the path.

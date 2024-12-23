@@ -8,7 +8,7 @@ tags:
 # Poem
 
 What passing-bells for these who die as cattle?  
-<span>&emsp;&emsp;</span>— Only the monstrous anger of the guns.  
+<span>&emsp;&emsp;</span>—Only the monstrous anger of the guns.  
 <span>&emsp;&emsp;</span>Only the stuttering rifles' rapid rattle   
  Can patter out their hasty orisons.  
 No mockeries now for them; no prayers nor bells;  
