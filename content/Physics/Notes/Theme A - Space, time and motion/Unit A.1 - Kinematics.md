@@ -474,19 +474,17 @@ John is throwing a ball of a cliff with an angle $\theta$ with a initial velocit
 
 ==Let the angle (θ) to be 0°, i.e the ball is thrown off horizontally of the cliff. In this case your H will be your initial height==
 
-1. Find the time taken for the ball to reach max height.
-2. Find the time taken for the ball to hit the floor.
-3. Find the velocity the ball has just before it hits the floor, thus find speed of the ball at this point
+1. Find the time taken for the ball to hit the floor.
+2. Find the velocity the ball has just before it hits the floor, thus find speed of the ball at this point
 
 ##### <u><strong>Intermediate Questions</strong></u>
 
 ==Let the angle (θ) to be 30°==
 
-1. Find the equation for the trajectory of the ball in the air ($s_x$ and $s_y$).
-2. Find the equation for the trajectory of the ball in the air in terms of vertical displacement ($s_y$) and time.
-3. Find the time taken for the ball to reach max height.
-4. Find the time taken for the ball to hit the floor.
-5. Find the velocity the ball has just before it hits the floor, thus find speed of the ball at this point
+1. Find the equation for the trajectory of the ball in the air ($s_x$, $s_y$ w.r.t time).
+2. Find the time taken for the ball to reach max height.
+3. Find the time taken for the ball to hit the floor.
+4. Find the velocity the ball has just before it hits the floor, thus find speed of the ball at this point
 ##### <u><strong>Hard Questions</strong></u>
 
 ==John is now able to alter his throwing angle to be any angle between -70° and 70° ==
@@ -542,7 +540,7 @@ Let's resolute the displacement, velocity and acceleration vectors to understand
 
 ###### <u><strong>Warm-up Questions</u></strong>
 
->[!correct] f
+
 
 
 ###### <u><strong>Intermediate Questions</u></strong>
@@ -618,8 +616,69 @@ $\vec{v} =  0\cdot\hat i - gt\cdot \hat{j} + C$
 >$s_x = u\cos{\theta} \cdot t$
 >$s_y = u\sin{\theta} \cdot t -\frac{1}{2}gt^2 + S_y$
 
+>[!correct] Question 2
+> At max height $v_y \text{ (vertical velocity)} = 0$
+> 
+> Substitute $v_y = 0$, $t = T$,$u = u\sin{\theta}$ and $a = -g$ into $v = u + at$
+> 
+> $(0) = (u\sin\theta) + (-g)T$
+> 
+> $T = \dfrac{u\sin\theta}{g}$ 
+> 
+> Substitue values: ($u= 20$, $\theta = 30\degree$ and $g = 9.8$)
+> 
+>  $T = \dfrac{(20)\sin{(30\degree)}}{(9.8)} \approx 1.02 \space \text{seconds}$
 
-TODO: put the i and j behind each term
+>[!correct] Question 3
+> 
+> let's observe the flight plan of the ball with respect to time
+> 
+> | Height of ball | time | 
+> |---|---|
+> | $S_x$ | $0$ |
+> | $H$ | $T$ |
+> | $S_x$ | $2T$ |
+> |$0$ | $2T + X$ |
+> 
+> This $X$ is the time taken by the ball to free fall from the cliff with no additional velocity.
+> 
+> <u>Find X</u>
+> 
+> Substitute, $s = -S_y$ (negative as I have taken the up direction to be positive), $u = 0$, $a = -g$ and $t = X$ into $s = ut + \frac{1}{2}at^2$ 
+> 
+> $(-S_y) = (0)t + \frac{1}{2}(-g)(X)$
+> 
+> $X = \dfrac{2\cdot S_y}{g}$
+> 
+> <u>Find Total time taken</u>
+> 
+> $\text{total time taken} = 2T + X$
+> 
+> $\text{total time taken} = 2(\dfrac{u\sin\theta}{g}) + \dfrac{2\cdot S_y}{g}$
+> 
+> $\text{total time taken} = 2(\dfrac{u\sin\theta + S_y}{g})$
+> 
+> <u>Substitue the values in</u>
+> 
+> $\text{total time taken} = 2(\dfrac{(20)\sin{(30)\degree} + (500)}{(9.8)}) \approx 11.2 \text{ seconds}$
+
+>[!correct] Question 4
+> using $v = u + at$
+> 
+> $v_x = (20)\cos{(30 \degree)} + (0)(11.2)$
+> 
+> $v_x = 20\cos{(30 \degree)}$
+>
+> $v_x = 10\sqrt{3} \space ms^{-1}$
+> 
+> $v_y = (20)\sin{(30 \degree)} + (-9.8)(11.2)$
+> 
+> $v_y = -99.76 \space ms^{-1}$
+> 
+> $\text{speed} = \sqrt{(10\sqrt{3})^2 + (-99.76)^2}$
+> 
+> $\text{speed} = \sqrt{300 + (-99.76)^2} \approx 101.3 \space ms^{-1}$
+> 
 
 
 
