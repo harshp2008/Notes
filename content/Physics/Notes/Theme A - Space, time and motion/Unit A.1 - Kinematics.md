@@ -99,7 +99,7 @@ tags:
 > - Instantaneous speed is ==the speed of an object at a specific moment in time==
 > - Instantaneous Speed is a **scalar**.
 > - can be found by taking the gradient at a specific time value in a d-t graph
->   <br> >$Instantaneous \space Speed = \dfrac{distance \space travelled \space at \space time \space t}{t}$
+>   <br> $Instantaneous \space Speed = \dfrac{distance \space travelled \space at \space time \space t}{t}$
 
 > [!info] Instantaneous Velocity
 >
@@ -107,7 +107,7 @@ tags:
 > - Instantaneous Speed is a **vector**.
 > - can be found by taking the gradient at a specific time value in a s-t graph
 >   <br>
-> - $Instantaneous \space Velocity = \dfrac{displacement \space at \space t=T }{T}$
+> $Instantaneous \space Velocity = \dfrac{displacement \space at \space t=T }{T}$
 
 ### Acceleration
 
@@ -118,14 +118,14 @@ tags:
 > - Acceleration is a **vector** quantity.
 > - Acceleration can be found by taking the gradient of a Velocity time graph
 > - Speed is denoted by " $a$ "
->   <br> >${acceleration = \dfrac{d^2s}{dt^2} \space or \space \dfrac{velocity}{time \space taken}}$
+>   <br> ${acceleration = \dfrac{d^2s}{dt^2} \space or \space \dfrac{velocity}{time \space taken}}$
 
 > [!info] Average Acceleration
 >
 > - Average velocity is the **overall velocity over the time period**.
 > - Average acceleration is a **vector**.
 > - Can be found by taking the area under a v-t graph and dividing by the time
->   <br> >${Average \space acceleration = \dfrac{\triangle \space Velocity}{\triangle \space time} = \dfrac{\triangle v - \triangle u}{\triangle t_{2} - \triangle t_{1}}}$
+>   <br> ${Average \space acceleration = \dfrac{\triangle \space Velocity}{\triangle \space time} = \dfrac{\triangle v - \triangle u}{\triangle t_{2} - \triangle t_{1}}}$
 
 #### Instantaneous acceleration
 
@@ -134,7 +134,7 @@ tags:
 > - Instantaneous acceleration is ==the acceleration of an object at a specific moment in time==
 > - Instantaneous acceleration is a **vector**.
 > - can be found by taking the gradient at a specific time value in a v-t graph
->   <br> >${Instantaneous \space acceleration = \dfrac{Velocity \space at \space t=T }{T}}$
+>   <br> ${Instantaneous \space acceleration = \dfrac{Velocity \space at \space t=T }{T}}$
 
 ## Analysing Graphs (Incomplete)
 
@@ -488,6 +488,8 @@ John is throwing a ball of a cliff with an angle $\theta$ with a initial velocit
 ##### <u><strong>Hard Questions</strong></u>
 
 ==John is now able to alter his throwing angle to be any angle between -70° and 70° ==
+>[!warning] Question 1 Requires knowledge of calculus to solve
+
 
 <u>Find:</u>
 
@@ -495,6 +497,7 @@ John is throwing a ball of a cliff with an angle $\theta$ with a initial velocit
 2.  The angle required to maximise the height that the ball can travel to.
 3.  The angle required to maximise the time the ball is in the air.
 4. The angle require to maximise the speed of the ball before it hits the floor.
+
 
 ##### <u><strong>More than Hard but less than Extreme questions</u></strong>
 
@@ -589,7 +592,7 @@ Let's resolute the displacement, velocity and acceleration vectors to understand
 > 
 > $\int{(\vec{a}) \ dt} = \int{( 0\hat i - g\hat j)\ dt}$
 >
-$\vec{v} =  0\cdot\hat i - gt\cdot \hat{j} + C$
+> $\vec{v} =  0\cdot\hat i - gt\cdot \hat{j} + C$
 > 
 > Now, this $C$ is our initial velocity and that is, $\vec{u} = \cos{\theta} \cdot \hat i + \sin{\theta} \cdot \hat j$, substitute $u$ as $C$ in the equation above.
 > 
@@ -680,8 +683,50 @@ $\vec{v} =  0\cdot\hat i - gt\cdot \hat{j} + C$
 > $\text{speed} = \sqrt{300 + (-99.76)^2} \approx 101.3 \space ms^{-1}$
 > 
 
+###### <u><strong>Hard Questions</u></strong>
 
-
+>[!correct] question 1
+> using $s_y = u\sin\theta\cdot{t} - \frac{1}{2}gt^2 + S_y$  from ==Question 1==, rearrange for time and substitute constants
+>  
+>  $s_y = u\sin\theta\cdot{t} - \frac{1}{2}gt^2 + S_y$
+>  
+>  $(-\frac{1}{2}g) \space t^2 + (u\sin\theta) \space {t}  + (S_y - s_y) = 0$
+>
+> <u>Using quadratic formula</u>
+>
+>  $t = \dfrac{- (u\sin\theta) \pm \sqrt{(u\sin\theta) ^ 2 - 4(-\frac{1}{2}g)(S_y - s_y)}}{2(-\frac{1}{2}g)}$
+>  
+>  <u>Substitute constants</u>
+>  
+>  $t = \dfrac{- (20)\sin\theta \pm \sqrt{((20)\sin\theta) ^ 2 - 4(-\frac{1}{2}(9.8))((500) - (0))}}{2(-\frac{1}{2}(9.8))}$
+>  
+>  $t = \dfrac{- 20\sin\theta \pm \sqrt{(20\sin\theta) ^ 2 - 4(-4.9)(500)}}{-9.8}$
+>  
+>  $t = \dfrac{20}{9.8} (\sin\theta \mp \sqrt{(\sin\theta) ^ 2 +24.5})$
+>
+>Substitute constants into ($s_x = u\cos\theta\cdot{t}$  from ==Question 1==) and substitue the above equation into it
+>
+> $s_x = (20)\cos\theta \times \dfrac{20}{9.8} (\sin\theta \mp \sqrt{(\sin\theta) ^ 2 +24.5})$
+> 
+>$s_x = \dfrac{200}{9.8} (2\sin\theta\cdot\cos\theta \mp 2\cos\theta\cdot\sqrt{(\sin\theta) ^ 2 +24.5})$
+>
+>$s_x = \dfrac{200}{9.8} (\sin(2\theta) \mp 2\cos\theta\cdot\sqrt{(\sin\theta) ^ 2 +24.5})$
+>
+>Reject Values where $S_x$ is less that $0$
+>
+>$s_x = \dfrac{200}{9.8} (\sin(2\theta) + 2\cos\theta\cdot\sqrt{(\sin\theta) ^ 2 +24.5})$
+>
+> Now that we have $s_x$ in terms of $\theta$ we can use a graphical calculator to plot this. Extracting the x-property of the    maximum point(s) of this equation will yield the angle required to maximise the range.
+> 
+> <iframe src="https://www.desmos.com/calculator/dnmalrjdkr?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>
+> 
+> 
+> We can also use differentiate the equation on both sides and equate $\dfrac{d(s_x)}{d(\theta)}$ to 0 and solve for theta. This will also yield the angle which maximises the range.
+>
+><iframe src="https://www.desmos.com/calculator/bpwtyt5dm3?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>
+>
+> The green graph is the derivative of $S_x$ w.r.t to $\theta$.
+>
 
 
 
