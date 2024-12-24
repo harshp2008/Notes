@@ -24,7 +24,6 @@ For simplicity of learning, we will focus on the main tenses. There are other te
 
 This few tenses rarely show up in informal conversation and we can use tenses equivalent to them.
 
-
 ---
 
 <h1 style="text-align:center">WORK IN PROGRESS FROM THIS POINT FORWARD</h1>

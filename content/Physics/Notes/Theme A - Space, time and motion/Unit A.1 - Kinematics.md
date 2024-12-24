@@ -504,7 +504,7 @@ John is throwing a ball of a cliff with an angle $\theta$ with a initial velocit
 
 ==As John is a human and not a robot, his aim accuracy now has a uncertainty of ±5°.== 
 
-John's friend paints a red circle with a radius $(30 \pm 5)\space m$ , which is located on the bottom of the cliff. It is located $(90 \pm 2)\space m$ horizontally from where John stand. John wants the ball to land. ==What are the ranges of angles that john must throw with such that it always lands in the circle== despite his horrible aim and the very uncertain position and shape of the circle.  
+John's friend paints a red circle with a radius $(30 \pm 5)\space m$ , which is located on the bottom of the cliff. It is located $(90 \pm 2)\space m$ horizontally from where John stand. John wants the ball to land. ==What are the ranges of angles that john must throw with (before uncertainty in his aim is added) such that it **always lands in the circle**== despite his horrible aim and the very uncertain position and radius of the circle.  
 
 ##### <u><strong>Extreme question</strong></u>
 
@@ -550,7 +550,7 @@ Let's resolute the displacement, velocity and acceleration vectors to understand
 
 ###### <u><strong>Intermediate Questions</u></strong>
 
->[!correct] Question 1
+>[!solution] Question 1
 >Substitute $s$ = $s_x$,  $u$ = $u\cos{\theta}$, and $a = 0$ into $s= ut + \frac{1}{2}at^2$
 >
 >$[s_x] = [u\cos{\theta}] \cdot t + \frac{1}{2}[0]t^2$
@@ -575,11 +575,12 @@ Let's resolute the displacement, velocity and acceleration vectors to understand
 >$s_y = u\sin{\theta} \cdot t -\frac{1}{2}gt^2 + S_y$
 >
 
->[!correct] Alternate Solution to Question 1
+>[!solution] Alternate Solution to Question 1
 >
 >>[!warning] This solution will use prior knowledge of calculus
 >
 >> [!info] Vector Notation using $\hat i$ ,  $\hat j$, $\hat k$ .
+>>
 >>A vector can be written using $\hat i$ (X-axis),  $\hat j$ (y-axis) and $\hat k$ (z-axis).
 >>
 >>A vector $\vec{V}$ with x, y, z component of 5, 6, 9 respectively, can be written as:
@@ -604,7 +605,7 @@ Let's resolute the displacement, velocity and acceleration vectors to understand
 >
 > $\vec{v} =  (\cos{\theta})\cdot\hat{i} + (\sin{\theta} - gt )\cdot\hat{j}$
 > 
-> We can now integrate velocity in w.r.t to time ( $t$ ) to obtain displacement equation
+> We can now integrate velocity w.r.t to time ( $t$ ) to obtain displacement equation
 > 
 >  $\int{(\vec{v}) \ dt} =  \int{((\cos{\theta})\cdot\hat{i} + (\sin{\theta} - gt )\cdot\hat{j}) \ dt}$
 > 
@@ -621,7 +622,7 @@ Let's resolute the displacement, velocity and acceleration vectors to understand
 >$s_x = u\cos{\theta} \cdot t$
 >$s_y = u\sin{\theta} \cdot t -\frac{1}{2}gt^2 + S_y$
 
->[!correct] Question 2
+>[!solution] Question 2
 > At max height $v_y \text{ (vertical velocity)} = 0$
 > 
 > Substitute $v_y = 0$, $t = T$,$u = u\sin{\theta}$ and $a = -g$ into $v = u + at$
@@ -634,7 +635,7 @@ Let's resolute the displacement, velocity and acceleration vectors to understand
 > 
 >  $T = \dfrac{(20)\sin{(30\degree)}}{(9.8)} \approx 1.02 \space \text{seconds}$
 
->[!correct] Question 3
+>[!solution] Question 3
 > 
 > let's observe the flight plan of the ball with respect to time
 > 
@@ -667,7 +668,7 @@ Let's resolute the displacement, velocity and acceleration vectors to understand
 > 
 > $\text{total time taken} = 2(\dfrac{(20)\sin{(30)\degree} + (500)}{(9.8)}) \approx 11.2 \text{ seconds}$
 
->[!correct] Question 4
+>[!solution] Question 4
 > using $v = u + at$
 > 
 > $v_x = (20)\cos{(30 \degree)} + (0)(11.2)$
@@ -687,10 +688,10 @@ Let's resolute the displacement, velocity and acceleration vectors to understand
 
 ###### <u><strong>Hard Questions</u></strong>
 
->[!correct] question 1
+>[!solution] question 1
 > The greater the throwing angle ($\theta$), the greater the max height of the ball. As John's throwing is now restricted between -70° and 70°, The angle required to maximise the throwing angle is 70°.
 
->[!correct] question 2
+>[!solution] question 2
 > using $s_y = u\sin\theta\cdot{t} - \frac{1}{2}gt^2 + S_y$  from ==Intermediate Question 1==, rearrange for time and substitute constants
 >  
 >  $s_y = u\sin\theta\cdot{t} - \frac{1}{2}gt^2 + S_y$
@@ -717,7 +718,7 @@ Let's resolute the displacement, velocity and acceleration vectors to understand
 >
 >>$\text{Angle for maximum flight time} = 70\degree$
 
->[!correct] question 3
+>[!solution] question 3
 >
 >Substitute constants into ($s_x = u\cos\theta\cdot{t}$  from ==Intermediate Question 1==) and substitue the above equation from ==Hard Question 2==
 >
@@ -744,7 +745,7 @@ Let's resolute the displacement, velocity and acceleration vectors to understand
 >
 >>$\text{Angle for maximum range} = 11.20133\degree$
 
->[!correct] Question 4
+>[!correct] solution 4
 >Using $v = u + at$, let's derive the equation which gives speed
 >
 >$v_x = (20)\cos\theta + (0)t$
