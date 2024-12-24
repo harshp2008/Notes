@@ -488,7 +488,7 @@ John is throwing a ball of a cliff with an angle $\theta$ with a initial velocit
 
 ##### <u><strong>Hard Questions</strong></u>
 
-==John is now able to alter his throwing angle to be any angle between -70° and 70° ==
+==John is now able to alter his throwing angle to be any angle between -70° and 70°==
 >[!warning] Questions may requires knowledge of calculus to solve
 
 
@@ -497,7 +497,7 @@ John is throwing a ball of a cliff with an angle $\theta$ with a initial velocit
 1.  The angle required to maximise the height that the ball can travel to.
 2.  The angle required to maximise the time the ball is in the air.
 3. The angle required to maximise the range of the ball (Max horizontal distance). 
-4. The angle require to maximise the speed of the ball before it hits the floor.
+4. The angle required to maximise the speed of the ball before it hits the floor.
 
 
 ##### <u><strong>More than Hard but less than Extreme questions</u></strong>
@@ -527,7 +527,8 @@ Given that ball is now able to rebound of the Flat surface below. The ball is al
 
 ---
 
-<h1 style="text-align:center">WORK IN PROGRESS FROM THIS POINT FORWARD</h1>
+<h1 style="text-align:center">SOLUTIONS MAY NOT BE CORRECT</h1>
+<h3 style="text-align:center">--- Requires Proofing  From Teachers ---</h3>
 
 ---
 
@@ -564,7 +565,7 @@ Let's resolute the displacement, velocity and acceleration vectors to understand
 >
 >As we are measuring the height of the ball with respect to the foot of the cliff. we need to add a displacement variable to  our equation. This will be breaking conventions from the normal suvat equations. 
 >
- If we were to write the trajectory w.r.t to the initial of the ball then no additional variable is required but our vertical displacement for the floor will be $-S_y$.
+> If we were to write the trajectory w.r.t to the initial of the ball then no additional variable is required but our vertical displacement for the floor will be $-S_y$.
 >
 >$s_y = u\sin{\theta} \cdot t -\frac{1}{2}gt^2 + S_y$
 >
@@ -686,7 +687,10 @@ Let's resolute the displacement, velocity and acceleration vectors to understand
 
 ###### <u><strong>Hard Questions</u></strong>
 
->[!correct] question 3
+>[!correct] question 1
+> The greater the throwing angle ($\theta$), the greater the max height of the ball. As John's throwing is now restricted between -70° and 70°, The angle required to maximise the throwing angle is 70°.
+
+>[!correct] question 2
 > using $s_y = u\sin\theta\cdot{t} - \frac{1}{2}gt^2 + S_y$  from ==Intermediate Question 1==, rearrange for time and substitute constants
 >  
 >  $s_y = u\sin\theta\cdot{t} - \frac{1}{2}gt^2 + S_y$
@@ -701,11 +705,21 @@ Let's resolute the displacement, velocity and acceleration vectors to understand
 >  
 >  $t = \dfrac{- (20)\sin\theta \pm \sqrt{((20)\sin\theta) ^ 2 - 4(-\frac{1}{2}(9.8))((500) - (0))}}{2(-\frac{1}{2}(9.8))}$
 >  
->  $t = \dfrac{- 20\sin\theta \pm \sqrt{(20\sin\theta) ^ 2 - 4(-4.9)(500)}}{-9.8}$
+>  $t = \dfrac{-20\sin\theta \pm \sqrt{(20\sin\theta) ^ 2 - 4(-4.9)(500)}}{-9.8}$
 >  
 >  $t = \dfrac{20}{9.8} (\sin\theta \mp \sqrt{(\sin\theta) ^ 2 +24.5})$
+>  
+>  Now that we have $t$ in terms of $\theta$, we can plot $t$ against $\theta$ using a graphical calculator. Find the maximum point and extract the x-coordinate of it to obtain the angle required to maximise flight tim.
 >
->Substitute constants into ($s_x = u\cos\theta\cdot{t}$  from ==Intermediate Question 1==) and substitue the above equation into it
+><iframe src="https://www.desmos.com/calculator/zmouept51y?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>
+>
+>We can also use differentiate $t$ w.r.t $\theta$, and equate $\dfrac{dt}{d\theta} = 0$, the angle obtained from this will be the angle required to maximise flight time.
+>
+>>$\text{Angle for maximum flight time} = 70\degree$
+
+>[!correct] question 3
+>
+>Substitute constants into ($s_x = u\cos\theta\cdot{t}$  from ==Intermediate Question 1==) and substitue the above equation from ==Hard Question 2==
 >
 > $s_x = (20)\cos\theta \times \dfrac{20}{9.8} (\sin\theta \mp \sqrt{(\sin\theta) ^ 2 +24.5})$
 > 
@@ -722,16 +736,43 @@ Let's resolute the displacement, velocity and acceleration vectors to understand
 > <iframe src="https://www.desmos.com/calculator/dnmalrjdkr?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>
 > 
 > 
-> We can also use differentiate the equation on both sides and equate $\dfrac{d(s_x)}{d(\theta)}$ to 0 and solve for theta. This will also yield the angle which maximises the range.
+> We can also use differentiate the equation on both sides and equate $\dfrac{d(s_x)}{d(\theta)}$ to 0 and solve for theta. This will also yield the angle which maximise the range.
 >
 ><iframe src="https://www.desmos.com/calculator/bpwtyt5dm3?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>
 >
 > The green graph is the derivative of $S_x$ w.r.t to $\theta$.
 >
+>>$\text{Angle for maximum range} = 11.20133\degree$
 
-
-
-
+>[!correct] Question 4
+>Using $v = u + at$, let's derive the equation which gives speed
+>
+>$v_x = (20)\cos\theta + (0)t$
+>$v_x = 20\cos\theta$
+>
+>$v_y = (20)\sin\theta + (-9.8)t$
+>$v_y = 20\sin\theta -9.8t$
+>
+>$\text{Speed} = \sqrt{v_x^2 +v_y^2}$
+>$\text{Speed} = \sqrt{(20\cos\theta)^2 + (20\sin\theta -9.8t)^2}$
+>
+>Substitute $t = \dfrac{20}{9.8} (\sin\theta \mp \sqrt{(\sin\theta) ^ 2 +24.5})$ from ==Hard question 2== into the equation above
+>
+>$\text{Speed} = \sqrt{(20\cos\theta)^2 + (20\sin\theta -9.8(\dfrac{20}{9.8} (\sin\theta \mp \sqrt{(\sin\theta) ^ 2 +24.5})))^2}$
+>
+>$\text{Speed} = 20\sqrt{(\cos\theta)^2 + (\sin\theta - (\sin\theta \mp \sqrt{(\sin\theta) ^ 2 +24.5})^2}$
+>
+>$\text{Speed} = 20\sqrt{(\cos\theta)^2 + ( \pm \sqrt{(\sin\theta) ^ 2 +24.5})^2}$
+>
+>$\text{Speed} = 20\sqrt{(\cos\theta)^2 + (\sin\theta) ^ 2 +24.5}$
+>
+>$\text{Speed} = 20\sqrt{1 +24.5}$
+>
+>$\text{Speed} = 10\sqrt{51}$
+>
+>As $\theta$ is eliminated from the speed, Speed before impact is not dependant on the angle and thus any angle will result in the same speed. 
+>
+>So the answer is ==any real angle==
 
 
 ---
