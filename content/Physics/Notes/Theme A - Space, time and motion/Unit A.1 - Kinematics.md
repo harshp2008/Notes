@@ -485,17 +485,18 @@ John is throwing a ball of a cliff with an angle $\theta$ with a initial velocit
 2. Find the time taken for the ball to reach max height.
 3. Find the time taken for the ball to hit the floor.
 4. Find the velocity the ball has just before it hits the floor, thus find speed of the ball at this point
+
 ##### <u><strong>Hard Questions</strong></u>
 
 ==John is now able to alter his throwing angle to be any angle between -70° and 70° ==
->[!warning] Question 1 Requires knowledge of calculus to solve
+>[!warning] Questions may requires knowledge of calculus to solve
 
 
 <u>Find:</u>
 
-1. The angle required to maximise the range of the ball (Max horizontal distance). 
-2.  The angle required to maximise the height that the ball can travel to.
-3.  The angle required to maximise the time the ball is in the air.
+1.  The angle required to maximise the height that the ball can travel to.
+2.  The angle required to maximise the time the ball is in the air.
+3. The angle required to maximise the range of the ball (Max horizontal distance). 
 4. The angle require to maximise the speed of the ball before it hits the floor.
 
 
@@ -555,7 +556,7 @@ Let's resolute the displacement, velocity and acceleration vectors to understand
 >
 >$s_x = u\cos{\theta} \cdot t$
 >
->Substitute $s$ = $s_y  $u$ = $u\sin{\theta}$, and $a = -g$ into $s= ut + \frac{1}{2}at^2$
+>Substitute $s = s_y$,  $u$ = $u\sin{\theta}$, and $a = -g$ into $s= ut + \frac{1}{2}at^2$
 >
 >$[s_y] = [u\sin{\theta}] \cdot t + \frac{1}{2}[-g]t^2$
 >
@@ -685,8 +686,8 @@ Let's resolute the displacement, velocity and acceleration vectors to understand
 
 ###### <u><strong>Hard Questions</u></strong>
 
->[!correct] question 1
-> using $s_y = u\sin\theta\cdot{t} - \frac{1}{2}gt^2 + S_y$  from ==Question 1==, rearrange for time and substitute constants
+>[!correct] question 3
+> using $s_y = u\sin\theta\cdot{t} - \frac{1}{2}gt^2 + S_y$  from ==Intermediate Question 1==, rearrange for time and substitute constants
 >  
 >  $s_y = u\sin\theta\cdot{t} - \frac{1}{2}gt^2 + S_y$
 >  
@@ -704,7 +705,7 @@ Let's resolute the displacement, velocity and acceleration vectors to understand
 >  
 >  $t = \dfrac{20}{9.8} (\sin\theta \mp \sqrt{(\sin\theta) ^ 2 +24.5})$
 >
->Substitute constants into ($s_x = u\cos\theta\cdot{t}$  from ==Question 1==) and substitue the above equation into it
+>Substitute constants into ($s_x = u\cos\theta\cdot{t}$  from ==Intermediate Question 1==) and substitue the above equation into it
 >
 > $s_x = (20)\cos\theta \times \dfrac{20}{9.8} (\sin\theta \mp \sqrt{(\sin\theta) ^ 2 +24.5})$
 > 
