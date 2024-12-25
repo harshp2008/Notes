@@ -62,7 +62,8 @@ tags:
 > - Speed is a **scalar** quantity
 > - Speed can be found by taking the gradient of a distance-time graph
 > - Speed is denoted by " $v$ " (italics)
->   <br> > $Speed = \dfrac{\triangle distance }{\triangle time}$
+>   
+>    $Speed = \dfrac{\triangle distance }{\triangle time}$
 
 > [!info] Velocity
 >
@@ -71,7 +72,8 @@ tags:
 > - Velocity is a **vector** quantity.
 > - Velocity can be found by taking the gradient of a displacement-time graph
 > - Speed is denoted by " $v$" (bold)
->   <br> >$veloctiy = \dfrac{ds}{dt}$
+>   
+>     $veloctiy = \dfrac{ds}{dt}$
 
 ![[Speed vs Velocity.png]]
 
@@ -83,14 +85,18 @@ tags:
 > - Average Speed is a **scalar**
 > - Average speed is **always positive** and ==doesn't indicate the direction of motion==.
 > - Can be found by taking the area under a d-t graph and dividing by the time
->   <br> >$Average \space Speed = \dfrac{total \space distance}{time}$
+>   
+>   $Average \space Speed = \dfrac{total \space distance}{time}$
 
 > [!info] Average Velocity
 >
 > - Average velocity is the displacement divided by the time.
 > - Average Speed is a **vector**.
 > - Can be found by taking the area under a s-t graph and dividing by the time
->   <br> >$Average \space Velocity = \dfrac{displacement}{time} = \dfrac{\triangle \space position}{\triangle \space time}$ ><br> >$Average \space Velocity = \dfrac{\triangle x_{final} - \triangle x_{initial}}{\triangle t_{final} - \triangle t_{initial}}$
+>   
+>   $Average \space Velocity = \dfrac{displacement}{time} = \dfrac{\triangle \space position}{\triangle \space time}$ 
+>
+>   $Average \space Velocity = \dfrac{\triangle x_{final} - \triangle x_{initial}}{\triangle t_{final} - \triangle t_{initial}}$
 
 #### Instantaneous Speed vs Velocity
 
@@ -106,8 +112,8 @@ tags:
 > - Instantaneous speed is ==the velocity of an object at a specific moment in time==
 > - Instantaneous Speed is a **vector**.
 > - can be found by taking the gradient at a specific time value in a s-t graph
->   <br>
-> $Instantaneous \space Velocity = \dfrac{displacement \space at \space t=T }{T}$
+>   
+>    $Instantaneous \space Velocity = \dfrac{displacement \space at \space t=T }{T}$
 
 ### Acceleration
 
@@ -280,9 +286,9 @@ A distance–time graph would look different (Figure 2). It gives similar inform
 | :---------------------------------------------------------: | :----------------------------------------------------------------: |
 | ![[{D1A7F92B-AA85-4653-B48B-1144202385C7}.png]]<br>figure 1 | ![[{874E6162-6009-4741-85EC-8CEB30AE1C01}.png\|250px]]<br>figure 2 |
 
-|               Velocity-time graph               |                Speed-time graph                 |
-| :---------------------------------------------: | :---------------------------------------------: |
-| ![[{5F846B84-1B35-4A2B-A80F-40B6E11ADEEF}.png]] | ![[{9F8C94D7-3E19-43D7-9E2B-3693C9F5F95C}.png]] |
+|                     Velocity-time graph                     |                      Speed-time graph                       |
+| :---------------------------------------------------------: | :---------------------------------------------------------: |
+| ![[{5F846B84-1B35-4A2B-A80F-40B6E11ADEEF}.png]]<br>Figure 3 | ![[{9F8C94D7-3E19-43D7-9E2B-3693C9F5F95C}.png]]<br>Figure 4 |
 
 ### Suvat Equation Analyses
 
@@ -466,6 +472,9 @@ John is throwing a ball of a cliff with an angle $\theta$ with a initial velocit
 
 ![[A.1 - cliff example.svg]]
  
+ >[!Warning] TODO : The position of 2T in the image is wrong, it should on the yellow line instead. 
+ 
+ 
 >[!info] Define unknowns as :
 >- initial velocity :  $u = 20 \space ms^{-1}$
 >- initial height : $S_y  = 500 \space m$  
@@ -489,6 +498,7 @@ John is throwing a ball of a cliff with an angle $\theta$ with a initial velocit
 ##### <u><strong>Hard Questions</strong></u>
 
 ==John is now able to alter his throwing angle to be any angle between -70° and 70°==
+
 >[!warning] Questions may requires knowledge of calculus to solve
 
 
@@ -501,6 +511,8 @@ John is throwing a ball of a cliff with an angle $\theta$ with a initial velocit
 
 
 ##### <u><strong>More than Hard but less than Extreme questions</u></strong>
+
+>[!warning] The question requires knowledge of uncertainty which is covered in [[3 - Data analysis and modelling physics]]
 
 ==As John is a human and not a robot, his aim accuracy now has a uncertainty of ±5°.== 
 
@@ -550,7 +562,7 @@ Let's resolute the displacement, velocity and acceleration vectors to understand
 
 ###### <u><strong>Intermediate Questions</u></strong>
 
->[!solution] Question 1
+>[!solution]  Solution to question 1
 >Substitute $s$ = $s_x$,  $u$ = $u\cos{\theta}$, and $a = 0$ into $s= ut + \frac{1}{2}at^2$
 >
 >$[s_x] = [u\cos{\theta}] \cdot t + \frac{1}{2}[0]t^2$
@@ -622,7 +634,7 @@ Let's resolute the displacement, velocity and acceleration vectors to understand
 >$s_x = u\cos{\theta} \cdot t$
 >$s_y = u\sin{\theta} \cdot t -\frac{1}{2}gt^2 + S_y$
 
->[!solution] Question 2
+>[!solution] Solution to question 2
 > At max height $v_y \text{ (vertical velocity)} = 0$
 > 
 > Substitute $v_y = 0$, $t = T$,$u = u\sin{\theta}$ and $a = -g$ into $v = u + at$
@@ -635,7 +647,7 @@ Let's resolute the displacement, velocity and acceleration vectors to understand
 > 
 >  $T = \dfrac{(20)\sin{(30\degree)}}{(9.8)} \approx 1.02 \space \text{seconds}$
 
->[!solution] Question 3
+>[!solution] Solution to question 3
 > 
 > let's observe the flight plan of the ball with respect to time
 > 
@@ -668,7 +680,7 @@ Let's resolute the displacement, velocity and acceleration vectors to understand
 > 
 > $\text{total time taken} = 2(\dfrac{(20)\sin{(30)\degree} + (500)}{(9.8)}) \approx 11.2 \text{ seconds}$
 
->[!solution] Question 4
+>[!solution] Solution to question 4
 > using $v = u + at$
 > 
 > $v_x = (20)\cos{(30 \degree)} + (0)(11.2)$
@@ -688,10 +700,10 @@ Let's resolute the displacement, velocity and acceleration vectors to understand
 
 ###### <u><strong>Hard Questions</u></strong>
 
->[!solution] question 1
+>[!solution] Solution to question 1
 > The greater the throwing angle ($\theta$), the greater the max height of the ball. As John's throwing is now restricted between -70° and 70°, The angle required to maximise the throwing angle is 70°.
 
->[!solution] question 2
+>[!solution] Solution to question 2
 > using $s_y = u\sin\theta\cdot{t} - \frac{1}{2}gt^2 + S_y$  from ==Intermediate Question 1==, rearrange for time and substitute constants
 >  
 >  $s_y = u\sin\theta\cdot{t} - \frac{1}{2}gt^2 + S_y$
@@ -718,7 +730,7 @@ Let's resolute the displacement, velocity and acceleration vectors to understand
 >
 >>$\text{Angle for maximum flight time} = 70\degree$
 
->[!solution] question 3
+>[!solution] Solution to question 3
 >
 >Substitute constants into ($s_x = u\cos\theta\cdot{t}$  from ==Intermediate Question 1==) and substitue the above equation from ==Hard Question 2==
 >
@@ -745,7 +757,7 @@ Let's resolute the displacement, velocity and acceleration vectors to understand
 >
 >>$\text{Angle for maximum range} = 11.20133\degree$
 
->[!correct] solution 4
+>[!correct] Solution to question 4
 >Using $v = u + at$, let's derive the equation which gives speed
 >
 >$v_x = (20)\cos\theta + (0)t$
@@ -774,6 +786,14 @@ Let's resolute the displacement, velocity and acceleration vectors to understand
 >As $\theta$ is eliminated from the speed, Speed before impact is not dependant on the angle and thus any angle will result in the same speed. 
 >
 >So the answer is ==any real angle==
+
+###### <u><strong>More than Hard but less than Extreme Questions</u></strong>
+
+###### <u><strong>Extreme Questions</u></strong>
+
+
+>[!solution] solution to question 1
+
 
 
 ---
