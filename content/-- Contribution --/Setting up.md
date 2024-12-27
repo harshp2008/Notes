@@ -20,4 +20,113 @@ After writing your Markdown Notes, everything will be published to Github, (an o
 We use Github to keep track of big changes, and publish the notes to a website and Dropbox to instantly sync your notes with every other devices accessing a copy of obsidian with this notes.
 
 Without further ado let's Setup your PC for Notetaking. 
-# Setup Instructions
+# Installation Instructions
+
+## Install NodeJS and NPM
+
+1. Install NodeJS and NPM by clicking on this link https://nodejs.org/en/download/prebuilt-installer, choose the one that fits your operating system.
+2. Verify that you have successfully installed them by running this two command in the command line: 
+   
+```shell
+# verifies the right Node.js version is in the environment
+
+node -v # should print some version like this "v22.12.0"
+
+# verifies the right npm version is in the environment
+
+npm -v # should print some version like this "10.9.0"
+```
+
+# Install Obsidian
+1. Install obsidian by clicking on this link https://obsidian.md, choose the one that fits your operating system.
+
+## Creating a Github account
+
+1. Sign up for a Github account using this link https://github.com/signup.
+2. Don't forget your credentials, you will be needing them later.
+
+## Installing Git
+
+1. Click on this link https://git-scm.com/downloads and download git, choose the one that fits your operating system
+   
+2. Just keep clicking the next button till you hit the install button.
+   
+3. Open the terminal, and type `git version`, this should output something that tells what version of git you are using.
+   
+4. Once the terminal is opened, run the following commands one by one: 
+
+Put your first name and last name
+```shell
+git config --global user.name "First_Name Last_Name"
+```
+
+to confirm that it is successfully set run:
+
+```shell
+git config --global user.name
+```
+
+this should output your name back.
+
+Type this in the command line, and make sure to use the username that you used to sign up the account with Github.
+
+```shell
+git config --global user.email "youremail@gmail.com"
+```
+
+To confirm that you have set your Git email correctly, type this:
+
+```shell
+git config --global user.email
+```
+
+You should have "youremail@gmail.com" as the output.
+
+You will be asked to authenticate your GitHub account, so just sign in with the same email to confirm.
+
+## Installing Visual Studio Code
+
+1. Click on this link https://code.visualstudio.com and download vs code, choose on that fits your operating system.
+2. Click the profile account and sign in / Authenticate with Github.
+
+# Cloning the project
+
+1. Create a new folder, I prefer to make mine on the desktop. Right click on the folder and click "open with VS code."
+
+2. Type the following in the command line and press enter:
+```shell
+git clone https://github.com/harshp2008/Notes.git
+```
+
+3. if you are not in child "Notes" Folder, open that folder with VS Code or run this two command :
+
+```shell
+cd Notes
+```
+
+```shell
+code .
+```
+
+
+4. Set the remote origin by typing this in the command line 
+```shell
+git remote set-url origin https://github.com/harshp2008/Notes.git
+```
+
+5. To ensure that quartz 4.0 is all set up for the project, run this command
+
+```shell
+npx quartz sync
+```
+
+6. And to alert others thar you have successfully completed the setup, run this command but replace [Your name ] with your real name:
+
+```shell
+npx quartz sync -m "[Your name]'s PC has been succesfully set up."
+```
+
+
+
+
+
