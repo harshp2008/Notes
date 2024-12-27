@@ -1,11 +1,11 @@
 ---
-title: French Home Page
+title: French
 draft: false
 tags:
   - french
+Authors: []
 ---
 ---
-
 
 # Grammer
 

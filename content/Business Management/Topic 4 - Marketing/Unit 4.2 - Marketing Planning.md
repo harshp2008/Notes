@@ -3,6 +3,8 @@ title: Unit 4.2 - Marketing Planning
 draft: false
 tags:
   - BM
+Authors:
+  - Harsh
 ---
 ---
 

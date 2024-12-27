@@ -1,8 +1,10 @@
 ---
-title: Physics Home Page
+title: Physics
 draft: false
 tags:
   - physics
+Authors:
+  - Harsh
 ---
 ---
 

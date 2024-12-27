@@ -3,6 +3,8 @@ title: Unit 4.1 - Introduction to Marketing
 draft: false
 tags:
   - BM
+Authors:
+  - Harsh
 ---
 ---
 

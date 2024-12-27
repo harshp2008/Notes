@@ -3,6 +3,8 @@ title: Unit 1.2 - Types of Business Entries
 draft: false
 tags:
   - BM
+Authors:
+  - Harsh
 ---
 ---
 

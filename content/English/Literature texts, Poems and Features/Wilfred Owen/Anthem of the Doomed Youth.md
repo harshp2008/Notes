@@ -3,6 +3,8 @@ title: Anthem of the Doomed Youth
 draft: false
 tags:
   - English
+Authors:
+  - Harsh
 ---
 ---
 # Poem

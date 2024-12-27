@@ -3,6 +3,8 @@ title: Unit A.1 - Kinematics
 draft: false
 tags:
   - physics
+Authors:
+  - Harsh
 ---
 
 [[Physics Home Page | Back to Homepage]]

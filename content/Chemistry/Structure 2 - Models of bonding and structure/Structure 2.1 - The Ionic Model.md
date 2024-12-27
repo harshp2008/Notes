@@ -3,6 +3,8 @@ title: Structure 2.1 - The Ionic Model
 draft: false
 tags:
   - chemistry
+Authors:
+  - Harsh
 ---
 ---
 # Introduction to bonds and structure

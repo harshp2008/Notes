@@ -1,8 +1,9 @@
 ---
-title: Business Management Home Page
+title: Business Management
 draft: false
 tags:
   - BM
+Authors:
 ---
 ---
 
