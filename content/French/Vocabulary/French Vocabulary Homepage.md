@@ -74,7 +74,7 @@ tags:
 >
 ><strong><font color="#4bacc6">Aspects couverts</font></strong>
 >
->- Les repas, les recettes de cuisine, les traditions culimaires
+>- Les repas, les recettes de cuisine, les traditions culinaires
 >- Les achats : les courses, les commerces, le marché
 >- Les restaurants
 
@@ -119,3 +119,10 @@ tags:
 >- Les récits de voyage
 >- Les fêtes et les coustumes
 >
+
+
+---
+
+<h1 style="text-align:center">FUTHER AMMENDMENTS WILL BE MADE LATER</h1>
+
+---

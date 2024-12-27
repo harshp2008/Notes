@@ -57,30 +57,33 @@ date: 11 / 12 / 2024
 Write a message émail  à invitez votre ami(e), pur une soirée musicale dans quartier (region / place / area). Écrivez ce e-mail.
 
 ---
-# Les activites en vacances
+# Les activités en vacances
 
 
+| French                                      | English                                            |
+| :------------------------------------------ | :------------------------------------------------- |
+| Je fais de la planche à voile               | I go wind surfing                                  |
+| Je fais de la voile                         | I go surfing                                       |
+| Je fais de l'accrobranche                   | I do tree-top trekking <br>I do tree-top adventure |
+| Je fais du ski                              | I do skiing                                        |
+| Je visite les musées                        | I visit the museums                                |
+| Je visite les monuments                     | I visit the monuments                              |
+| Je vais à la pêche                          | I go fishing                                       |
+| Je vais à la plage                          | i go to the beach                                  |
+| Je fais de la natation                      | I do swimming                                      |
+| Je me promène                               | I go for a stroll<br>I go for a walk               |
+| Je me repose                                | I rest                                             |
+| Je me lève (tôt / tard)                     | I get up (early / late)                            |
+| Je m'habille (bien)                         | I get dressed up (well)                            |
+| Je m'habille bien en mes nouveaux vêtements |                                                    |
+| Je me ennuyeux                              | I get bored                                        |
+| Je me ennuyeux pas                          | i don't get bored                                  |
+| Je sorts au restaurant                      | I go out to a restaurant                           |
+| Je regarderais le coucher du soleil         | I would watch the sunset                           |
+| Je ferais des randonnées                    | I would go hiking                                  |
+| Je me reposerais                            | I would rest                                       |
+| Je nagerais avec les poissons tropicaux     | I swim with tropical fish                          |
 
-| French                                     | English                                            |
-| :----------------------------------------- | :------------------------------------------------- |
-| Je fais de la planche à voile              | I go wind surfing                                  |
-| Je fais de la voile                        | I go surfing                                       |
-| Je fais de l'accrobranche                  | I do tree-top trekking <br>I do tree-top adventure |
-| Je fais du ski                             | I do skiing                                        |
-| Je visite les musées                       | I visit the museums                                |
-| Je visite les monuments                    | I visit the monuments                              |
-| Je vais à la pêche                         | I go fishing                                       |
-| Je vais à la plage                         | i go to the beach                                  |
-| Je fais de la natation                     | I do swimming                                      |
-| Je me promène                              | I go for a stroll<br>I go for a walk               |
-| Je me repose                               | I rest                                             |
-| Je me lève (tôt / tard)                    | I get up (early / late)                            |
-| Je m'habille (bien)                        | I get dressed up (well)                            |
-| Je m'habille bien en mes nouveux vêtements |                                                    |
-| Je me ennuyeux                             | I get bored                                        |
-| Je me ennuyeux pas                         | i don't get bored                                  |
-| Je sorts au restaurant                     | I go out to a restaurant                           |
-| Je regarderais le coucher du soleil        | I would watch the sunset                           |
-| Je m'amuserais                             |                                                    |
-
+on -> informal 
+nous -> formal
 
