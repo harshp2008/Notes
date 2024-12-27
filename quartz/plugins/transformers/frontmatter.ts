@@ -71,6 +71,12 @@ export const FrontMatter: QuartzTransformerPlugin<Partial<Options>> = (userOpts)
             const cssclasses = coerceToArray(coalesceAliases(data, ["cssclasses", "cssclass"]))
             if (cssclasses) data.cssclasses = cssclasses
 
+
+
+            const Authors = coerceToArray(coalesceAliases(data, ["authors", "authors", "Author", "Authors"]))
+            if (Authors) data.authors = [...new Set(Authors.map((author: string) => slugTag(author)))]
+
+
             const socialImage = coalesceAliases(data, ["socialImage", "image", "cover"])
 
             if (socialImage) data.socialImage = socialImage
@@ -99,6 +105,7 @@ declare module "vfile" {
         cssclasses: string[]
         socialImage: string
         comments: boolean | string
+        Authors: string[]
       }>
   }
 }

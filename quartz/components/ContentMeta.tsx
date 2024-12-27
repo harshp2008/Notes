@@ -42,10 +42,40 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
         segments.push(<span>{displayedTime}</span>)
       }
 
+      var Authors = fileData.frontmatter?.Authors
+
+      if (Authors === undefined || Authors === null || typeof(Authors) != typeof([]) || Authors.length === 0 ) {
+        Authors = ["Unknown"] 
+      }
+      
+
       return (
-        <p show-comma={options.showComma} class={classNames(displayClass, "content-meta")}>
-          {segments}
-        </p>
+
+        <div class={classNames(displayClass, "content-meta-parent")}>        
+          
+          <p show-comma={options.showComma} class={classNames(displayClass, "content-meta")}>
+            {segments}
+          </p>
+
+
+          <div  class={classNames(displayClass, "content_author")}>
+
+            <span style="white-space: pre">Written By : </span> 
+      
+              <p show-comma={true} class={classNames(displayClass, "content-meta-author-list")}>
+              {
+                Authors?.map((Author) => {
+            
+                return (<span>{Author}</span>)})
+              }
+      
+            </p>
+        
+          </div>
+            
+          
+      </div>
+
       )
     } else {
       return null

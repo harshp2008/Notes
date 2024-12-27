@@ -76,7 +76,7 @@ var orignal_theme : GlobalConfiguration["theme"] = {
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Harsh's Notes",
+    pageTitle: "🪴 Notescapes",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
