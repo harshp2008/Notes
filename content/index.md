@@ -28,7 +28,7 @@ I originally to chose to write this notes as I wanted to digitalise my hand-writ
 
 But as I continued to write notes, it became a bit harder to take time out to write them and I also didn't really know whether my notes were of the "best-quality". So I chose to make this public and allow others to share doubts, questions and actively contribute. I am hopping that with a bit of integrity, the collective knowledge will help create "High-quality"  notes, which are informative, easy to understand and also concise but leave enough room to dive into the nitty gritty of the complexity of the topic. 
 
-<center><span style="font-size: 18px; text-align: center; font-weight:500" >This online notes is my long term CAS project and it can be yours too!</span></center>
+<center><span style="border-radius:8px; border: 1px solid black; font-size: 18px; text-align: center; font-weight:500" >This online notes is my long term CAS project and it can be yours too!</span></center>
 
 # Contribution
 
@@ -36,9 +36,9 @@ Without the amazing people behind obsidian and quartz 4.0, making a knowledge ga
 
 So here are a list of them:
 
-- Harsh
+- Empty for now
 
-For now there is only me or just an handful, but I hope it can grow through contributions.
+For now it is either empty or just an handful of contributors, but I hope it can grow through contributions.
 ## How to Contribute
 
 Want to contribute? Want to put your own spin on this notes and explain thing in a better way ? We invite you to do so, frankly any help will be greatly appreciated. You just need to setup your personal computer using this few easy step linked here:

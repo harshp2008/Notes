@@ -6,6 +6,11 @@ tags:
 Authors: []
 ---
 ---
+>[!warning] TODO:
+>- This page needs to be properly designed and linked to existing and new related content. 
+>  
+>- A proper framework needs to be laid out for both grammer section and the vocabulary section
+
 
 # Grammer
 
@@ -19,6 +24,9 @@ Authors: []
 
 # Vocabulary
 
+>[!Danger] Take down of Notes
+> Some Vocabulary Notes may need to be changed as content has been "copied". For extra clarification, contact Harsh.
+> 
 
 
 
