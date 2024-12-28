@@ -26,6 +26,9 @@ This is a collection of Personal Notes related to school and studies. The main n
 ---
 # My Reasons to write Note
 
+>[!info] Dogs
+>dogs
+
 I originally to chose to write this notes as I wanted to digitalise my hand-written notes but also thought that writing online notes would be faster and more accessible from anywhere. A simple reason. 
 
 But as I continued to write notes, it became a bit harder to take time out to write them and I also didn't really know whether my notes were of the "best-quality". So I chose to make this public and allow others to share doubts, questions and actively contribute. I am hopping that with a bit of integrity, the collective knowledge will help create "High-quality"  notes, which are informative, easy to understand and also concise but leave enough room to dive into the nitty gritty of the complexity of the topic. 
