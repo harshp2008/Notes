@@ -1,7 +1,9 @@
 ---
 title: Home Page
 draft: false
-tags:
+tags: 
+Authors:
+  - Harsh
 ---
 
 This is a collection of Personal Notes related to school and studies. The main notes heavily focuses on IBDP but has expansions to other levels of complicity. For example for physics, I plan to write notes for JEE too. 
@@ -41,6 +43,6 @@ So here are a list of them:
 For now it is either empty or just an handful of contributors, but I hope it can grow through contributions.
 ## How to Contribute
 
-Want to contribute? Want to put your own spin on this notes and explain thing in a better way ? We invite you to do so, frankly any help will be greatly appreciated. You just need to setup your personal computer using this few easy step linked here:
+Want to contribute? Want to put your own spin on this notes and explain thing in a better way ? We invite you to do so, frankly any help will be greatly appreciated. You just need to setup your personal computer using this few easy steps linked here:
 
 [[Setting up| Setting up your PC for Obsidian + Quartz]]

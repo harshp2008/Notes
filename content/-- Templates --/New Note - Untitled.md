@@ -1,6 +1,7 @@
 ---
 title: New Note
 draft: false
-tags:
+tags: 
+Authors: []
 ---
 ---

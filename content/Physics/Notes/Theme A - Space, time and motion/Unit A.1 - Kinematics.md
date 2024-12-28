@@ -488,19 +488,23 @@ By analysing and understanding projectile motion and the mathematics behind we c
 
 But in hindsight all of that seem a bit boring, mostly cause they are mathematical properties and not real life application. Here are some real life applications:
 
-1. Find the minimum angle required for a tennis player who has a attack speed of $40 \space ms^{-1}$ to clear a $2 \space m$ tall net which is $12 \space m$ away from where the player serves the ball. Assume air resistance is negligible.
+> [!example] Example Question 1
+> Find the minimum angle required for a tennis player who has a attack speed of $40 \space ms^{-1}$ to clear a $2 \space m$ tall net which is $12 \space m$ away from where the player serves the ball. Assume air resistance is negligible.
 
-2. A plane travelling at 3000 meter (cruising altitude) above the sea is perfectly parallel with the water. It has an initial velocity of 270 $ms^{-1}$ and has the motion of the plane is uniform.
-   
-   The plane suddenly faces cabin depressurisation and it's required to descend to 900 meters above sea level immediately. Given that the plane has the same initial speed but is now titled $15 \degree$ down and has a uniform vertical acceleration of $-19.8 \space ms^{-2}$. 
-   
-   How long will it take for the plane to reach 900 meters. 
+> [!example] Example Question 2
+> A plane travelling at 3000 meter (cruising altitude) above the sea is perfectly parallel with the water. It has an initial velocity of 270 $ms^{-1}$ and has the motion of the plane is uniform.
+> 
+> The plane suddenly faces cabin depressurisation and it's required to descend to 900 meters above sea level immediately. Given that the plane has the same initial speed but is now titled $15 \degree$ down and has a uniform vertical acceleration of $-19.8 \space ms^{-2}$. 
+> 
+> How long will it take for the plane to reach 900 meters. 
 
-3. An archer is standing 100 meters away from the middle of a train track which has a tiny moving train with a target board attached to it. The center of the target board is at the same height of arrow that will be released form.
-   
-   The train track is also 100 meter long and the train moves at 10 meters per second. The train starts to move once the the arrow has been released from the archer's hand.
-   
-   Given that the archer has his bow at a 30 degree's from the ground and no air resistance. Find the speed at which the arrow must be released with, such that the once the arrow is released it will perfectly hit the target board mounted on the train. 
+
+> [!example] Example Question 3
+> An archer is standing 100 meters away from the middle of a train track which has a tiny moving train with a target board attached to it. The center of the target board is at the same height of arrow that will be released form.
+> 
+> The train track is also 100 meter long and the train moves at 10 meters per second. The train starts to move once the the arrow has been released from the archer's hand.
+> 
+> Given that the archer has his bow at a 30 degree's from the ground and no air resistance. Find the speed at which the arrow must be released with, such that the once the arrow is released it will perfectly hit the target board mounted on the train. 
 
 The last two questions are lengthy to read and can be a bit challenging to solve but once a proper diagram has been setup, the question will be a piece of cake. 
 
@@ -512,7 +516,7 @@ But for the sake of IB, question will be kept fairly simple to answer, so there'
    
 Let's further understand projectile motion by analysing the path taken by a ball that is kicked by a soccer player. (Assume air resistance to be negligible)
 
-![[A.1 - ball projectile motion|100%]]
+![[A.1 - ball projectile motion.svg|100%]]
 
 Let's define a couple variable before we move forward
 
@@ -525,7 +529,7 @@ Let's define a couple variable before we move forward
 |   $g$    | acceleration due to gravity ($\space g = 9.81 \space ms^{-2} \space$) |
 |   $s$    | Displacement at time t                                                |
 |   $v$    | Velocity at time t                                                    |
-|    t     | time                                                                  |
+|   $t$    | time                                                                  |
 |   $H$    | Max height                                                            |
 |   $T$    | Time taken to reach Max height                                        |
 |   $2T$   | Time taken to for ball to be thrown and return to the ground          |
@@ -537,18 +541,21 @@ Let's resolute the acceleration and velocity vectors to understand it further.
 | Initial displacement (D)   |       0       |       0       |
 | Initial velocity ($u$)     | $u\cos\theta$ | $u\sin\theta$ |
 | initial acceleration ($a$) |       0       |     $-g$      |
+>[!warning] Be Careful of Initial Displacement
+>The Initial displacement in this case is 0 for both X and Y, but this need not to be the case. We will look at how to solve question, which have non-zero Initial Displacement, in another sub-section below.
+
 ##### Finding velocity for any point in time $\large{t}$
 
 using $\large{v =u + at}$, 
 
-| Horizontal velocity ($u_x$)                                                 | Vertical velocity ($u_x$)                                                         |
+| Horizontal velocity ($v_x$)                                                 | Vertical velocity ($v_y$)                                                         |
 | --------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
 | <br>$\large{v_x = (u\cos\theta) + (0)t}$<br><br>$\large{v_x = u\cos\theta}$ | <br>$\large{v_y = (u\sin\theta) + (-g)t}$<br><br>$\large{v_y = u\sin\theta - gt}$ |
 ##### Finding displacement for any point in time $\large{t}$
 
 using $\large{s = ut + \frac{1}{2}at^2}$,
 
-| Horizontal displacement ($u_x$)                                                                  | Vertical displacement ($u_x$)                                                                                        |
+| Horizontal displacement ($s_x$)                                                                  | Vertical displacement ($s_y$)                                                                                        |
 | ------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------- |
 | <br>$\large{s_x = (u\cos\theta)t + \frac{1}{2}(0)t^2}$<br><br>$\large{s_x = u\cos\theta\cdot t}$ | <br>$\large{s_y = (u\sin\theta)t + \frac{1}{2}(-g)t^2}$<br><br>$\large{s_y = u\sin\theta \cdot t - \frac{1}{2}gt^2}$ |
 
@@ -585,7 +592,6 @@ $T = \dfrac{u\sin\theta}{g}$
 
 Given that time at max height is  $T = \dfrac{u\sin\theta}{g}$, we can substitue T into $s_y = u\sin\theta \cdot t - \dfrac{1}{2}gt^2$
 
-
 $s_y = u\sin\theta \cdot (\space \dfrac{u\sin\theta}{g} \space) - \dfrac{1}{2}g(\space \dfrac{u\sin\theta}{g} \space)^2$
 
 $s_y =  \dfrac{2(u\sin\theta)^2}{2g} \space - \dfrac{(u\sin\theta)^2}{2g}$
@@ -609,13 +615,62 @@ Given that time when the projectile returns to the floor is,  $\text{time taken}
 
 $\text{range} = u\cos\theta\cdot (\dfrac{2u\sin\theta}{g})$
 
-$\text{range} =  (\dfrac{u^2 (  2\sin\theta \cdot \cos\theta)}{g})$
+$\text{range} =  \dfrac{u^2 (  2\sin\theta \cdot \cos\theta)}{g}$
 
-$\text{range} =  (\dfrac{u^2 \sin(2\theta)}{g})$
-
-
+$\text{range} =  \dfrac{u^2 \sin(2\theta)}{g}$
 
 ********
+
+### Projectile Motion Cheat Sheet
+
+Before we move on to solving some questions, here is a list containing  equations and variables that we have studied. You must make yourself familiar with them in order to score well in IB.
+
+If you are thinking that you can derive this equations on the spot like how I did, think again, you will take too much time in deriving it and also you may make mistakes. So I highly recommend you to just memorise them.
+
+I am just going to leave the picture above for easy reference:
+
+![[A.1 - ball projectile motion.svg|100%]]
+
+| Variable | What it denotes                                                       |
+| :------: | --------------------------------------------------------------------- |
+| $\theta$ | Initial angle of attack                                               |
+|   $u$    | Initial Speed / initial Velocity ( if $\theta$ is not given )         |
+|  $u_x$   | x-component of the initial velocity                                   |
+|  $u_y$   | y-component of the initial velocity                                   |
+|   $g$    | acceleration due to gravity ($\space g = 9.81 \space ms^{-2} \space$) |
+|   $s$    | Displacement at time t                                                |
+|   $v$    | Velocity at time t                                                    |
+|   $t$    | time                                                                  |
+|   $H$    | Max height                                                            |
+|   $T$    | Time taken to reach Max height                                        |
+|   $2T$   | Time taken to for ball to be thrown and return to the ground          |
+
+| Formula solves for                                   | Formula                                                    |
+| ---------------------------------------------------- | ---------------------------------------------------------- |
+| <t> </t>                                             |                                                            |
+| <mark><strong>Velocity Equations</strong></mark>     |                                                            |
+| Horizontal Velocity ($v_x$)                          | $\large{v_x = u\cos\theta}$                                |
+| Vertical Velocity ($v_y$)                            | $\large{v_y = u\sin\theta - gt}$                           |
+| <t> </t>                                             |                                                            |
+| <mark><strong>Displacement Equations</strong></mark> |                                                            |
+| Horizontal Displacement ($s_x$)                      | $\large{s_x = u\cos\theta\cdot t}$                         |
+| Vertical Displacement ($s_y$)                        | $\large{s_y = u\sin\theta \cdot t - \frac{1}{2}gt^2}$      |
+| <t> </t>                                             |                                                            |
+| Time to reach Max height (T)                         | $T = \large{\dfrac{u\sin\theta}{g}}$                       |
+| <t> </t>                                             |                                                            |
+| Max Height (H)                                       | $\large{s_y =  \dfrac{u^2\sin^2\theta}{2g} \space}$<br>    |
+| <t> </t>                                             |                                                            |
+| Time taken to return to the floor (2T)               | $2T = \large{\dfrac{2u\sin\theta}{g}}$                     |
+| <t> </t>                                             |                                                            |
+| Range / Max Horizontal Distance (H)                  | $\large{\text{range} =  \dfrac{u^2 \sin(2\theta)}{g}}$<br> |
+
+
+---
+
+<h1 style="text-align: center; border:3px Dashed black; padding:20px">Please ignore this segment of the notes </h1>
+<h4 style="text-align: center; ">The difficulty of questions has not been moderated yet</h4>
+
+---
 
 ![[Projectile Motion -  Questions|100%]]
 
