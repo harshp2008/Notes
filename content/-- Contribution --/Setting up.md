@@ -27,6 +27,7 @@ Without further ado let's Setup your PC for Notetaking.
 ## Install NodeJS and NPM
 
 1. Install NodeJS and NPM by clicking on this link https://nodejs.org/en/download/prebuilt-installer, choose the one that fits your operating system.
+   
 2. Verify that you have successfully installed them by running this two command in the command line: 
    
 ```shell
@@ -39,7 +40,8 @@ node -v # should print some version like this "v22.12.0"
 npm -v # should print some version like this "10.9.0"
 ```
 
-# Install Obsidian
+## Install Obsidian
+
 1. Install obsidian by clicking on this link https://obsidian.md, choose the one that fits your operating system.
 
 ## Creating a Github account
