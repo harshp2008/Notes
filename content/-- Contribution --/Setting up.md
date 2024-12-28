@@ -21,7 +21,18 @@ We use ==Github== to keep track of big changes, and keeps a list of commit histo
 
 ==Dropbox== is used to instantly sync the notes with every other devices accessing a copy of obsidian with this notes.
 
-Without further ado let's Setup your PC for Notetaking. 
+Without further ado let's Setup your PC for Notetaking.
+
+
+---
+
+<h1 style="text-align:center; border:3px dashed black; padding: 20px; border-radius:10px">REWRITING OF THE INSTALLATION <br> IS REQUIRED</h1>
+<p style="text-align:center">Continuing to follow the instructions bellow may require a very long time and you may get stuck in the process. A better, more intuitive solution is on the way.<p> 
+
+<p style="text-align:center">A step-to-step guide for the new solution will be written shortly after the new solution is made public.</p>
+
+---
+
 # Installation Instructions
 
 ## Install NodeJS and NPM
