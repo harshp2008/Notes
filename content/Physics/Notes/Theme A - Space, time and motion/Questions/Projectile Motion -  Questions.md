@@ -103,7 +103,7 @@ Let's resolute the displacement, velocity and acceleration vectors to understand
 
 
 
-###### <u><strong>Intermediate Questions</u></strong>
+###### <u><strong>Intermediate Questions</u></strong>> 
 
 >[!solution]  Solution to question 1
 >Substitute $s$ = $s_x$,  $u$ = $u\cos{\theta}$, and $a = 0$ into $s= ut + \frac{1}{2}at^2$
@@ -300,7 +300,7 @@ Let's resolute the displacement, velocity and acceleration vectors to understand
 >
 >>$\text{Angle for maximum range} = 11.20133\degree$
 
->[!correct] Solution to question 4
+>[!solution] Solution to question 4
 >Using $v = u + at$, let's derive the equation which gives speed
 >
 >$v_x = (20)\cos\theta + (0)t$
@@ -328,7 +328,7 @@ Let's resolute the displacement, velocity and acceleration vectors to understand
 >
 >As $\theta$ is eliminated from the speed, Speed before impact is not dependant on the angle and thus any angle will result in the same speed. 
 >
->So the answer is ==any real angle==
+>So the answer is ==any real angle==.
 
 ###### <u><strong>More than Hard but less than Extreme Questions</u></strong>
 
