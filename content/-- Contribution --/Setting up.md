@@ -61,9 +61,9 @@ npm -v # should print some version like this "10.9.0"
    
 2. Don't forget your credentials, you will be needing them later.
 
-## Installing Git
+## Installing Github Desktop
 
-1. Click on this link https://git-scm.com/downloads and download git, choose the one that fits your operating system
+1. Click on this link https://git-scm.com/downloads and download Github Desktop, choose the one that fits your operating system. Installing Github Desktop will also install Git. This will simplify the setup process.
    
 2. Just keep clicking the next button till you hit the install button.
    

@@ -9,7 +9,8 @@ Authors:
 ---
 
 [[Section 3 - Motion with Gravity| Previous Section : Motion with Gravity]]
-[[Section 5 - Moving through Fluids | Next Section : Projectile Motion]]
+[[Section 5 - Moving through Fluids | Next Section : Moving through Fluids]]
+
 
 ---
 # Introduction to 2 Dimensional Motion

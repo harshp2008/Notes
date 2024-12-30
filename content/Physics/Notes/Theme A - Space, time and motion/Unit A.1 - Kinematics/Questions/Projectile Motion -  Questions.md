@@ -103,7 +103,7 @@ Let's resolute the displacement, velocity and acceleration vectors to understand
 
 
 
-###### <u><strong>Intermediate Questions</u></strong>> 
+###### <u><strong>Intermediate Questions</u></strong>
 
 >[!solution]  Solution to question 1
 >Substitute $s$ = $s_x$,  $u$ = $u\cos{\theta}$, and $a = 0$ into $s= ut + \frac{1}{2}at^2$
