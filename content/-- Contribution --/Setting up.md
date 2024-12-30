@@ -37,19 +37,35 @@ Without further ado let's Setup your PC for Notetaking.
 
 ## Install NodeJS and NPM
 
-1. Install NodeJS and NPM by clicking on this link https://nodejs.org/en/download/prebuilt-installer, choose the one that fits your operating system.
+1. Install NodeJS and NPM by clicking on this link https://nodejs.org/en/download/prebuilt-installer, choose the one that fits your operating system. Click on the installer to start the installer.
+	
+	![[{E5D02357-CF3E-49E0-B9AD-383C0DF39FAE}.png]]
+	
+	 For all of boxes with arrows, click the little arrows beside them and select ```Entire feature will be installed on local hard drive```. ==Make sure to do for all boxes==, this is very important. 
+	
+	![[{887DF2A6-49ED-46B5-AB28-FD6CE9749B0B}.png]]
+	
+	After doing this click the ```Next``` button.
+	
+	![[{E6427019-04AE-46A9-9B01-48DD5ACD484D}.png]]
+	
+	There is no need to install Chocolatey as the process fails or stays stuck in a endless loop if you click on it. But if your computer is compatible with it, you can choose to click on it. After deciding, click next to finish setting up NPM and NodeJS.
+	
+2. Opening the terminal by following these platform dependant steps.
    
-2. Verify that you have successfully installed them by running this two command in the command line: 
+   If you are on windows:
+   - press the `windows` + `s` button on your keyboard
+   - search for "Terminal" or "CMD" and press enter. 
    
-```shell
-# verifies the right Node.js version is in the environment
+   If you are on Mac, you can do one of the two:
 
-node -v # should print some version like this "v22.12.0"
+- Click the Launchpad icon in the Dock, type Terminal in the search field, then click Terminal.
 
-# verifies the right npm version is in the environment
+- In the Finder, open the /Applications/Utilities folder, then double-click Terminal.
 
-npm -v # should print some version like this "10.9.0"
-```
+3. Once the terminal is open,  run this command,  ```node -v ```. This command  verifies the if NodeJS is installed successfully. It should output some version number like =="v22.12.0"==.
+
+4. Once the first command runs successfully and outputs a version, run a second command `npm -v`. This command verifies the if NPM is installed successfully. It should output some version number like =="10.9.0"==.
 
 ## Install Obsidian
 
@@ -60,16 +76,93 @@ npm -v # should print some version like this "10.9.0"
 1. Sign up for a Github account using this link https://github.com/signup.
    
 2. Don't forget your credentials, you will be needing them later.
+## Installing Visual Studio Code
 
-## Installing Github Desktop
+1. Click on this link https://code.visualstudio.com and download VS Code, choose the one that fits your operating system. You can also install VS Code through the Microsoft Store.
+   
+2. After Installing, open VS Code. VS Code is an amazing Code IDE, but for our purposes, we will be using it's terminal feature to run commands later. Once it is open it should look somewhat like this:
 
-1. Click on this link https://git-scm.com/downloads and download Github Desktop, choose the one that fits your operating system. Installing Github Desktop will also install Git. This will simplify the setup process.
+![[{0D8C5453-6072-47F8-951F-CFE05350A43C}.png]]
+
+   2. Click the profile account and click sign in with Github or some option like that. In my case the options I had are shown in the image below. Just click anything with the word "Sign in"
    
-2. Just keep clicking the next button till you hit the install button.
+![[{F192901F-CEC1-46F1-95E4-7A29FA17EC59}.png]]
+
+3. Clicking on the button will open a new tab in your browser which require you to sign in with your Github account. It will look a bit like this: 
+
+	![[{C7046EBB-B856-44DA-92B7-6F3A9D700598}.png]]
+	
+	For me I get the option to directly continue as I have already signed in with Github in my browser. You may need to sign in with your Github account to continue. Once you sign in, you will be automatically redirected to VS Code again. It will look a bit like this:
+	
+	![[{280C431D-3B37-46AA-A894-0A134042D4B6}.png]]
+
+## Installing Git
+
+1. Click on this link https://git-scm.com/downloads and download Git, choose the one that fits your operating system. Click on the executable file and start the installation process.
+
+2. Accept the GNU General Public License by clicking Next
    
-3. Open the terminal, and type `git version`, this should output something that tells what version of git you are using.
+	![[{7142485C-6E8F-44B9-857E-3850B10D3088}.png]]
+
+3. Accept all the Checkboxes and Click Next
+	
+	![[{A292B9AA-73DF-4DD1-8426-30B860A04710}.png]]
    
-4. Run the following commands one by one in the terminal: 
+4. Click on the dropdown menu and select `Use Visual Studio Code as Git's default Editor`. After Selecting Click Next.
+	   
+	![[{DE680762-D115-42AF-B55B-67BD7E1D5034}.png]]
+
+5. Leave things as it is and click next. 
+	  
+	![[{DC534DAF-7877-4BF3-A399-8D3511253C31}.png]]
+
+6. Leave things as it is and click next. 
+	  
+	![[{BEEB7078-FBA8-470C-832C-15BCA56CFE2C}.png]]
+
+7. Leave this as it is, and click next.
+	
+	![[{AE4C754B-03D3-4F8C-8AF7-6F09145FEAC9}.png]]
+
+8. Leave things as it is, and click next. 
+	  
+	![[{A4B006E7-73DF-4F66-852D-96E187318DBB}.png]]
+
+9. Leave things as it is, and click next
+	
+	![[{F9B12053-B963-4D96-925A-3E5E97B45139}.png]]
+
+10. Leave things as it is, and click next. 
+    
+    ![[{8D1002B4-14D5-4250-874A-4C7B641AE907} 1.png]]
+
+11. Leave things as it is, and click next.
+    ![[{7F692884-3D12-4970-B253-E3C283098E1C}.png]]
+
+12. Leave things as it, and click next.
+    
+    ![[{097F7A87-912E-47DC-B540-2A909A1AE364}.png]]
+
+13. Leave things as it is and click Install.
+    ![[{9337CDC1-EB2A-432F-98AF-2655ABCA8A84}.png]]
+
+## Setting up Git
+
+1. Opening the terminal by following these platform dependant steps.
+   
+   If you are on windows:
+   - press the `windows` + `s` button on your keyboard
+   - search for "Terminal" or "CMD" and press enter. 
+   
+   If you are on Mac, you can do one of the two:
+
+- Click the Launchpad icon in the Dock, type Terminal in the search field, then click Terminal.
+
+- In the Finder, open the /Applications/Utilities folder, then double-click Terminal.
+
+2. After the terminal is opened, type `git version` and press `Enter`, It should output something like this "git version" + the current version of Git.
+   
+3. After verifying that git is installed, run the following commands one by one in the terminal: 
 
 Put your first name and last name
 ```shell
@@ -98,13 +191,9 @@ git config --global user.email
 
 You should have "youremail@gmail.com" as the output.
 
-You will be asked to authenticate your GitHub account, so just sign in with the same email to confirm.
+## Installing Github Desktop
 
-## Installing Visual Studio Code
-
-1. Click on this link https://code.visualstudio.com and download vs code, choose the one that fits your operating system.
-   
-2. Click the profile account and sign in / Authenticate with Github.
+1.  Click on this link https://desktop.github.com/download/ and download Github Desktop, choose the one that fits your operating system. Install the application.
 
 # Cloning the project
 
