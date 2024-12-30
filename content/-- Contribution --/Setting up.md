@@ -272,7 +272,31 @@ To help other know that you have successfully completed the setup, perform the f
 npx quartz sync -m "[Your name]'s PC has been succesfully set up."
 ```
 
-4. 
+4. Running the above command, will produce and output that resembles this:
+	
+	![[{55F280F2-33E4-4B70-8125-1AF189E18FBA}.png]]
 
+# Opening the folder in Obsidian
+
+1. Open obsidian. It will look a bit like this: 
+	
+	![[{B5ABCE18-6DD2-43B4-BA21-27061C57B47A}.png]]
+
+2. Click on `Open foler as vault` and a file select window will open. Navigate to `C:\Users\harsh\Documents\GitHub\Notes` and select the folder `content`. Here is a picture of that: 
+	
+	![[Pasted image 20241230234126.png]]
+
+3. Upon clicking on it Obsidian will open. It should look like this:
+	
+	![[{3E17910A-FF4A-4110-ABCB-85EE8EE7239C}.png]]
+	
+	 This is your Note taking Apps and here is the beautiful, clean interface where all Notes for Notescapes will be produced.
+# Next Steps
+
+You have now successfully setup your system for Notetaking. Read other articles below to learn more about the workflow of obsidian + quartz 4.0:
+
+- [[Authoring Content and Citing]]
+- [[Markdown Guide]]
+- [[Syncing to Github with Quartz]]
 
 
