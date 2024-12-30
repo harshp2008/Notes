@@ -224,17 +224,30 @@ You should have "youremail@gmail.com" as the output.
 	![[{349BD2F6-50FE-4323-BF64-ACF5F45E2A4B}.png]]
 
 >[!warning] Account is not a contributor
-> If you do not see a `harshp2008/Notes` option as highlighted above, that means that Harsh and contributors haven't given your permission. 
+> If you do not see a `harshp2008/Notes` option as highlighted above, that means that Harsh and contributors haven't given you contributor access to your account. 
 > <h2 style="text-align: center; border: 2px dashed black; padding: 5px; border-radius: 5px">DO NOT ATTEMPT TO CONTINUE <br> WITH THE SETUP</h2>
 > 
 > Your account is not a contributor yet. To continue on with this step, you will be required to message Harsh or any other existing contributors. Message your ==Real Name== and your ==Github username== and we will provide you contributor access and notify you back when that's done . 
 
-3. Click on `harshp2008/Notes`. This will clone the online repository to your device.
+3. Click on `harshp2008/Notes` and click the `Clone` button. This will clone the online repository to your device.
 
-4. 
+4. After the repository is successfully cloned, your Github Desktop will look something like this:
+	
+	![[{7906EE7F-DFEE-4A5B-8D46-56CC689F8066}.png]]
 
+5. Click the `Fetch origin` button.
 
-5. To ensure that quartz 4.0 is all set up for the project, run this command. 
+6. Click `Open in Visual Studio Code` button. This will open the Notes folder in VS Code, and it will look somewhat like this:
+	
+	![[{5A3B4460-ECE3-4440-B65D-CAA48F0AD0C5}.png]]
+
+7. Open the in-built terminal by clicking `ctrl` + `~` buttons on your keyboard. It will look a bit like this:
+	
+	![[{F59C9C96-A940-41DA-B4E4-128A949B3DC9}.png]]
+   
+8.  Run the command `npm i` in the terminal.
+   
+9. To ensure that your local files are the same as the one on the server, run the following command in the terminal. 
    
    >[!warning]
    >Running this command will remove any modifications made to the content folder and any other files inside the parent "Notes" folder. So don't edit any files before the setup is finished.
@@ -243,13 +256,23 @@ You should have "youremail@gmail.com" as the output.
 npx quartz sync --no-push --pull
 ```
 
-6. And to help alert others thar you have successfully completed the setup, run this command, but replace [Your name] with your real name:
+## Test Syncing
+
+To help other know that you have successfully completed the setup, perform the following steps:
+
+1. Under Files there will be a folder called "Setup Successful". In this folder there will be a file called, "Success.md". Click on that file and open it up. It will look a bit like this: 
+	
+	![[{A145526C-C087-4C4F-A146-889D1BFF8B2D}.png]]
+
+2. On a newline, add "- " followed by a space and then your name.
+   
+3. Open the inbuilt terminal if it not open yet, and run this command, but replace [Your name] with your real name:
 
 ```shell
 npx quartz sync -m "[Your name]'s PC has been succesfully set up."
 ```
 
-
+4. 
 
 
 
