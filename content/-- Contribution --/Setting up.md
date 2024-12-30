@@ -33,6 +33,17 @@ Without further ado let's Setup your PC for Notetaking.
 
 ---
 
+# Creating a Github account
+
+1. Sign up for a Github account using this link https://github.com/signup.
+   
+2. Don't forget your credentials, you will be needing them later. I recommend you to save them with some password manager. I use google password manager.
+
+3. You will need to message Harsh, or any other existing contributors. In this message, Include your personal Name and your Github username. This required to add your Github account as a contributor to the repository. This change will allow you to push commits to the server, aka allow you your changes to reflect on the [server (Github)](https://github.com/harshp2008/Notes) and the [website](https://harshp2008.github.io/Notes/).
+
+>[!warning] Warning: Message Harsh or any other contributors first
+>You can continue setting up your system for Notetaking but I have to warn you that without the authorization from Harsh or any other contributors, you will not be able to fully complete the Installation process. You will have to pause before starting [[#Cloning the project]]. 
+
 # Installation Instructions
 
 ## Install NodeJS and NPM
@@ -71,11 +82,6 @@ Without further ado let's Setup your PC for Notetaking.
 
 1. Install obsidian by clicking on this link https://obsidian.md, choose the one that fits your operating system.
 
-## Creating a Github account
-
-1. Sign up for a Github account using this link https://github.com/signup.
-   
-2. Don't forget your credentials, you will be needing them later.
 ## Installing Visual Studio Code
 
 1. Click on this link https://code.visualstudio.com and download VS Code, choose the one that fits your operating system. You can also install VS Code through the Microsoft Store.
@@ -195,30 +201,38 @@ You should have "youremail@gmail.com" as the output.
 
 1.  Click on this link https://desktop.github.com/download/ and download Github Desktop, choose the one that fits your operating system. Install the application.
 
+2. Once Github Destop is installed successfully. Open it up. 
+
+3. Under Files, a dropdown menu in the top left, click the button labelled `options`. It should open a pop up menu and should look a bit like this :
+	
+	![[{3CBC4BE8-2569-4C0B-A97E-1CB05E3DDD30}.png]]
+
+4. In my case, I have already signed in. You will be required to sign in. This will open a new tab in your browser, upon the completion of signing in, you should be redirected back to Github Destop.
+   
+5. Click `Git` in the drawer on the left.
+	
+	![[{9DC8FECA-42AB-4C05-8436-69B090DBFAAC}.png]]
+
+6. If the name and the email are not the ones that are being used with your Github account or are blank, you will need to fill them in. For email, use the email that you are using with your Github account. After doing that click the `save` button.
+   
 # Cloning the project
 
-1. Create a new folder, I prefer to make mine on the desktop. Right click on the folder and click "open with VS code."
+1. If Github Desktop is not opened, Open it.
 
-2. Type the following in the command line and press enter:
-```shell
-git clone https://github.com/harshp2008/Notes.git
-```
+2. Under `Files`, click `Clone a repository`. A popup window should open that looks a bit like this :
+	
+	![[{349BD2F6-50FE-4323-BF64-ACF5F45E2A4B}.png]]
 
-3. if you are not in child "Notes" Folder, open that folder with VS Code or run this two command :
+>[!warning] Account is not a contributor
+> If you do not see a `harshp2008/Notes` option as highlighted above, that means that Harsh and contributors haven't given your permission. 
+> <h2 style="text-align: center; border: 2px dashed black; padding: 5px; border-radius: 5px">DO NOT ATTEMPT TO CONTINUE <br> WITH THE SETUP</h2>
+> 
+> Your account is not a contributor yet. To continue on with this step, you will be required to message Harsh or any other existing contributors. Message your ==Real Name== and your ==Github username== and we will provide you contributor access and notify you back when that's done . 
 
-```shell
-cd Notes
-```
+3. Click on `harshp2008/Notes`. This will clone the online repository to your device.
 
-```shell
-code .
-```
+4. 
 
-
-4. Set the remote origin by typing this in the command line 
-```shell
-git remote set-url origin https://github.com/harshp2008/Notes.git
-```
 
 5. To ensure that quartz 4.0 is all set up for the project, run this command. 
    
