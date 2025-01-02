@@ -157,7 +157,7 @@ using $\large{s = ut + \frac{1}{2}at^2}$,
 | <br>$\large{s_x = (u\cos\theta)t + \frac{1}{2}(0)t^2}$<br><br>$\large{s_x = u\cos\theta\cdot t}$ | <br>$\large{s_y = (u\sin\theta)t + \frac{1}{2}(-g)t^2}$<br><br>$\large{s_y = u\sin\theta \cdot t - \frac{1}{2}gt^2}$ |
 
 >[!info] Extra information
-Notice how the horizontal velocity is constant throughout the motion. This will mostly be the case for most of the questions you will face, unless the questions mentions air resistance or some sort of acceleration for example:
+>Notice how the horizontal velocity is constant throughout the motion. This will mostly be the case for most of the questions you will face, unless the questions mentions air resistance or some sort of acceleration for example:
 >
 >- A rocket being launched from the side of a cliff.
 >- A rocket being launched at an angle into the sky.
