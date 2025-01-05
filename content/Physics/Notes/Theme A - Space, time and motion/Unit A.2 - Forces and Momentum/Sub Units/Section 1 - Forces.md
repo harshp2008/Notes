@@ -46,7 +46,7 @@ A Force is a vector property. It has both magnitude and a direction.
 >  
 > - **Raising an object**: Raising a ball from the ground to a certain height
 
-# Types of Forces:
+# The 4 Fundamental Forces:
 
 There are 4 Fundamental Forces in physics:
 
@@ -56,5 +56,38 @@ There are 4 Fundamental Forces in physics:
 - Weak Nuclear Force
  
 `Gravitational Force` and `Electromagentic Forces` are present ==everywhere== while `Strong Nuclear Force` and `Weak Nuclear Forces` can only be found inside the ==nucleus of a atom== 
+
+## Short explanation of each type of force [<font color="#2DC26B">Mostly Extra</font>]
+
+>[!info] What is Gravitational Force?
+>
+>>Gravitational force pulls objects with mass toward each other.
+>
+> - We often think about the force of gravity from Earth. This force is what keeps your body on the ground. 
+>	
+>	But _any_ object with mass exerts a gravitational force on all other objects with mass. For example, there is a gravitational force between you and every object around you!
+>  <br>
+>
+>- The gravitational force between two objects is larger when the masses of the objects are larger. 
+> 	 
+> 	 That’s why you can feel the gravitational force between you and Earth, but the force between you and objects with smaller masses is too weak to feel.
+><br>
+>- The gravitational force between two objects also depends on the distance between their centers. The further objects are from one another, the weaker the force is.
+>
+>
+> <u><strong>Gravitational Force Formula</strong></u>
+> 
+> Here is a equation that sums up all the points above.
+> 
+> $$\large{F = G\dfrac{m_1\space m_2}{r^2}}$$
+> <br>
+>
+>| Variables | <center>Definition</center>                                  |
+|   :--------:  | ------------------------------------------------- |
+|        $F$       | The gravitational force between two bodies         |
+|       $m_1$    | The mass of the first body                                       |
+|       $m_2$    | The mass of the second body                                 |
+|        $r$       | The distance between the centres of two bodies |
+
 
 

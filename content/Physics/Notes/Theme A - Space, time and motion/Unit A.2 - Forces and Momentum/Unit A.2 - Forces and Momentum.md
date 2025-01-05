@@ -7,10 +7,10 @@ Authors:
   - Harsh
 ---
 ---
-# Introduction
-
 
 >[!info] Tables of Contents
+>
+>[[Section 1 - Forces]]
 > [[Section 2 - Newton's Laws of Motion]]
 
 
@@ -34,9 +34,3 @@ In this Unit the following will be explored in advanced:
 - Newton's Laws of Motion
 
 Momentum is another concept, that allows us that quantifies the motion possessed by an object. It's basically mass times by the velocity. We will look deeper into momentum in this unit.
-
-
-
-
-
-
