@@ -67,7 +67,7 @@ var orignal_theme : GlobalConfiguration["theme"] = {
       textHighlight: "#b3aa0288",
     },
   },
-}
+} 
 
 /**
  * Quartz 4.0 Configuration
