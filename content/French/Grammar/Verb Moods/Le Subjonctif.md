@@ -8,7 +8,7 @@ Authors:
   - Harsh
 ---
 ---
-# Why is Subjonctif Used:
+# Where is Subjonctif Used:
 
 - Subjonctif is a french mood that expresses the speaker’s
     - opinion

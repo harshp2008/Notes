@@ -48,10 +48,23 @@ The French present tense, also known as the present indicative, is fairly simila
 
 **6.** [Historical accounts](https://www.lawlessfrench.com/grammar/historical-tenses/)
 
+
+
+---
+
+<h1 style="text-align:center">WORK IN PROGRESS FROM THIS POINT FORWARD</h1>
+
+---
+
 # Conjugation
+
+
+
 
 ## Exceptions
 <br><br>
 
 ---
+# Resources Used
+
 Information take from https://www.lawlessfrench.com/grammar/present-tense/

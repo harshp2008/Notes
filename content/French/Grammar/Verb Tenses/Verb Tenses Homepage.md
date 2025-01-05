@@ -1,5 +1,5 @@
 ---
-title: Tenses
+title: Verb Tenses
 draft: false
 tags:
   - french

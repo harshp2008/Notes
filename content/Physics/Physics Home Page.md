@@ -8,7 +8,11 @@ Authors:
 ---
 ---
 
-![[Banner image 1.jpg]]
+![[Banner image 1.jpg|100%]]
+
+>[!warning] Incomplete Pages ( written on 05 Jan 2025 )
+>- Most of the pages are being used as Placeholders except [[Unit A.1 - Kinematics]]. The other pages will be written over time. 
+
 
 >[!info] Theme A - Space, time and motion
 > - [[Unit A.1 - Kinematics]]

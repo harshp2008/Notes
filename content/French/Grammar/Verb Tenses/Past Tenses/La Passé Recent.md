@@ -1,13 +1,11 @@
 ---
-title: Unit B.1 - Thermal Energy Transfer
+title: La Passé Recent
 draft: false
 tags: 
 Authors:
   - Harsh
 ---
 ---
-
-# Introduction
 
 
 ---
