@@ -37,3 +37,7 @@ Authors:
 >[!info] Tool for physics
 >
 
+
+# Extra Materials (JEE and Others)
+
+- [[HC Verma Concepts of Physics Volume 1.pdf]]
