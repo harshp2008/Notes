@@ -13,6 +13,7 @@ Authors:
 > - [[Section 2 - Suvat Equations]]
 > - [[Section 3 - Motion with Gravity]]
 > - [[Section 4 - Projectile Motion]]
+> - [[Section 5 - Moving through Fluids]]
 
 
 >[!info] Guiding Questions ( From Textbook )
@@ -32,8 +33,11 @@ In this Unit, we will only be focusing on Kinematics and we will use this to sol
 
 ---
 <h4>Resources used from:</h4>
->[!QUOTE] Oxford Physics Course Companion (2023 Edition) 
+
+>[!quote] Oxford Physics Course Companion (2023 Edition) 
+>
 ><u>Written By:</u>
+>
 >- David Homer, 
 >- Maciej Piętka 
 >- William Heathcote

@@ -12,16 +12,22 @@ Authors: []
 >- A proper framework needs to be laid out for both grammer section and the vocabulary section
 
 
-# Grammer
+# Grammer 
 
->[!info] Tenses
+>[!info] Tenses (Quick Access)
+>
+>Visit [[Tenses Homepage| French Tenses Page]] for more information.
+>
 >- [[Le Présent]]
+>  
 >- [[L'Imperative]]
 >
 >- [[La Passé Compose]]
 >
 >- [[Le Subjonctif]]
 
+>[!info] Moods (Quick Access)
+>Visit [[Mood Homepage]] for more 
 # Vocabulary
 
 >[!Danger] Take down of Notes

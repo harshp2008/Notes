@@ -18,6 +18,11 @@ Authors:
 > - [[Unit A.5 - Galilean and special relativity]]
 
 >[!info] Theme B - The particulate nature of matter
+>- [[Unit B.1 - Thermal Energy Transfer]] 
+>- [[Unit B.2 - Greenhouse Effect]]
+>- [[Unit B.3 - Gas Laws]]
+>- [[Unit B.4 - Thermodynamics]]
+>- [[Unit B.5 - Current and Circuits]]
 
 >[!info] Theme C - Wave Behaviour
 

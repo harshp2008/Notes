@@ -76,6 +76,7 @@ var orignal_theme : GlobalConfiguration["theme"] = {
  */
 const config: QuartzConfig = {
   configuration: {
+
     pageTitle: "🪴 Notescapes",
     pageTitleSuffix: "",
     enableSPA: true,
@@ -86,8 +87,15 @@ const config: QuartzConfig = {
     locale: "en-US",
     baseUrl: "quartz.jzhao.xyz",
     ignorePatterns: ["private", "templates", "-- Templates --",".obsidian", "Excalidraw", "Canvas", "Images"],
-    defaultDateType: "created",
-    generateSocialImages: false,
+    defaultDateType: "modified",
+    generateSocialImages: {
+
+        colorScheme: "lightMode", // what colors to use for generating image, same as theme colors from config, valid values are "darkMode" and "lightMode"
+        width: 1200, // width to generate with (in pixels)
+        height: 630, // height to generate with (in pixels)
+        excludeRoot: false, // wether to exclude "/" index path to be excluded from auto generated images (false = use auto, true = use default og image)
+
+    },
 
     theme: custom_theme,
   
@@ -97,7 +105,7 @@ const config: QuartzConfig = {
     transformers: [
       Plugin.FrontMatter(),
       Plugin.CreatedModifiedDate({
-        priority: ["frontmatter", "git","filesystem"],
+        priority: ["git","frontmatter"],
       }),
       Plugin.SyntaxHighlighting({
         theme: {

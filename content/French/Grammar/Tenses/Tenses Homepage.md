@@ -1,7 +1,9 @@
 ---
-title: French Tenses
+title: Tenses
 draft: false
-tags: 
+tags:
+  - french
+  - grammer
 Authors:
   - Harsh
 ---
@@ -24,7 +26,7 @@ For simplicity of learning, we will focus on the main tenses. There are other te
 - Historical Accounts
 
 
-This few tenses rarely show up in informal conversation and we can use tenses equivalent to them.
+This few tenses rarely show up in informal conversation and everyday situations. So we can use tenses equivalent to them when their use case shows up.
 
 ---
 
@@ -72,11 +74,12 @@ Verb forms are combined in various other ways depending on how they’re used or
 |---|
 ||
 
-  Tense vs Mood
+# Tense vs Mood
 
 Tense is about time, Mood is about attitude.
 
 - There are three **Tenses**: present, past, and future – they tell you **when** something happens.
+  
 - The six **[Moods](https://www.lawlessfrench.com/grammar/verb-mood/)** indicate how the speaker **feels** about what’s happening, whether it’s fact, supposition, command, or possibility.
 
 Every verb form has Tense and Mood – they work together, as you can see in my [French verb timeline](https://www.lawlessfrench.com/grammar/verb-timeline/).

@@ -89,11 +89,11 @@ But in hindsight all of that seem a bit boring, mostly cause they are mathematic
 > Find the minimum angle required for a tennis player who has a attack speed of $40 \space ms^{-1}$ to clear a $2 \space m$ tall net which is $12 \space m$ away from where the player serves the ball. Assume air resistance is negligible.
 
 > [!example] Example Question 2
-> A plane travelling at 3000 meter (cruising altitude) above the sea is perfectly parallel with the water. It has an initial velocity of 270 $ms^{-1}$ and has the motion of the plane is uniform.
+> A plane travelling at 10,000 meter (cruising altitude) above the sea is perfectly parallel with the water. It has an initial velocity of 270 $ms^{-1}$ and has the motion of the plane is uniform.
 > 
-> The plane suddenly faces cabin depressurisation and it's required to descend to 900 meters above sea level immediately. Given that the plane has the same initial speed but is now titled $15 \degree$ down and has a uniform vertical acceleration of $-19.8 \space ms^{-2}$. 
+> The plane suddenly faces cabin depressurisation and it's required to descend to 2,000 meters above sea level immediately. Given that the plane has the same initial speed but is now titled $15 \degree$ down and has a uniform vertical acceleration of $-19.8 \space ms^{-2}$. 
 > 
-> How long will it take for the plane to reach 900 meters. 
+> How long will it take for the plane to reach 2,000 meters. 
 
 
 > [!example] Example Question 3

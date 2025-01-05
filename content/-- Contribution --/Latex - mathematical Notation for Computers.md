@@ -18,6 +18,7 @@ Latex is language that translates latex code into Mathematical. I am probably no
 | <br>$\large{y = mx+ c}$                                                                                    |
 | <br>$\large{ A \in \text{set }B}$                                                                          |
 | <br>$\large{(a + b)^n = a^n + {}^nC_1(a)^{n-1}(b) + \space...\space + {}^nC_{n-1}(a)(b)^{n-1} + b^n}$ <br> |
+|                                                                                                            |
 
 | <center>Physics Examples</center>        |
 | ---------------------------------------- |
@@ -61,23 +62,57 @@ Before we go ahead with latex functions, let me put my words into context with e
 >
 >You can see the differences now, the 's', 'i', 'n' in sin are not the spelling for the function but instead are treated as variables. To the a person reading, this will make no difference but for to keep things consistent we recommend using the sin function which will be explained in  below
 
+## Subscripts and Superscripts
+
+
+
+
 ## Accessing the Latex drawer
 
-A whole 
+A whole collection of extras are locked behind a single character, `\`. Typing the symbol allows you to allow you to treat the next word that is directly after it, for example \$\sin$ as a:
+- Function
+- Secret operator
+- Secret variable
+- Text formatting function
+- Document functions
+- Miscellaneous
 
+>[!warning] How to type the character, '\\' in Latex
+> 
+> Forward slash or "`\`" in Latex and other programming languages is called as the escape character. An escape character is used to type to type functions and is more of a utility in most cases. For example, typing \sin in latex will output the sin function and the originally "`\`" is omitted.  
+> 
+> If the "`\`" is intentional, you could type a double slash in latex like "`\\`" will output a single "`\`"
+>
+
+### How latex drawer searches work
+
+Any word after the initial slash, `\` starts scanning the letters for the name of the function, variable or operator to search for as long as the scanned character is a an alphabet (A - Z) or (a - Z). The moment it scans a character other than that,  a space, a number, a operator or any other character. The scanning is stopped and the word is retrieved. The word is then searched for in the drawer and the character or function associated with that is retrieved. 
 
 ### Mathematical Functions
 
+Functions like $\large{\sin}$, $\large{\cos}$,  $\large{\tan}$ are hidden behind the "`\`". There are also other functions too! 
+
+<div style="border-radius:8px; padding:20px; border: 3px solid black; border-color:#555 ; font-size: 18px; text-align: center; font-weight:500">A list of them will be provided below soon </div>
 
 
 ### Secret Mathematical operators
 
-Look at your keyboard, there are only so many keys, and most of them are either letters or numbers. But in most fields of math you will encounter other variables, specifically Greek characters () but there can be other ones too. For example 
+Look at your keyboard, there are only so many keys, and most of them are either letters or numbers. But in most fields of math you will encounter other variables, specifically Greek characters but there can be other ones too. For example : $\pi$, $\phi$, $\alpha$, $\beta$, $\gamma$, $\theta$. 
+
+<div style="border-radius:8px; padding:20px; border: 3px solid black; border-color:#555 ; font-size: 18px; text-align: center; font-weight:500">A list of them will be provided below soon </div>
 
 ### Hard to access variables
 
+<div style="border-radius:8px; padding:20px; border: 3px solid black; border-color:#555 ; font-size: 18px; text-align: center; font-weight:500">A list of them will be provided below soon </div>
+
 ### Text Formatting  Functions
+
+<div style="border-radius:8px; padding:20px; border: 3px solid black; border-color:#555 ; font-size: 18px; text-align: center; font-weight:500">A list of them will be provided below soon </div>
 
 ### Document Functions
 
+<div style="border-radius:8px; padding:20px; border: 3px solid black; border-color:#555 ; font-size: 18px; text-align: center; font-weight:500">A list of them will be provided below soon </div>
+
 ### Miscellaneous Functions 
+
+<div style="border-radius:8px; padding:20px; border: 3px solid black; border-color:#555 ; font-size: 18px; text-align: center; font-weight:500">A list of them will be provided below soon </div>

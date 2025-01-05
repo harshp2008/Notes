@@ -48,3 +48,8 @@ For now it is either empty or just an handful of contributors, but I hope it can
 Want to contribute? Want to put your own spin on this notes and explain thing in a better way ? We invite you to do so, frankly any help will be greatly appreciated. You just need to setup your personal computer using this few easy steps linked here:
 
 [[Setting up| Setting up your PC for Obsidian + Quartz]]
+
+
+
+
+
