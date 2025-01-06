@@ -386,7 +386,7 @@ Let's Say you want to add some spice to your writing. A bit of boldness here and
 >
 >When mixing Bold and Highlight styles, remember to put highlight on the inside and the bold on the outside. Doing the opposite will mess up the way the text looks on the Notescapes website.
 >
-  Here is an example:
+>Here is an example:
 >
 >|  Text Style   |              Output              | Syntax Used |
 | :-----------: | :------------------------------: | :--------------: |
@@ -399,7 +399,7 @@ In order to underline you will need to embed some HTML code in your notes. Doing
 
 Here is the way we can write the same thing in HTML:
 
-|  Text Style   |                    Output                     |                      HTML Tag Used                       |       What's required?       |
+|  Text Style   |                    Output                     |                      HTML Tag Used                       |         Syntax Used          |
 | :-----------: | :-------------------------------------------: | :------------------------------------------------------: | :--------------------------: |
 |   Highlight   |   John ate <mark>spaghetti</mark> for lunch   |                         `<mark>`                         |   \<mark>spaghetti\</mark>   |
 |     Bold      | John ate <strong>spaghetti</strong> for lunch | `<strong>`<br><br>(preferred)<br><br>or <br><br>`<bold>` | \<strong>spaghetti\</strong> |
