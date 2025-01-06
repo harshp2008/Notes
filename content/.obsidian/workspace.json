@@ -1,0 +1,202 @@
+{
+  "main": {
+    "id": "16c7a0562990b7a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "82ee76f01c2513fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "60c995a09653f1e3",
+            "type": "leaf",
+            "state": {
+              "type": "home-tab-view",
+              "state": {},
+              "icon": "search",
+              "title": "Home tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "51929fa7472c5156",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd907449e62eef73",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b267d84434496030",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "77303eabc41cb802",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3db31d9e9d45260a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 377.001522064209
+  },
+  "right": {
+    "id": "33dd2a2dc77a5552",
+    "type": "split",
+    "children": [
+      {
+        "id": "a80b94d482b733d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0734dc882b025e05",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Physics/Notes/Theme A - Space, time and motion/Unit A.2 - Forces and Momentum/Sub Units/Section 1 - Forces.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Section 1 - Forces"
+            }
+          },
+          {
+            "id": "b70cebee86c363d3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Physics/Notes/Theme A - Space, time and motion/Unit A.2 - Forces and Momentum/Sub Units/Section 1 - Forces.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Section 1 - Forces"
+            }
+          },
+          {
+            "id": "5a8f0e247720c830",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b5246219e060ac57",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Physics/Notes/Theme A - Space, time and motion/Unit A.2 - Forces and Momentum/Sub Units/Section 1 - Forces.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Section 1 - Forces"
+            }
+          },
+          {
+            "id": "27d6430ef4c2c9ca",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false,
+      "callout-manager:Insert Callout": false,
+      "remotely-save:Remotely Save": false,
+      "audio-recorder:Start/stop recording": false
+    }
+  },
+  "active": "60c995a09653f1e3",
+  "lastOpenFiles": [
+    "-- Contribution --/Contribution Homepage.md",
+    "-- Contribution --/Guides/Setting up.md",
+    "-- Contribution --/Images/Setting up/Installing VS Code/{F192901F-CEC1-46F1-95E4-7A29FA17EC59}.png",
+    "-- Contribution --/Images/Setting up/Installing VS Code/{C7046EBB-B856-44DA-92B7-6F3A9D700598}.png",
+    "-- Contribution --/Images/Setting up/Installing VS Code/{280C431D-3B37-46AA-A894-0A134042D4B6}.png",
+    "-- Contribution --/Images/Setting up/Installing VS Code/{0D8C5453-6072-47F8-951F-CFE05350A43C}.png",
+    "-- Contribution --/Images/Setting up/Installing VS Code/Pasted image 20250106220247.png",
+    "-- Contribution --/Website Attributions.md",
+    "-- Contribution --/Guides/Publishing and Syncing",
+    "-- Contribution --/Guides/Learning Obsidian and Markdown",
+    "-- Contribution --/Guides",
+    "index.md",
+    "Physics/Notes/Theme A - Space, time and motion/Unit A.1 - Kinematics/Sub Units/Section 1 - Kinematic Quantities and Graphs.md",
+    "Physics/Notes/Theme A - Space, time and motion/Unit A.1 - Kinematics/Unit A.1 - Kinematics.md",
+    "Physics/Notes/Theme A - Space, time and motion/Unit A.2 - Forces and Momentum/Sub Units/Section 1 - Forces.md",
+    "Physics/Notes/Theme A - Space, time and motion/Unit A.2 - Forces and Momentum/Sub Units/Section 2 - Newton's Laws of Motion.md",
+    "Physics/Canvas/A.1 - Kinematics/A.1 - ball projectile motion.md",
+    "Theory of Knowledge",
+    "Physics/Notes/Theme A - Space, time and motion/Unit A.2 - Forces and Momentum/Unit A.2 - Forces and Momentum.md"
+  ]
+}

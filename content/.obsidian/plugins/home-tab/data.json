@@ -1,0 +1,54 @@
+{
+  "logoType": "default",
+  "logo": {
+    "lucideIcon": "",
+    "imagePath": "",
+    "imageLink": ""
+  },
+  "logoScale": 1.2,
+  "iconColorType": "default",
+  "wordmark": "Obsidian",
+  "customFont": "interfaceFont",
+  "fontSize": "4em",
+  "fontColorType": "default",
+  "fontWeight": 600,
+  "maxResults": 5,
+  "showbookmarkedFiles": true,
+  "showRecentFiles": false,
+  "maxRecentFiles": 5,
+  "storeRecentFile": true,
+  "showPath": true,
+  "selectionHighlight": "default",
+  "showShortcuts": true,
+  "markdownOnly": false,
+  "unresolvedLinks": false,
+  "recentFilesStore": [
+    {
+      "filepath": "-- Contribution --/Contribution Homepage.md",
+      "timestamp": 1736181544123
+    },
+    {
+      "filepath": "-- Contribution --/Guides/Setting up.md",
+      "timestamp": 1736181212459
+    },
+    {
+      "filepath": "-- Contribution --/Images/Setting up/Installing VS Code/{F192901F-CEC1-46F1-95E4-7A29FA17EC59}.png",
+      "timestamp": 1736181211762
+    },
+    {
+      "filepath": "-- Contribution --/Images/Setting up/Installing VS Code/{C7046EBB-B856-44DA-92B7-6F3A9D700598}.png",
+      "timestamp": 1736181211101
+    },
+    {
+      "filepath": "-- Contribution --/Images/Setting up/Installing VS Code/{280C431D-3B37-46AA-A894-0A134042D4B6}.png",
+      "timestamp": 1736181210408
+    }
+  ],
+  "bookmarkedFileStore": [],
+  "searchDelay": 0,
+  "replaceNewTabs": true,
+  "newTabOnStart": false,
+  "closePreviousSessionTabs": false,
+  "omnisearch": false,
+  "showOmnisearchExcerpt": true
+}

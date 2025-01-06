@@ -1,0 +1,31 @@
+{
+  "callouts": {
+    "custom": [
+      "correct",
+      "incorrect"
+    ],
+    "settings": {
+      "correct": [
+        {
+          "changes": {
+            "icon": "lucide-info",
+            "color": "0, 179, 54"
+          }
+        }
+      ],
+      "incorrect": [
+        {
+          "changes": {
+            "icon": "lucide-info",
+            "color": "201, 64, 0"
+          }
+        }
+      ]
+    }
+  },
+  "calloutDetection": {
+    "obsidian": true,
+    "theme": true,
+    "snippet": true
+  }
+}
