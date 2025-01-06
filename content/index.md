@@ -56,6 +56,7 @@ Want to contribute? Want to put your own spin on this notes and explain thing in
 
 [[Setting up| Setting up your PC for Obsidian + Quartz]]
 
+---
 
 
 

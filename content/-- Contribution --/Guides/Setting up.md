@@ -78,6 +78,14 @@ Without further ado let's Setup your PC for Notetaking.
 
 4. Once the first command runs successfully and outputs a version, run a second command `npm -v`. This command verifies the if NPM is installed successfully. It should output some version number like =="10.9.0"==.
 
+>[!danger] If steps 3 and 4 do not work, contact Harsh.
+>
+>There is a common error that is provided by window systems, for accounts that are not `Administors`. Usually `node -v` command may work but `npm -v` command fail. In some cases, both will fail. 
+>
+>As of this moment I am not sure what step is required to prevent this, and replication of the bug is required. 
+>
+>In the mean time, if this occurs to you, I will personally help you with the setup process. 
+
 ## Install Obsidian
 
 1. Install obsidian by clicking on this link https://obsidian.md, choose the one that fits your operating system.
@@ -246,15 +254,30 @@ You should have "youremail@gmail.com" as the output.
 	![[{F59C9C96-A940-41DA-B4E4-128A949B3DC9}.png]]
    
 8.  Run the command `npm i` in the terminal.
-   
+
+>[!danger] If steps 8 do not work, Try the following:
+>
+>Click the little arrow beside the `+` symbol as shown below and select `Command Prompt.
+>	
+>	![[Pasted image 20250106220247.png]]
+>	
+> 
+> This will open a new terminal page but this time using `CMD` instead of `Powershell` 
+> 
+> Try `npm i` in the terminal again. 
+> 
+> 
+><div style="border-radius:8px; padding:20px; border: 3px solid black; border-color:#555 ; font-size: 18px; text-align: center; font-weight:500">If it doesn't work contact Harsh.</div>
+
 9. To ensure that your local files are the same as the one on the server, run the following command in the terminal. 
-   
-   >[!warning]
-   >Running this command will remove any modifications made to the content folder and any other files inside the parent "Notes" folder. So don't edit any files before the setup is finished.
 
 ```shell
 npx quartz sync --no-push --pull
 ```
+
+   >[!warning]
+   >Running this command will remove any modifications made to the content folder and any other files inside the parent "Notes" folder. So don't edit any files before the setup is finished.
+
 
 ## Test Syncing
 
