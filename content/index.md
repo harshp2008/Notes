@@ -43,10 +43,7 @@ Without the amazing people behind obsidian and quartz 4.0, making a knowledge ga
 
 So here are a list of them:
 
-- Empty for now
-
-Expected to Join:
-
+- Sritha
 - Shubh Khare
 
 For now it is either empty or just an handful of contributors, but I hope it can grow over time.

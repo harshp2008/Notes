@@ -15,10 +15,10 @@ Authors:
 
 # Table of Contents
 
->[!info] Learning Obsidian and Markdown
+>[!info] Markdown, Obsidian and Tools
 > 
 >- [[Markdown Guide]]
-> - [[Latex - mathematical Notation for Computers | Latex Guide]]
+> - [[Latex Guide| Latex Guide]]
 >   
 
 >[!info] Publishing and Syncing

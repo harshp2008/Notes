@@ -2,7 +2,8 @@
   "callouts": {
     "custom": [
       "correct",
-      "incorrect"
+      "incorrect",
+      "solution"
     ],
     "settings": {
       "correct": [
@@ -18,6 +19,14 @@
           "changes": {
             "icon": "lucide-info",
             "color": "201, 64, 0"
+          }
+        }
+      ],
+      "solution": [
+        {
+          "changes": {
+            "icon": "check-small",
+            "color": "55, 194, 13"
           }
         }
       ]

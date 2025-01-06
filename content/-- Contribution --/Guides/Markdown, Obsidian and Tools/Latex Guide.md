@@ -1,5 +1,5 @@
 ---
-title: Latex - mathematical Notation for Computers
+title: Latex - Mathematical Notation for Computers
 draft: false
 tags:
   - Contributions
@@ -13,18 +13,17 @@ Authors:
 Latex is language that translates latex code into Mathematical. I am probably not making much sense right now so let me show you what this powerful tool can do. Here are a few examples : 
 
 
-| <center>Maths Examples</center>                                                                            |
-| ---------------------------------------------------------------------------------------------------------- |
-| <br>$\large{y = mx+ c}$                                                                                    |
-| <br>$\large{ A \in \text{set }B}$                                                                          |
-| <br>$\large{(a + b)^n = a^n + {}^nC_1(a)^{n-1}(b) + \space...\space + {}^nC_{n-1}(a)(b)^{n-1} + b^n}$ <br> |
-|                                                                                                            |
+| <center>Math Examples</center>                                                                               |
+| ------------------------------------------------------------------------------------------------------------ |
+| <br>$$\large{y = mx+ c}$$                                                                                    |
+| <br>$$\large{ A \in \text{set }B}$$                                                                          |
+| <br>$$\large{(a + b)^n = a^n + {}^nC_1(a)^{n-1}(b) + \space...\space + {}^nC_{n-1}(a)(b)^{n-1} + b^n}$$ <br> |
 
-| <center>Physics Examples</center>        |
-| ---------------------------------------- |
-| $\large{s = \int(\dfrac{dv}{dt})}$       |
-| <br>$\large{ F = ma}$                    |
-| $\large{ c = \dfrac{\sin(i) }{\sin(r)}}$ |
+| <center>Physic Examples</center>           |
+| ------------------------------------------ |
+| $$\large{s = \int(\dfrac{dv}{dt})}$$       |
+| <br>$$\large{ F = ma}$$                    |
+| $$\large{ c = \dfrac{\sin(i) }{\sin(r)}}$$ |
 
 After looking at what latex can do, let's learn how to use latex. 
 
@@ -69,7 +68,8 @@ Before we go ahead with latex functions, let me put my words into context with e
 
 ## Accessing the Latex drawer
 
-A whole collection of extras are locked behind a single character, `\`. Typing the symbol allows you to allow you to treat the next word that is directly after it, for example \$\sin$ as a:
+A whole collection of extras are locked behind a single character, `\`. Typing the symbol allows you to allow you to treat the next word that is directly after it as a:
+
 - Function
 - Secret operator
 - Secret variable
@@ -86,7 +86,7 @@ A whole collection of extras are locked behind a single character, `\`. Typing t
 
 ### How latex drawer searches work
 
-Any word after the initial slash, `\` starts scanning the letters for the name of the function, variable or operator to search for as long as the scanned character is a an alphabet (A - Z) or (a - Z). The moment it scans a character other than that,  a space, a number, a operator or any other character. The scanning is stopped and the word is retrieved. The word is then searched for in the drawer and the character or function associated with that is retrieved. 
+Any word after the initial slash, `\` starts scanning the letters for the name of the function, variable or operator to search for as long as the scanned is a lowercase alphabetical character (a - z). The moment it scans a character other than that,  a space, a number, a operator or any other character. The scanning is stopped and the word is retrieved. The word is then searched for in the drawer and the character or function associated with that is retrieved. 
 
 ### Mathematical Functions
 

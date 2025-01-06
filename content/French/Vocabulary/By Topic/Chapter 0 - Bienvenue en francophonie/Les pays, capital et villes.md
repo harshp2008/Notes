@@ -22,6 +22,7 @@ Authors:
 - Senegal
 - Togo
 #### En Europe:
+
 - La Belgique
 - La Bulgarie
 - La France
@@ -33,6 +34,7 @@ Authors:
 - La Pologne
 
 #### En Afrique:
+
 - L'Algerie 
 - Le Benin
 - La Guinee
@@ -53,23 +55,27 @@ Authors:
 - Le Mali
 - La Reunion
 
-#### En Amerique du Nord:
+#### En Amérique du Nord:
+
 - Le Canada
 - Le Quebec
 - Le Nouveau-Brunswick
 
-#### En Amerique du Sud et aux Caraibes:
+#### En Amérique du Sud et aux Caraibes:
+
 - La Guadeloupe 
 - La Martinique
 - La Dominique
 - Sainte-Lucie
 
 #### En Asie:
+
 - Le Cambodge
 - Le Laos
 - Le Vietnam
 
 #### En Oceanie:
+
 - La Nouvelle-Caledonie
 - La Polynesie Francaise
 - Vanuatu
