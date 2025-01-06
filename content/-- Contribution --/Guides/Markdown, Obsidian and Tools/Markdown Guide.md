@@ -389,8 +389,8 @@ Let's Say you want to add some spice to your writing. A bit of boldness here and
 >Here is an example:
 >
 >|  Text Style   |              Output              | Syntax Used |
-| :-----------: | :------------------------------: | :--------------: |
-|   Highlight and Bold   | John ate **==spaghetti==** for lunch |  \**\==spaghetti==**  |
+>| :-----------: | :------------------------------: | :--------------: |
+>|   Highlight and Bold   | John ate **==spaghetti==** for lunch |  `**==spaghetti==**`  |
 
 In order to underline you will need to embed some HTML code in your notes. Doing this will revoke any other native styling combination and you will need to rely on pure HTML styling combination for that text. 
 
