@@ -186,13 +186,13 @@ Here is what I mean:
 | 2                             |                              2 |
 | 3                             |                              3 |
 
-You can easily solve this by using ==\<center>== tags. You need to encapsulate the header between the opening and closing center tags. Here is an example.
+You can easily solve this by using`<center>` tags. You need to encapsulate the header between the opening and closing center tags. Here is an example.
 
-| <center>Left Aligned</center> | <center>==\<center>==Right Aligned==\</center>==</center> |
-| :---------------------------- | :-------------------------------------------------------- |
-| 1                             | 1                                                         |
-| 2                             | 2                                                         |
-| 3                             | 3                                                         |
+| <center>Left Aligned</center> | <center> `<center>` Right Aligned `</center>` </center> |
+| :---------------------------- | :------------------------------------------------------ |
+| 1                             | 1                                                       |
+| 2                             | 2                                                       |
+| 3                             | 3                                                       |
 
 >[!tip] Shortcuts
 >I highly suggest you to use this shortcut:
@@ -203,14 +203,14 @@ You can easily solve this by using ==\<center>== tags. You need to encapsulate t
 
 >[!warning] Use Standalone centring at your own risk
 >
-> when typing out the center tags manually, be extra careful when typing the closing center tag, \<\center>, as it can mess up or delete your entire table. 
+> when typing out the center tags manually, be extra careful when typing the closing center tag, `<\center>`, as it can mess up or delete your entire table. 
 > 
 > Luckily you can still undo it but I think we can do better. There is a way to avoid it and I will show you below:
 > 
-> When typing the closing \<center> tag, follow this steps:
+> When typing the closing `<center>` tag, follow this steps:
 > 
 > 1. Type this out first \<\\>
-> 2. Type out the center in the tag -> \<\center>
+> 2. Type out the center in the tag -> `<\center>`
 >    
 
 ## Lists
