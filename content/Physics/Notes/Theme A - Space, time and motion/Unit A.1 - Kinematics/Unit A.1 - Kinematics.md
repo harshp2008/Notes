@@ -32,7 +32,7 @@ The word "kinetics" comes from the Greek word "kinētikos", meaning "related to 
 In this Unit, we will only be focusing on Kinematics and we will use this to solve a wide range of problems from the finding a distance covered by an object to solving questions involving the trajectory of a ball as it is slowed down by air resistance.
 
 ---
-<h4>Resources used from:</h4>
+<h4>Resources Used:</h4>
 
 >[!quote] Oxford Physics Course Companion (2023 Edition) 
 >
