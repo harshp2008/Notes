@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "French/Vocabulary/By Topic/Chapter 4 - Bon appétit !/Images/Les Legumes.md",
+                "file": "French/Vocabulary/French Vocabulary Homepage.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Les Legumes"
+              "title": "French Vocabulary Homepage"
             }
           },
           {
@@ -211,9 +211,10 @@
   },
   "active": "5520c8c407346a10",
   "lastOpenFiles": [
-    "French/Vocabulary/By Topic/Chapter 4 - Bon appétit !/La Nourriture.md",
-    "French/Vocabulary/By Topic/Chapter 4 - Bon appétit !/Images/Les Legumes.md",
+    "French/Vocabulary/Extras or Unorganised/Les Vacances - continuation.md",
+    "French/Vocabulary/By Topic/Chapter 4 - Bon appétit !/Images/Les Légumes.md",
     "French/Vocabulary/By Topic/Chapter 4 - Bon appétit !/Les Fruits.md",
+    "French/Vocabulary/By Topic/Chapter 4 - Bon appétit !/La Nourriture.md",
     "Physics/Notes/Theme A - Space, time and motion/Unit A.1 - Kinematics/Unit A.1 - Kinematics.md",
     "French/Vocabulary/By Topic/Chapter 4 - Bon appétit !/Images/Pasted image 20250109123703.png",
     "French/Vocabulary/By Topic/Chapter 4 - Bon appétit !/Images",
@@ -250,7 +251,6 @@
     "Physics/Notes/Theme A - Space, time and motion/Unit A.2 - Forces and Momentum/Sub Units/Section 1 - Forces.md",
     "Physics/Notes/Theme A - Space, time and motion/Unit A.2 - Forces and Momentum/Sub Units/Section 2 - Newton's Laws of Motion.md",
     "Physics/Canvas/A.1 - Kinematics/A.1 - ball projectile motion.md",
-    "Theory of Knowledge",
-    "Physics/Notes/Theme A - Space, time and motion/Unit A.2 - Forces and Momentum/Unit A.2 - Forces and Momentum.md"
+    "Theory of Knowledge"
   ]
 }

@@ -4,6 +4,9 @@ draft: false
 tags:
 ---
 ---
+
+[[Les Fruits]]
+
 >[!info] Chapter 0 : Bienvenue en francophonie
 ><strong><font color="#4bacc6">Thèmes et sujets</font></strong>
 >
