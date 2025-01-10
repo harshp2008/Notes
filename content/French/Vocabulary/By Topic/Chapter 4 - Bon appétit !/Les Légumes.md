@@ -21,9 +21,10 @@ Authors:
 | ----------------------- | ------------------------ |
 | Les carottes ()         | Carrots                  |
 | Les navets ()           | Turnips                  |
-| Les betteraves ()       | Beetroots                |
+| Les betteraves (f)      | Beetroots                |
 | Les panis ()            | Parsnips                 |
 | Le gingembre ()         | Ginger                   |
+| Le radis ()             | Raddish                  |
 
 # Bulb Vegetables
 
@@ -31,7 +32,7 @@ Authors:
 | <center>French</center> | <center>English</center> |
 | ----------------------- | ------------------------ |
 | Les oignons ()          | Onions                   |
-| L'ail ()                | Garlic                   |
+| L'ail (m)               | Garlic                   |
 | Les échalotes ()        | Shallots                 |
 | Le fenouil              | Fennel                   |
 | Les poireaux ()         | Leeks                    |
@@ -57,7 +58,7 @@ Authors:
 | ----------------------- | ------------------------ |
 | Le chou-fleur           | Cauliflower              |
 | Le brocoli              | Broccoli                 |
-| Les artichuats          | Artichokes               |
+| Les artichuats (m)      | Artichokes               |
 | Les courgettes fleurs   | Zucchini Blossoms        |
 | Le capucines            | Nasturtium               |
 
@@ -81,9 +82,10 @@ Authors:
 | ----------------------- | ------------------------ |
 | Les tomates             | Tomatoes                 |
 | Les poivrons            | Bell peppers             |
-| Les aubergines          | Eggplants                |
-| Les courgettes          | Zucchinis                |
-| Les concombres          | Cucumbers                |
+| Les aubergines (f)      | Eggplants                |
+| Les courgettes (f)      | Zucchinis                |
+| Les concombres (m)      | Cucumbers                |
+| Les piments (m)         | Chili                    |
 
 
 
@@ -105,7 +107,12 @@ Authors:
 
 | <center>French</center> | <center>English</center> |
 | ----------------------- | ------------------------ |
-| La La                   |                          |
+| La Laitue               | Lettuce                  |
+| Les épinards            | Spinach                  |
+| Le chou                 | Cabbage                  |
+| Les feuilles de chou    | Cabbage Leaves           |
+| La bette                | Swiss chard              |
+| La roquette             | Arugula                  |
 
 
 
@@ -113,16 +120,23 @@ Authors:
 
 | <center>French</center> | <center>English</center> |
 | ----------------------- | ------------------------ |
-|                         |                          |
+| Les haricots            | Beans                    |
+| Les petits pois         | Peas                     |
+| Le maïs                 | Corn                     |
+| Les pois des champs     | Field Peas               |
+| La courges              | Squash                   |
 
 
 
 # Sea Vegetables
 
-
 | <center>French</center> | <center>English</center> |
 | ----------------------- | ------------------------ |
-|                         |                          |
+| L'algue nori            | Nori Seaweed             |
+| Les algues wakame       | Wakame Seaweed           |
+| L'algue kombu           | Kombu Seaweed            |
+| L'algue dulse           | Dulse Seaweed            |
+| Les algue               | Hijiki Seaweed           |
 
 
 

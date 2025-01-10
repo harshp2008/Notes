@@ -2,10 +2,10 @@
 title: French Vocabulary
 draft: false
 tags:
+  - french
+  - vocabulary
 ---
 ---
-
-[[Les Fruits]]
 
 >[!info] Chapter 0 : Bienvenue en francophonie
 ><strong><font color="#4bacc6">Thèmes et sujets</font></strong>
@@ -20,6 +20,13 @@ tags:
 >
 >- Les pays francophones
 >- Les symboles de la francophonie
+>  
+> ---
+>  
+>  <strong><font color="#4bacc6">Table of context</font></strong>
+>  
+>  - [[Les pays, capital et villes]]
+
 
 >[!info] Chapter 1 : Je me présente
 ><strong><font color="#4bacc6">Thèmes et sujets</font></strong>
@@ -80,6 +87,15 @@ tags:
 >- Les repas, les recettes de cuisine, les traditions culinaires
 >- Les achats : les courses, les commerces, le marché
 >- Les restaurants
+>  
+> ---
+>  
+>  <strong><font color="#4bacc6">Table of context</font></strong>
+>  
+>  - [[La Nourriture]]
+>  - [[Les Fruits]]
+>  - [[Les Légumes]]
+>  - [[Cuisiner Les Repas]]
 
 
 >[!Info] Chapter 5 : En ville

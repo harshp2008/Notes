@@ -1,11 +1,15 @@
 ---
-title: Les pays, capital et villes (Incomplete)
+title: Les Pays, Capital et Villes
 draft: false
-tags: 
+tags:
+  - french
+  - vocabulary
 Authors:
   - Sritha
 ---
 ---
+
+>[!warning] this page is incomplete
 
 # Le pays francophones
 
@@ -92,12 +96,10 @@ Countries beginning with a vowel take the article ' l' '. (L'Algerie, l'Inde, L'
 Note: although these countries take l', they are considered feminine as the end with an 'e'
 
 
-
-
-What to cover (rough note) 
-- le pays francophone
-- gender of countries
-   - masc, fem, plural, countries that do not take any vowel 
-   - exceptions 
-- countries, cities, villes
-  - vowels the take (au, aux, en, a)
+>[!todo] TODO : What to cover (rough note) 
+> - le pays francophone
+> - gender of countries
+>  - masc, fem, plural, countries that do not take any vowel 
+> - exceptions 
+> - countries, cities, villes
+> - vowels the take (au, aux, en, a)

@@ -8,21 +8,37 @@
         "type": "tabs",
         "children": [
           {
-            "id": "60c995a09653f1e3",
+            "id": "6a2db4f7ca0edaa3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "French/Vocabulary/By Topic/Chapter 4 - Bon appétit !/Les Fruits.md",
+                "file": "French/Vocabulary/By Topic/Chapter 4 - Bon appétit !/Les Légumes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Les Fruits"
+              "title": "Les Légumes"
             }
           },
           {
-            "id": "5520c8c407346a10",
+            "id": "e641a04faa2d0109",
+            "type": "leaf",
+            "state": {
+              "type": "home-tab-view",
+              "state": {},
+              "icon": "search",
+              "title": "Home tab"
+            }
+          }
+        ]
+      },
+      {
+        "id": "2183b5bbdadbbdbc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb82210f8036589b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -34,23 +50,8 @@
               "icon": "lucide-file",
               "title": "French Vocabulary Homepage"
             }
-          },
-          {
-            "id": "6a2db4f7ca0edaa3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "French/Vocabulary/By Topic/Chapter 4 - Bon appétit !/La Nourriture.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "La Nourriture"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,12 +210,16 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "5520c8c407346a10",
+  "active": "eb82210f8036589b",
   "lastOpenFiles": [
-    "French/Vocabulary/Extras or Unorganised/Les Vacances - continuation.md",
-    "French/Vocabulary/By Topic/Chapter 4 - Bon appétit !/Images/Les Légumes.md",
+    "test.md",
+    "French/Vocabulary/By Topic/Chapter 4 - Bon appétit !/Les Légumes.md",
     "French/Vocabulary/By Topic/Chapter 4 - Bon appétit !/Les Fruits.md",
+    "French/Vocabulary/French Vocabulary Homepage.md",
+    "French/Vocabulary/By Topic/Chapter 4 - Bon appétit !/Cuisiner Les Repas.md",
     "French/Vocabulary/By Topic/Chapter 4 - Bon appétit !/La Nourriture.md",
+    "French/Vocabulary/By Topic/Chapter 0 - Bienvenue en francophonie/Les pays, capital et villes.md",
+    "French/Vocabulary/Extras or Unorganised/Les Vacances - continuation.md",
     "Physics/Notes/Theme A - Space, time and motion/Unit A.1 - Kinematics/Unit A.1 - Kinematics.md",
     "French/Vocabulary/By Topic/Chapter 4 - Bon appétit !/Images/Pasted image 20250109123703.png",
     "French/Vocabulary/By Topic/Chapter 4 - Bon appétit !/Images",
@@ -224,17 +229,14 @@
     "French/Vocabulary/By Topic/Chapter 4 - Bon appétit !/Images/Pasted image 20250109124719.png",
     "French/Vocabulary/By Topic/Chapter 4 - Bon appétit !/Images/Pasted image 20250109123811.png",
     "-- Templates --/Resources Used.md",
-    "French/Vocabulary/French Vocabulary Homepage.md",
     "Physics/Physics Home Page.md",
     "-- Contribution --/Guides/Markdown, Obsidian and Tools/Markdown Guide.md",
     "-- Templates --/French Vocab Table.md",
-    "French/Vocabulary/By Topic/Chapter 4 - Bon appétit !/Cuisiner Les Repas.md",
     "French/Grammar/Verb Moods/Le Subjonctif.md",
     "-- Contribution --/Guides/Markdown, Obsidian and Tools/Accent for Keyboards.md",
     "-- Contribution --/Guides/Markdown, Obsidian and Tools/Latex Guide.md",
     "-- Contribution --/Guides/Markdown, Obsidian and Tools/Desmos, Centred boxes and HTML.md",
     "-- Contribution --/Contribution Homepage.md",
-    "French/Vocabulary/By Topic/Chapter 0 - Bienvenue en francophonie/Les pays, capital et villes.md",
     "English/English Homepage.md",
     "index.md",
     "Physics/Extra Notes (JEE and other sources)/Units and Dimensional Analysis.md",
@@ -250,7 +252,6 @@
     "Physics/Notes/Theme A - Space, time and motion/Unit A.1 - Kinematics/Sub Units/Section 1 - Kinematic Quantities and Graphs.md",
     "Physics/Notes/Theme A - Space, time and motion/Unit A.2 - Forces and Momentum/Sub Units/Section 1 - Forces.md",
     "Physics/Notes/Theme A - Space, time and motion/Unit A.2 - Forces and Momentum/Sub Units/Section 2 - Newton's Laws of Motion.md",
-    "Physics/Canvas/A.1 - Kinematics/A.1 - ball projectile motion.md",
     "Theory of Knowledge"
   ]
 }

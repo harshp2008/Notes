@@ -22,32 +22,35 @@ Authors:
 >[!info]- Extra Info  
 >Tree and stone fruits, constituting the rich array of flavours found in French cuisine, grow in orchards all over the nation. These fruits are distinguished by either growing on trees or having a hard, stone-like pit inside. Such as the rich tartness of plums, the tropical allure of mangoes, and the brilliant blast of flavour from cherries. They are well-known for their adaptability, appearing in a wide range of culinary preparations. From savoury meals like salads and sauces to sweet treats like tarts and compotes. Tree and stone fruits are prized in French cooking for their sweetness and nuanced flavours, enhancing food preparations.
 
-| <center>French</center> | <center>English</center> |
-| ----------------------- | ------------------------ |
-| La pêche                | Peaches                  |
-| L'abricot  (m)          | Apricot                  |
-| La prune                | Plum                     |
-| La mangue               | Mango                    |
-| La pomme                | Apple                    |
-| Le noix de coco         | Coconut                  |
-| La Datte                | Dates                    |
-| La poire                | Pear                     |
-| Le coing                | Quince                   |
-| La cerise               | Cherries                 |
+| French          | English  |
+| --------------- | -------- |
+| La pêche        | Peaches  |
+| L'abricot       | Apricot  |
+| La prune        | Plum     |
+| La mangue       | Mango    |
+| La pomme        | Apple    |
+| Le noix de coco | Coconut  |
+| La Datte        | Dates    |
+| La poire        | Pear     |
+| Le coing        | Quince   |
+| La cerise       | Cherries |
+
 ![[Pasted image 20250109123703.png]]
+
 # Citrus Fruits
 
 >[!info]- Extra Info
 >In French cuisine, beloved fruits from citrus trees originate from orchards throughout the country. This colourful group includes oranges, tangerines, lemons, limes, grapefruits, and kumquats, each contributing a distinct zest. Beyond serving as the perfect after-dinner snack, chefs use these fruits in a variety of French dishes. Citrus fruits infuse dishes with a vibrant aroma and dynamic acidity. Chefs juice them for refreshing drinks, zest them to highlight desserts or marinate them to tenderize meats.
 
-| <center>French</center> | <center>English</center> |
-| ----------------------- | ------------------------ |
-| L'orange (f)            | Orange                   |
-| La mandarine            | Tangerine                |
-| Le citron               | Lemon                    |
-| Le citron vert          | Lime                     |
-| Le pamplemousse         | Grapefruit               |
-| Le Kumquat              | Kumquat                  |
+| French          | English    |
+| --------------- | ---------- |
+| L'orange (f)    | Orange     |
+| La mandarine    | Tangerine  |
+| Le citron       | Lemon      |
+| Le citron vert  | Lime       |
+| Le pamplemousse | Grapefruit |
+| Le Kumquat      | Kumquat    |
+
 
 ![[Pasted image 20250109123811.png]]
 # Soft Fruits and Berries
@@ -55,18 +58,20 @@ Authors:
 >[!info]- Extra Info
 >Farmers and gardeners across the country grow berries and soft fruits, staples of French cooking. This varied category includes blackberries, blackcurrants, blueberries, gooseberries, mulberries, raspberries, redcurrants, and strawberries. Highly valued as components in sweets, jams, pastries, and other baked goods because of their juicy sweetness and vivid colors. These fruits are known for their adaptability, allowing them to excel in both savoury and sweet recipes.
 
-| <center>French</center> | <center>English</center> |
-| ----------------------- | ------------------------ |
-| La mûre                 | Blackberry               |
-| Les cassis              | Blackcurrent             |
-| La myrtille             | Blueberry                |
-| La groseille            | Gooseberry               |
-| La mûre                 | Mulberries               |
-| La framboise            | Raspberry                |
-| La groseille            | Redcurrant               |
-| La fraise               | Strawberries             |
-| Le raisin               | Grapes                   |
-| Le kiwi                 | Kivi                     |
+| French       | English      |
+| ------------ | ------------ |
+| La mûre      | Blackberry   |
+| Les cassis   | Blackcurrent |
+| La myrtille  | Blueberry    |
+| La groseille | Gooseberry   |
+| La mûre      | Mulberries   |
+| La framboise | Raspberry    |
+| La groseille | Redcurrant   |
+| La fraise    | Strawberries |
+| Le raisin    | Grapes       |
+| Le kiwi      | Kivi         |
+
+
 ![[Pasted image 20250109124719.png]]
 
 
@@ -75,34 +80,36 @@ Authors:
 >[!info]- Extra Info
 >Exotic fruits, with their unique tastes and textures, originate from far reaches of the world. Figs provide a sweetness, while cranberries deliver a sharp punch. Kiwis add a tart touch, and grapes provide juicy bursts. The layers of complexity added by melons, pineapples, pomegranates, avocados, and star fruits enhance the colourful tapestry of French cuisine.
 
-| <center>French</center>             | <center>English</center> |
-| ----------------------------------- | ------------------------ |
-| La canneberge                       | Cranberries              |
-| Le figue                            | Fig                      |
-| La carambole                        | Star fruits              |
-| L'avocat                            | Avocado                  |
-| La pitaya<br><br>Le fruit du dragon | <br>Dragon fruit         |
-| Le fruits de la passion             | Passion fruit            |
-| Le jacquier                         | Jackfruit                |
-| L'açaïs                             | Acai                     |
-| Le durain                           | Durain                   |
+| French                              | English   |
+| ----------------------------------- | --------------------------- |
+| La canneberge                       | Cranberries |
+| Le figue                            | Fig          |
+| La carambole                        | Star fruits  |
+| L'avocat                            | Avocado      |
+| Le fruit du dragon                  | Dragon fruit  |
+| Le fruits de la passion             | Passion fruit    |
+| Le jacquier                         | Jackfruit     |
+| L'açaïs                             | Acai       |
+| Le durain                           | Durain    |
+
+
 ![[Pasted image 20250109124742.png]]
 
 # Tropical Fruits
 
 >[!info]- Extra Info
->Tropical fruits bestow an enticing charm on French cuisine, prized gems of the abundant natural world that whisk diners away to distant tropical paradises. The senses are enticed by the vivid colors of dragon fruit and the potent scent of passion fruit. The culinary landscape receives contributions of richness and elegance from the meaty texture of jackfruit and the delicate floral notes of lychee.
+>Tropical fruits bestow an enticing charm on French cuisine, prized gems of the abundant natural world that whisk diners away to distant tropical paradises. The senses are enticed by the vivid colours of dragon fruit and the potent scent of passion fruit. The culinary landscape receives contributions of richness and elegance from the meaty texture of jackfruit and the delicate floral notes of lychee.
 
-| <center>French</center> | <center>English</center> |
-| ----------------------- | ------------------------ |
-| Le litchi               | Lychee                   |
-| La papaye               | Papaya                   |
-| La goyave               | Guava                    |
-| La banane               | Banana                   |
-| La pastèque             | Watermelon               |
-| L'ananas (m)            | Pineapple                |
-| La grenade              | Pomegranate              |
-| Le melon                | Melon                    |
+| French       | English |
+| ------------ | -------------------------------- |
+| Le litchi    | Lychee                           |
+| La papaye    | Papaya                           |
+| La goyave    | Guava                            |
+| La banane    | Banana                           |
+| La pastèque  | Watermelon                       |
+| L'ananas (m) | Pineapple                        |
+| La grenade   | Pomegranate                      |
+| Le melon     | Melon                            |
 
 ![[Pasted image 20250109124824.png]]
 
