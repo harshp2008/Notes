@@ -43,15 +43,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "French/Vocabulary/French Vocabulary Homepage.md",
+                "file": "-- Templates --/Insert Tab.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "French Vocabulary Homepage"
+              "title": "Insert Tab"
+            }
+          },
+          {
+            "id": "c9a19c9644c0658a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "-- Templates --/Centred Box.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Centred Box"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -210,12 +225,14 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "eb82210f8036589b",
+  "active": "c9a19c9644c0658a",
   "lastOpenFiles": [
+    "-- Templates --/Insert Tab.md",
+    "-- Templates --/Centred Box.md",
+    "French/Vocabulary/French Vocabulary Homepage.md",
     "test.md",
     "French/Vocabulary/By Topic/Chapter 4 - Bon appétit !/Les Légumes.md",
     "French/Vocabulary/By Topic/Chapter 4 - Bon appétit !/Les Fruits.md",
-    "French/Vocabulary/French Vocabulary Homepage.md",
     "French/Vocabulary/By Topic/Chapter 4 - Bon appétit !/Cuisiner Les Repas.md",
     "French/Vocabulary/By Topic/Chapter 4 - Bon appétit !/La Nourriture.md",
     "French/Vocabulary/By Topic/Chapter 0 - Bienvenue en francophonie/Les pays, capital et villes.md",
@@ -250,8 +267,6 @@
     "-- Contribution --/Guides/Markdown, Obsidian and Tools",
     "-- Contribution --/Guides",
     "Physics/Notes/Theme A - Space, time and motion/Unit A.1 - Kinematics/Sub Units/Section 1 - Kinematic Quantities and Graphs.md",
-    "Physics/Notes/Theme A - Space, time and motion/Unit A.2 - Forces and Momentum/Sub Units/Section 1 - Forces.md",
-    "Physics/Notes/Theme A - Space, time and motion/Unit A.2 - Forces and Momentum/Sub Units/Section 2 - Newton's Laws of Motion.md",
     "Theory of Knowledge"
   ]
 }
