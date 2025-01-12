@@ -14,7 +14,8 @@ Authors: []
 # Grammer 
 
 >[!warning] Incomplete Pages
-> - Some of the pages are incomplete and most of the content is copied from [Lawless French](https://www.lawlessfrench.com/
+> - Most of the pages are incomplete
+> - Most of the content is copied from [Lawless French](https://www.lawlessfrench.com/
 ). The content will need to be rewritten again later. 
 
 >[!info] Tenses (Quick Access)

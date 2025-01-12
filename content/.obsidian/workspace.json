@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "French/French Home Page.md",
+                "file": "French/Grammar/Verb Tenses/Past Tenses/La Passé Compose.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "French Home Page"
+              "title": "La Passé Compose"
             }
           }
         ]
@@ -182,8 +182,8 @@
   },
   "active": "6a2db4f7ca0edaa3",
   "lastOpenFiles": [
-    "French/Vocabulary/French Vocabulary Homepage.md",
     "French/French Home Page.md",
+    "French/Vocabulary/French Vocabulary Homepage.md",
     "French/Vocabulary/By Topic/Chapter 4 - Bon appétit !/Untitled.md",
     "French/Vocabulary/By Topic/Chapter 4 - Bon appétit !/Les Herbes et Les Épices.md",
     "French/Vocabulary/By Topic/Chapter 4 - Bon appétit !/Les Légumes.md",

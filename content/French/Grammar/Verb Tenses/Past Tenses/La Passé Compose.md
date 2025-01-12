@@ -50,7 +50,7 @@ The _passé composé_ is used when talking about:
 | _Si tu as perdu, tu dois féliciter le gagnant._ | If you lost, you have to congratulate the winner. |
 |                                                 |                                                   |
 
->[!warning] The _passé composé_ is often used alongside the [imperfect](https://www.lawlessfrench.com/grammar/imperfect/), which can be very confusing for French students. For detailed info, see [_passé composé_ vs _imparfait_](https://www.lawlessfrench.com/grammar/passe-compose-vs-imparfait/).
+>[!warning] The _passé composé_ is often used alongside the [imperfect](https://www.lawlessfrench.com/grammar/imperfect/), which can be very confusing. For detailed info, see [_passé composé_ vs _imparfait_](https://www.lawlessfrench.com/grammar/passe-compose-vs-imparfait/).
 
 
 # Formation Rules
@@ -107,26 +107,23 @@ The _passé composé_ is used when talking about:
 
 ### Easier To Remember List:
 
+An easy way to remember the most important passe compose verbs that take a être as an auxiliary is the acronym **ADVENT** + the verb **Devenir**. 
+
+>[!tip] In the table bellow, the two verbs in a row have **opposite** meanings.
+
+|       |     |               |       |            |
+| :---: | :-: | ------------- | :---: | ---------- |
+| **A** |  →  | **Arriver**   | X<br> | **Partir** |
+| **D** |  →  | **Descendre** | X<br> | **Monter** |
+| **V** |  →  | **Venir**     |   X   | **Aller**  |
+| **E** |  →  | **Entrer**    |   X   | **Sortir** |
+| **N** |  →  | **Naître**    |   X   | **Mourir** |
+| **T** |  →  | **Tomber**    |   X   | **Rester** |
+
+<div style="border-radius:8px; padding:20px; border: 3px solid black; border-color:#555 ; font-size: 18px; text-align: center; font-weight:500">And...Don't Forget <strong>Devenir</strong>!</div>
+
   
-| | | | | |
-| :---: | :---: | --- | :---: | --- |
-| **A** | **→** | **Arriver** | **X** | **Partir** |
-| **D** | **→** | **Descendre** | **X** | **Monter** |
-| **V** | **→** | **Venir** | **X** | **Aller** |
-| **E** | **→** | **Entrer** | **X** | **Sortir** |
-| **N** | **→** | **Naître** | **X** | **Mourir** |
-| **T** | **→** | **Tomber** | **X** | **Rester** |
-
->[!correct] d
->The two verbs in a row have **opposite** meanings
-
-- **And Devenir**
-
-  
-
 # Irregular Verbs
-
-  
 
 ### Past participles ending in - “u”:
 
@@ -172,4 +169,4 @@ The _passé composé_ is used when talking about:
 ---
 # Resources Used
 
-Some Information is taken from https://www.lawlessfrench.com/grammar/passe-compose/
+- https://www.lawlessfrench.com/grammar/passe-compose/
