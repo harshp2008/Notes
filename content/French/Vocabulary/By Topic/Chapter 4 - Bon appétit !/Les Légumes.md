@@ -2,8 +2,8 @@
 title: Les Legumes
 draft: false
 tags:
-  - vocabulary
   - french
+  - vocabulary
 Authors:
   - Harsh
 ---
@@ -36,7 +36,6 @@ Authors:
 | Les échalotes ()        | Shallots                 |
 | Le fenouil              | Fennel                   |
 | Les poireaux ()         | Leeks                    |
-
 
 
 # Tuber Vegetables
@@ -137,21 +136,3 @@ Authors:
 | L'algue kombu           | Kombu Seaweed            |
 | L'algue dulse           | Dulse Seaweed            |
 | Les algue               | Hijiki Seaweed           |
-
-
-
-
-
-
----
-
-| <center>French</center> | <center>English</center> |
-| ----------------------- | ------------------------ |
-| Les légumes             | Vegetables               |
-| Les légumes verts       | Green vegetables         |
-| La pomme de terre       | Potato                   |
-| La carotte              | Carrot                   |
-| L'oignon                | Onion                    |
-| Le champignon           | Mushroom                 |
-| La tomate               | Tomato                   |
-

@@ -8,7 +8,7 @@ Authors:
   - Nirja
 ---
 ---
->[!tip] Memorise better with flashcards : Brainscape
+>[!tip] Memorise better with flashcards : Brainscape (work in progress)
 >
 >Clicking on the link below will take you to a website that is great for memorisation.
 >
