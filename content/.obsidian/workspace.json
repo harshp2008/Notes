@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "82ee76f01c2513fe",
+        "id": "96749b697280ec55",
         "type": "tabs",
         "children": [
           {
-            "id": "6a2db4f7ca0edaa3",
+            "id": "8a9a0d80fa7fc97b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "French/Grammar/Verb Tenses/Past Tenses/La Passé Compose.md",
+                "file": "French/Grammar/Extra or unorganised work/L'Imparfait.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "La Passé Compose"
+              "title": "L'Imparfait"
             }
           }
         ]
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.001522064209
+    "width": 292.001522064209,
+    "collapsed": true
   },
   "right": {
     "id": "33dd2a2dc77a5552",
@@ -180,14 +181,15 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "6a2db4f7ca0edaa3",
+  "active": "8a9a0d80fa7fc97b",
   "lastOpenFiles": [
+    "French/Vocabulary/By Topic/Chapter 4 - Bon appétit !/Les Sauces, Mélanges et Vinaigrettes.md",
+    "French/Vocabulary/By Topic/Chapter 4 - Bon appétit !/Les Légumes.md",
+    "French/Grammar/Verb Tenses/Past Tenses/La Passé Compose.md",
     "French/French Home Page.md",
     "French/Vocabulary/French Vocabulary Homepage.md",
     "French/Vocabulary/By Topic/Chapter 4 - Bon appétit !/Untitled.md",
     "French/Vocabulary/By Topic/Chapter 4 - Bon appétit !/Les Herbes et Les Épices.md",
-    "French/Vocabulary/By Topic/Chapter 4 - Bon appétit !/Les Légumes.md",
-    "French/Vocabulary/By Topic/Chapter 4 - Bon appétit !/Les Sauces, Mélanges et Vinaigrettes.md",
     "French/Vocabulary/By Topic/Chapter 4 - Bon appétit !/Cuisiner Les Repas.md",
     "French/Vocabulary/By Topic/Chapter 4 - Bon appétit !/Les Fruits.md",
     "French/Vocabulary/By Topic/Chapter 4 - Bon appétit !/La Nourriture.md",
@@ -214,7 +216,6 @@
     "-- Contribution --/Guides/Markdown, Obsidian and Tools/Desmos, Centred boxes and HTML.md",
     "-- Contribution --/Contribution Homepage.md",
     "English/English Homepage.md",
-    "index.md",
     "-- Contribution --/Images/Setting up/Installing VS Code/{F192901F-CEC1-46F1-95E4-7A29FA17EC59}.png",
     "-- Contribution --/Images/Setting up/Installing VS Code/{C7046EBB-B856-44DA-92B7-6F3A9D700598}.png",
     "-- Contribution --/Images/Setting up/Installing VS Code/{280C431D-3B37-46AA-A894-0A134042D4B6}.png",

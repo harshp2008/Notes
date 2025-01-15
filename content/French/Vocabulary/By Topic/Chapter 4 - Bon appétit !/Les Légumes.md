@@ -9,69 +9,61 @@ Authors:
 ---
 ---
 
----
-
-<h1 style="text-align:center">WORK IN PROGRESS FROM THIS POINT FORWARD</h1>
-
----
-
 # The Root Vegetables
 
 | <center>French</center> | <center>English</center> |
 | ----------------------- | ------------------------ |
-| Les carottes ()         | Carrots                  |
-| Les navets ()           | Turnips                  |
+| Les carottes (m)        | Carrots                  |
+| Les navets (m)          | Turnips                  |
 | Les betteraves (f)      | Beetroots                |
-| Les panis ()            | Parsnips                 |
-| Le gingembre ()         | Ginger                   |
-| Le radis ()             | Raddish                  |
+| Les panais (m)          | Parsnips                 |
+| Les gingembres (m)      | Ginger                   |
+| Les radis (m)           | Raddish                  |
 
 # Bulb Vegetables
 
 
 | <center>French</center> | <center>English</center> |
 | ----------------------- | ------------------------ |
-| Les oignons ()          | Onions                   |
-| L'ail (m)               | Garlic                   |
-| Les échalotes ()        | Shallots                 |
-| Le fenouil              | Fennel                   |
-| Les poireaux ()         | Leeks                    |
+| Les oignons (m)         | Onions                   |
+| Les ails (m)            | Garlic                   |
+| Les échalotes (f)       | Shallots                 |
+| Les fenouils (m)        | Fennel                   |
+| Les poireaux (m)        | Leeks                    |
 
 
 # Tuber Vegetables
 
-| <center>French</center> | <center>English</center> |
-| ----------------------- | ------------------------ |
-| Les pomme de terre      | Potato                   |
-| Les topinambours        | Jerusalem Artichokes     |
-| Les patates douces      | Sweet Potatoes           |
-| Les igname              | Yams                     |
-| le taro                 | Taro                     |
-
-
+| <center>French</center>    | <center>English</center> |
+| -------------------------- | ------------------------ |
+| Les pomme de terre (f)     | Potato                   |
+| Les topinambours (m)       | Jerusalem Artichokes     |
+| Les patate(s) douce(s) (f) | Sweet Potatoes           |
+| Les igname (f)             | Yams                     |
+| les taros (m)              | Taro                     |
 
 # Flower Vegetables
 
 
-| <center>French</center> | <center>English</center> |
-| ----------------------- | ------------------------ |
-| Le chou-fleur           | Cauliflower              |
-| Le brocoli              | Broccoli                 |
-| Les artichuats (m)      | Artichokes               |
-| Les courgettes fleurs   | Zucchini Blossoms        |
-| Le capucines            | Nasturtium               |
+| <center>French</center>                               | <center>English</center> |
+| ----------------------------------------------------- | ------------------------ |
+| Le chou-fleur (m)                                     | Cauliflower              |
+| Les brocolis (m)                                      | Broccoli                 |
+| Les artichuats (m)                                    | Artichokes               |
+| Les courgettes fleurs<br><br>Les fleurs de courgettes | <br>Zucchini Blossoms    |
+| Les capucines (f)                                     | Nasturtium               |
 
 
 
 # Stem & Shoot Vegetables
 
-| <center>French</center> | <center>English</center> |
-| ----------------------- | ------------------------ |
-| Les asperges            | Asparagus                |
-| Les haricot verts       | Green Beans              |
-| Les côtes de bette      | Swiss Chard Stems        |
-| Les tiges de fenouil    | Fennel Stalks            |
-| Le céleri-rave          | Celeriac                 |
+| <center>French</center>    | <center>English</center> |
+| -------------------------- | ------------------------ |
+| Les asperges (f)           | Asparagus                |
+| Les haricot(s) vert(s) (m) | Green Beans              |
+| Les côte(s) de blette (f)  | Swiss Chard Stems        |
+| Les tige(s) de fenouil (f) | Fennel Stalks            |
+| Le céleri-rave (m)         | Celeriac                 |
 
 
 # Fruit Vegetables
@@ -79,8 +71,8 @@ Authors:
 
 | <center>French</center> | <center>English</center> |
 | ----------------------- | ------------------------ |
-| Les tomates             | Tomatoes                 |
-| Les poivrons            | Bell peppers             |
+| Les tomates (f)         | Tomatoes                 |
+| Les poivrons (m)        | Bell peppers             |
 | Les aubergines (f)      | Eggplants                |
 | Les courgettes (f)      | Zucchinis                |
 | Les concombres (m)      | Cucumbers                |
