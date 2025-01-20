@@ -40,8 +40,9 @@ The French **present tense** has just one verb form:
 
 The French **past tense** consists of five verb forms:
 
-- [_imparfait_ | imperfect](https://www.lawlessfrench.com/grammar/imperfect/)
-- [_passé composé_ | compound past](https://www.lawlessfrench.com/grammar/passe-compose/)
+- [[La Passé Compose]]
+- [[La Passé Recent]]
+- [[L'Imparfait]]
 - [_plus-que-parfait_ | past perfect (pluperfect)](https://www.lawlessfrench.com/grammar/past-perfect/)
 
 The French **future tense** comes in two varieties:

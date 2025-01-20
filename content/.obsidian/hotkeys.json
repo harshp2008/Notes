@@ -124,5 +124,13 @@
       ],
       "key": "R"
     }
+  ],
+  "editing-toolbar:underline": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "U"
+    }
   ]
 }

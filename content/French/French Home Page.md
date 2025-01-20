@@ -3,7 +3,8 @@ title: French
 draft: false
 tags:
   - french
-Authors: []
+Authors:
+  - Harsh
 ---
 ---
 
@@ -22,14 +23,15 @@ Authors: []
 >
 >Visit [[Verb Tenses Homepage| French Tenses Page]] for more information.
 >
->- [[Le Présent]]
+>- [[Le Présent | Le Présent (incomplete)]]
 >
 >- [[La Passé Compose]]
->- [[La Passé Recent]]
+>- [[La Passé Recent | La Passé Recent (incomplete)]]
+>- [[L'Imparfait]]
 >  
->- [[Le Futur]]
->-  [[Le Futur Proche]]
->-  [[Le Futur Antérieur]]
+>- [[Le Futur | Le Futur (incomplete)]]
+>-  [[Le Futur Proche | Le Futur Proche (incomplete)]]
+>-  [[Le Futur Antérieur| Le Futur Antérieur (incomplete)]]
 >
 
 >[!info] Moods (Quick Access)

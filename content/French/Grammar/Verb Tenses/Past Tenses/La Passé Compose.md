@@ -48,9 +48,9 @@ The _passé composé_ is used when talking about:
 | <center>French</center>                         | <center>English</center>                          |
 | ----------------------------------------------- | ------------------------------------------------- |
 | _Si tu as perdu, tu dois féliciter le gagnant._ | If you lost, you have to congratulate the winner. |
-|                                                 |                                                   |
 
->[!warning] The _passé composé_ is often used alongside the [imperfect](https://www.lawlessfrench.com/grammar/imperfect/), which can be very confusing. For detailed info, see [_passé composé_ vs _imparfait_](https://www.lawlessfrench.com/grammar/passe-compose-vs-imparfait/).
+
+>[!warning] The _passé composé_ is often used alongside the [[L'Imparfait]], which can be very confusing. For detailed info, see [_passé composé_ vs _imparfait_](https://www.lawlessfrench.com/grammar/passe-compose-vs-imparfait/).
 
 
 # Formation Rules
