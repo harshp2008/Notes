@@ -9,6 +9,13 @@ Authors:
 
 ![[BM-banner.jpeg]]
 
+---
+
+>[!warning] Click here for [[BM Homepage (S.M.E Archive) | Save My Exams Notes]]
+
+---
+
+
 > [!info] Topic 1 : Introduction to Business Management
 > - [[Unit 1.1 - Types of Business Entries]] 
 > - [[Unit 1.2 - Types of Business Entries]] 
