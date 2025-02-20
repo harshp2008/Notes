@@ -8,14 +8,12 @@ Authors:
   - Harsh
 ---
 ---
- 
+
 <div style="border-radius:8px; padding:20px; border: 3px solid black; border-color:#555; font-size: 18px; font-weight:500; text-align: center; background-color:#203A43; display:flex;flex-direction:column; gap:10px ">
 
   <span style="color:white;">Save My Exam notes are provided by</span>
 
-
-   <a href="https://smearchive.pages.dev/dp/">
-  <div style="
+  <a href="https://smearchive.pages.dev/dp/" style="
   padding: 10px 20px;
   border-radius: 8px;
   border: 3px solid black;
@@ -24,14 +22,8 @@ Authors:
   max-width: 400px
   font-weight: bold;
   background-color: #F2C94C;
-  color: black;
-  
-  ">
-  PIRATE IB
-  </div>
-</a>
+  color: black;">PIRATE IB</a>
 </div>
-
 
 ---
 
