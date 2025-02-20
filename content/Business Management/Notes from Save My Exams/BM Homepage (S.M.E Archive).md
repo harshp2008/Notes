@@ -9,7 +9,17 @@ Authors:
 ---
 ---
 
-<div style="border-radius:8px; padding:20px; border: 3px solid black; border-color:#555; font-size: 18px; font-weight:500; text-align: center; background-color:#203A43; display:flex;flex-direction:column; gap:10px ">
+<div style = "
+  border-radius:8px;
+  padding:20px;
+  border: 3px solid black;
+  border-color: #555;
+  font-size: 18px;
+  font-weight: 500;
+  text-align: center;
+  background-color:rgb(32, 58, 67);
+  display:flex;flex-direction:column;
+  gap:10px;">
 
   <span style="color:white;">Save My Exam notes are provided by</span>
 
@@ -21,7 +31,7 @@ Authors:
   letter-spacing: 3px;
   max-width: 400px
   font-weight: bold;
-  background-color: #F2C94C;
+  background-color:rgb(242, 201, 76);
   color: black;">PIRATE IB</a>
 </div>
 
