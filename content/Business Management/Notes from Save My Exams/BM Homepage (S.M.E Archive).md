@@ -21,7 +21,6 @@ font-size: 18px; text-align: center; font-weight:500;
 display:flex; justify-content:center; flex-direction:column; align-items: center
 
 background: #0F2027;
-background: -webkit-linear-gradient(to right, #2C5364, #203A43, #0F2027);
 background: linear-gradient(to right, #2C5364, #203A43, #0F2027); 
 
 "> 
@@ -39,7 +38,7 @@ background: linear-gradient(to right, #2C5364, #203A43, #0F2027);
 		max-width: 100px
 		
 		background: #F2994A;  
-		background: -webkit-linear-gradient(to right, #F2C94C, #F2994A); background: linear-gradient(to right, #F2C94C, #F2994A); 
+		background: linear-gradient(to right, #F2C94C, #F2994A); 
 		 
 		color: black
 		">
@@ -48,7 +47,6 @@ background: linear-gradient(to right, #2C5364, #203A43, #0F2027);
 	</a>	
 </div>
  
-
 
 ---
 
