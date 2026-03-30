@@ -8,3 +8,9 @@ tsconfig.tsbuildinfo
 private/
 .replit
 replit.nix
+
+content/obsidian/workspace.json
+content/obsidian/workspace-mobile.json
+content/obsidian/cache/
+content/obsidian/indexed-db/
+content/obsidian/backups/
