@@ -48,7 +48,7 @@ module.exports = class QuartzSyncPlugin extends Plugin {
             // 2. Prepare Command
             const gitUser = await this.getGitUser(projectPath);
             const finalMsg = userMsg.trim() || `sync from ${gitUser}`;
-            const cmd = `npx quartz sync -m --no-pull "${finalMsg}"`;
+            const cmd = `npx quartz sync -m "${finalMsg} --no-pull --push"`;
 
             // 3. Execute
             new Notice('Quartz Syncing... stay on this page.');

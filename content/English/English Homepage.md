@@ -24,11 +24,3 @@ tags:
 
 ---
 
-
-
-
- 
-             dskdkdsvkdsdfkjdjjvdivjfffdfdfdfdfkgokfg
-             
-             
-             ksjdkvkdfvmdfkofdk
