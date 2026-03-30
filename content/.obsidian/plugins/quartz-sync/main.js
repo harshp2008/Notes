@@ -36,13 +36,15 @@ module.exports = class QuartzSyncPlugin extends Plugin {
         
         let wasEnabled = false;
         try {
-            // 1. Disable backup (memory-only to avoid disk conflicts)
+            // 1. [TEST] Disable backup disabled for diagnostic
+            /*
             if (plugins.enabledPlugins.has(pluginId)) {
                 wasEnabled = true;
                 console.log('[QuartzSync] Pausing Remotely Save...');
                 await plugins.disablePlugin(pluginId);
             }
-
+            */
+            
             // 2. Prepare Command
             const gitUser = await this.getGitUser(projectPath);
             const finalMsg = userMsg.trim() || `sync from ${gitUser}`;
@@ -63,7 +65,8 @@ module.exports = class QuartzSyncPlugin extends Plugin {
                     new Notice('Quartz Sync Complete!');
                 }
 
-                // 4. THE FIX: Robust re-enable (without loadManifests to avoid hangs)
+                // 4. [TEST] Re-enable disabled for diagnostic
+                /*
                 console.log('[QuartzSync] Sync finished. Attempting recovery...');
                 
                 let attempts = 0;
@@ -74,35 +77,30 @@ module.exports = class QuartzSyncPlugin extends Plugin {
                     console.log(`[QuartzSync] Attempt ${attempts}: Re-enabling ${pluginId}...`);
                     
                     try {
-                        // Only re-enable if we were the ones who turned it off
                         if (wasEnabled) {
                             await plugins.enablePlugin(pluginId);
                             console.log('[QuartzSync] SUCCESS: Remotely Save is back.');
                             new Notice('Backup active again.');
-                        } else {
-                            console.log('[QuartzSync] Remotely Save was not active initially. Skipping.');
                         }
                         console.log('--- SYNC FINISHED ---');
                     } catch (e) {
                         console.error(`[QuartzSync] Attempt ${attempts} error:`, e);
                         if (attempts < maxAttempts) {
                             const nextDelay = 4000 * attempts;
-                            console.log(`[QuartzSync] Retrying in ${nextDelay/1000}s...`);
                             setTimeout(tryEnable, nextDelay);
                         } else {
-                            new Notice('Could not re-enable backup automatically. Please check your plugins.');
-                            console.log('--- SYNC FINISHED (FAILED) ---');
+                            new Notice('Could not re-enable backup automatically.');
                         }
                     }
                 };
 
-                // Buffer wait to ensure file system is stable
                 setTimeout(tryEnable, 3000);
+                */
             });
 
         } catch (e) {
             console.error('Setup Error:', e);
-            if (wasEnabled) await plugins.enablePlugin(pluginId);
+            // if (wasEnabled) await plugins.enablePlugin(pluginId);
         }
     }
 
