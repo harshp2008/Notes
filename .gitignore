@@ -9,7 +9,5 @@ private/
 .replit
 replit.nix
 
-# Obsidian
-**/.obsidian/
-**/.obsidian/
+# Obsidian settings (ignored to prevent Quartz sync conflicts)
 content/.obsidian/
