@@ -2,7 +2,7 @@
   "obsidian-excalidraw-plugin",
   "templater-obsidian",
   "callout-manager",
-  "remotely-save",
   "editing-toolbar",
-  "obsidian-shellcommands"
+  "obsidian-shellcommands",
+  "remotely-save"
 ]
