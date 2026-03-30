@@ -1,12 +1,14 @@
 ---
+publish: true
 title: La Passé Compose
-draft: false
+created: 2026-03-31T01:36:55.082+05:30
+modified: 2026-03-30T19:56:56.594+05:30
+published: 2026-03-30T19:56:56.594+05:30
 tags:
   - french
   - grammer
-Authors:
-  - Harsh
 ---
+
 ---
 
 # Introduction
@@ -43,15 +45,14 @@ The _passé composé_ is used when talking about:
 | ------------------------------------------------------- | ------------------------------------------- |
 | _J’ai visité_ le Canada et puis _je suis allé_ aux USA. | I visited Canada and then I went to the US. |
 | Après qu’_il est tombé_, _il a commencé_ à pleurer.     | After he fell, he started crying.           |
+
 ## Condition in likely situations ([_si_ clauses](https://www.lawlessfrench.com/grammar/si-clauses-conditionals/))
 
 | <center>French</center>                         | <center>English</center>                          |
 | ----------------------------------------------- | ------------------------------------------------- |
 | _Si tu as perdu, tu dois féliciter le gagnant._ | If you lost, you have to congratulate the winner. |
 
-
->[!warning] The _passé composé_ is often used alongside the [[L'Imparfait]], which can be very confusing. For detailed info, see [_passé composé_ vs _imparfait_](https://www.lawlessfrench.com/grammar/passe-compose-vs-imparfait/).
-
+> [!warning] The _passé composé_ is often used alongside the [[L'Imparfait]], which can be very confusing. For detailed info, see [_passé composé_ vs _imparfait_](https://www.lawlessfrench.com/grammar/passe-compose-vs-imparfait/).
 
 # Formation Rules
 
@@ -60,12 +61,11 @@ The _passé composé_ is used when talking about:
 3. Add Past Participle of the given word
 4. Add **gender specific suffix ( e, s, es )** in the case of **Être**
 
-
 # Forming the Past Participle
 
 ### 1st group verbs (-ER)
 
-1. Remove the -ER Ending  →Parl**~~er~~**
+1. Remove the -ER Ending  →Parl\*\*~~er~~\*\*
 2. Add **-É** to it → Parl**é**
 
 ### 2nd group verbs (-IR)
@@ -76,7 +76,8 @@ The _passé composé_ is used when talking about:
 ### 3rd group verbs (-RE)
 
 1. Remove the -RE Ending  → attend~~re~~
-2. Add **-U*** to it → attend**u**
+2. Add **-U**\* to it → attend**u**
+
 # Verbs that use Être as the auxiliary:
 
 ### Complete List:
@@ -103,13 +104,11 @@ The _passé composé_ is used when talking about:
 | M | → | Mourir  |
 | P | → | Partir  |
 
-  
-
 ### Easier To Remember List:
 
-An easy way to remember the most important passe compose verbs that take a être as an auxiliary is the acronym **ADVENT** + the verb **Devenir**. 
+An easy way to remember the most important passe compose verbs that take a être as an auxiliary is the acronym **ADVENT** + the verb **Devenir**.
 
->[!tip] In the table bellow, the two verbs in a row have **opposite** meanings.
+> [!tip] In the table bellow, the two verbs in a row have **opposite** meanings.
 
 |       |     |               |       |            |
 | :---: | :-: | ------------- | :---: | ---------- |
@@ -122,7 +121,6 @@ An easy way to remember the most important passe compose verbs that take a être
 
 <div style="border-radius:8px; padding:20px; border: 3px solid black; border-color:#555 ; font-size: 18px; text-align: center; font-weight:500">And...Don't Forget <strong>Devenir</strong>!</div>
 
-  
 # Irregular Verbs
 
 ### Past participles ending in - “u”:
@@ -138,7 +136,6 @@ An easy way to remember the most important passe compose verbs that take a être
 | Courir   |  →  | Couru           |
 | Boire    |  →  | Bu              |
 | lire     |  →  | Lu              |
-  
 
 ### Past participles ending in - “is”:
 
@@ -157,7 +154,7 @@ An easy way to remember the most important passe compose verbs that take a être
 | dire | → | dit |
 
 ### Other Irregular Past Participials:
-  
+
 | Verb | → | Past Participle |
 | --- | :---: | --- |
 | Être | → | Été |
@@ -165,8 +162,8 @@ An easy way to remember the most important passe compose verbs that take a être
 | Offrir | → | Offert |
 | Ouvrir | → | Ouvert |
 
-
 ---
+
 # Resources Used
 
 - https://www.lawlessfrench.com/grammar/passe-compose/

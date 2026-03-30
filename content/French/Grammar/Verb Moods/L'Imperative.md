@@ -1,20 +1,24 @@
 ---
+publish: true
 title: L'Imperative
-draft: false
+created: 2026-03-31T01:36:55.045+05:30
+modified: 2026-03-30T19:56:56.591+05:30
+published: 2026-03-30T19:56:56.591+05:30
 tags:
   - french
   - grammer
-Authors:
-  - Harsh
 ---
+
 ---
+
 **NOTE :** Only for Tu, Nous, Vous
+
 # Uses:
 
 - Used to make request or orders.
 - For example:
-    - Stop the Thief!
-    - May I please have the chicken.
+  - Stop the Thief!
+  - May I please have the chicken.
 
 # Formation:
 

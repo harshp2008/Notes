@@ -1,28 +1,31 @@
 ---
+publish: true
 title: L'Imparfait
-draft: false
+created: 2026-03-31T01:36:55.078+05:30
+modified: 2026-03-30T19:56:56.594+05:30
+published: 2026-03-30T19:56:56.594+05:30
 tags:
   - french
   - grammer
-Authors:
-  - Harsh
----
 ---
 
->[!TODO] TODO : Rewrite the page with better examples, as the page still seems to be confusing.
+---
 
->[!info] A note to readers
->
->Hi guys, I hope you like the notes.
->
->Could you provide me feedback on whether the number of conjugation examples were sufficient or not.
+> [!TODO] TODO : Rewrite the page with better examples, as the page still seems to be confusing.
 
-___
+> [!info] A note to readers
+>
+> Hi guys, I hope you like the notes.
+>
+> Could you provide me feedback on whether the number of conjugation examples were sufficient or not.
+
+---
 
 <div style="border-radius:8px; padding:10px; border: 3px solid black; border-color:#555 ; font-size: 18px; text-align: center; font-weight:500" ><p>let's get one thing clear:</p>
 <p>L'Imparfait is used for <strong>Past Actions</strong></p></div>
 
 ---
+
 # Introduction
 
 They say practice makes perfect, so how can one of the most common French past tenses be imperfect? In grammatical terms, "perfect" means "complete," so the French imperfect tense is used to describe an action that is :
@@ -33,7 +36,7 @@ They say practice makes perfect, so how can one of the most common French past t
 
 # When to use?
 
-L'Imparfait is generally used in this types of sentences: 
+L'Imparfait is generally used in this types of sentences:
 
 |           Type           | <center>English Example</center>                  | <center>French Example</center>                             |
 | :----------------------: | ------------------------------------------------- | ----------------------------------------------------------- |
@@ -41,7 +44,7 @@ L'Imparfait is generally used in this types of sentences:
 |         ongoing          | I was doing my homework since afternoon.          | Je faisais mes devoirs depuis l’après-midi.                 |
 | habitual / <br> repeated | Every evening, I used to do my homework.          | Tous les soirs, je faisais mes devoirs.                     |
 
->[!tip] _L’imparfait_ can be used to tell stories and report on past actions, mostly in written contexts. 
+> [!tip] _L’imparfait_ can be used to tell stories and report on past actions, mostly in written contexts.
 
 ## Identifying L'Imparfait
 
@@ -49,10 +52,9 @@ Identifying where L'imparfait is used in a composition writing will help you mak
 
 L'imparfait translates to :
 
-- Was / Were + [verb]
-- Used to + [verb]
-- Would + [verb] (used in Si-cluases)
-
+- Was / Were + \[verb]
+- Used to + \[verb]
+- Would + \[verb] (used in Si-cluases)
 
 <div style="border-radius:8px; padding:20px; border: 3px solid black; border-color:#555 ; font-size: 18px; text-align: center; font-weight:500"><p style="font-size:25">Below are some specific use cases.</p> == Do Read Them ==</div>
 
@@ -62,29 +64,29 @@ L'Imparfait is used when we want to describe things in the past which relate to:
 
 - age
 - feelings / emotion
-- health 
+- health
 - time
 - weather
 - and more...
 
-### Examples: 
+### Examples:
 
 | <center>French</center>                               | <center>English</center>                              |
 | ----------------------------------------------------- | ----------------------------------------------------- |
-| _Il pleuvait_ mais _elle avait_ un parapluie.         | _It was_ **_raining_** but *she had* an umbrella.     |
-| Quand _j’avais_ **6 ans**, _j’étais_ souvent malade.  | When *I was* **6 years old**, *I was* often sick      |
+| _Il pleuvait_ mais _elle avait_ un parapluie.         | _It was_ **_raining_** but _she had_ an umbrella.     |
+| Quand _j’avais_ **6 ans**, _j’étais_ souvent malade.  | When _I was_ **6 years old**, _I was_ often sick      |
 | Quand _j’avais_ **2 ans**, _je craignais_ les chiens. | Quand _j’avais_ **6 ans**, _je craignais_ les chiens. |
-| Hier, je me suis couché tôt car _j'etait_ **fatigué** | Yesterday I slept early because *I was* **tired**.    |
+| Hier, je me suis couché tôt car _j'etait_ **fatigué** | Yesterday I slept early because _I was_ **tired**.    |
 
-##  Habitual actions or states of being 
+## Habitual actions or states of being
 
-L'Imparfait can be used to tell actions that are a habit in the past or are repeated. Word that could signify a sort of repeated action are listed below : 
+L'Imparfait can be used to tell actions that are a habit in the past or are repeated. Word that could signify a sort of repeated action are listed below :
 
->[!TODO] TODO : Add more adverbs of time and amount
+> [!TODO] TODO : Add more adverbs of time and amount
 
-- chaque + [time period]
+- chaque + \[time period]
 - souvent
-- [verb in imparfait] + beaucoup 
+- \[verb in imparfait] + beaucoup
 - Tous les jours
 
 ### Examples :
@@ -120,10 +122,9 @@ In this example, we are unsure whether the subject reached the park or not.
 | Quand _je travaillais_, _je m’ennuyais_ **toujours**. | When _I worked_, _I was_ **always** _bored_. |
 In the example above, we are unsure whether the subject is working or not.
 
-
 ## Simultaneously actions:
 
-L'Imparfait can be used when there are two or more event that are going on at the same time. Usually in [[La Passe Compose|La Passe Compose]] we talk about one event in a sentence, that is done and completed. With imparfait you can do something like the example below: 
+L'Imparfait can be used when there are two or more event that are going on at the same time. Usually in [[La Passe Compose|La Passe Compose]] we talk about one event in a sentence, that is done and completed. With imparfait you can do something like the example below:
 
 ### Example :
 
@@ -133,7 +134,7 @@ L'Imparfait can be used when there are two or more event that are going on at th
 
 ## Recounting Events (story-like)
 
-L'Imparfait can be used to recount or narrate past events. It can also be used to for reporting actions done. 
+L'Imparfait can be used to recount or narrate past events. It can also be used to for reporting actions done.
 
 Take for example, what your recount would be to the police if you crash your car or what you would say to describe a event that would play out as a story.
 
@@ -159,27 +160,26 @@ you can also L'Imparfait to describe a person, a property, a comment or an expla
 
 ## Most verbs followed by the infinitive
 
+> [!info] Aller
 
->[!info] Aller
->
 | <center>French</center> | <center>English</center> |
 | :--------------------------- | ----------------------------:|
 | _J’allais_ te téléphoner.         | I was going to call you.       |
 
->[!info] Être en train de ( in the process of )
->
+> [!info] Être en train de ( in the process of )
+
 | <center>French</center> | <center>English</center> |
 | :---------------------------: | :----------------------------:|
 | _J’étais_ **en train de** rénover le garage. | I was (in the process of) renovating the garage. |
 
->[!info] Venir de
->
+> [!info] Venir de
+
 | <center>French</center> | <center>English</center> |
 | :---------------------------: | :----------------------------:|
 | _Je venais de_ rentrer quand tu as appelé.         | I had just gotten home when you called. |
 
->[!info] Vouloir (polite request)
->
+> [!info] Vouloir (polite request)
+
 | <center>French</center> | <center>English</center> |
 | :---------------------------: | :----------------------------:|
 | _Je voulais_ vous poser une question.         | I wanted / I would like to ask you a question.|
@@ -191,7 +191,7 @@ The imperfect is often used with _si_, in which case it’s not a past tense. I
 |        |                                                                                    |                                             |
 | ------ | ---------------------------------------------------------------------------------- | ------------------------------------------- |
 | **1.** | **Questions**                                                                      |                                             |
-|        | _Elle m’a demandé si j’étais marié._                                               | She asked if I was married.*                |
+|        | _Elle m’a demandé si j’étais marié._                                               | She asked if I was married.\*                |
 | **2.** | **Suggestions**                                                                    |                                             |
 |        | _Si on allait au ciné demain ?_                                                    | How about going to the movies tomorrow?     |
 | **3.** | **Wishes**                                                                         |                                             |
@@ -201,19 +201,18 @@ The imperfect is often used with _si_, in which case it’s not a past tense. I
 | **5.** | **[_Si_ clauses](https://www.lawlessfrench.com/grammar/si-clauses-conditionals/)** |                                             |
 |        | _Si tu avais un emploi, tu pourrais acheter une voiture._                          | If you had a job, you could buy a car.      |
 
->[!warning] \* I know this sounds like it’s in the past, but at the time, it wasn’t. She wanted to know if I was married in the present tense of her asking.
-
+> [!warning] \* I know this sounds like it’s in the past, but at the time, it wasn’t. She wanted to know if I was married in the present tense of her asking.
 
 # Conjugation Rules
 
-L'imparfait is one of the most simplest tenses to conjugate in. It only has one exception: the verb "**être**". Any other verbs will follow the conjugation rules as shown below. 
+L'imparfait is one of the most simplest tenses to conjugate in. It only has one exception: the verb "**être**". Any other verbs will follow the conjugation rules as shown below.
 
 You can check out the conjugation for "Être"[[#The Only Exception ÊTRE| linked here]].
- 
- 1. Conjugate the verb in the present tense with the pronoun "nous". 
-   
+
+1. Conjugate the verb in the present tense with the pronoun "nous".
+
 2. Remove the "**-ons**" from the end. This will  give the stem of the verb.
-   
+
 3. Add the Imparfait endings to the stem:
 
 | <center>Pronoun</center> | <center>Endings</center> |
@@ -225,79 +224,76 @@ You can check out the conjugation for "Être"[[#The Only Exception ÊTRE| linked
 |           Vous           |           -iez           |
 |       Ils / Elles        |          -aient          |
 
->[!warning] Verbs ending in -GER
+> [!warning] Verbs ending in -GER
 >
->Verbs like manger, ranger, arranger, corriger and changer end in "**ger**". This verbs have a slightly different conjugation in **nous** and **vous** form. 
+> Verbs like manger, ranger, arranger, corriger and changer end in "**ger**". This verbs have a slightly different conjugation in **nous** and **vous** form.
 >
->In nous and vous forms, drop the extra "e" at the end before putting the endings.
+> In nous and vous forms, drop the extra "e" at the end before putting the endings.
 >
->Here is an example:
+> Here is an example:
 >
-><u>Manger - to eat</u>
+> <u>Manger - to eat</u>
 >
->manger in nous form in present tense -> Nous mange<font color="#ff0000">ons</font>
+> manger in nous form in present tense -> Nous mange<font color="#ff0000">ons</font>
 >
->Imparfait stem -> mange 
+> Imparfait stem -> mange
 >
->|  |  |
-| :----------------------: | :----------------------: |
-|            Je            |           mang**e**ais           |
-|            Tu            |           mang**e**ais           |
-|      Il / Elle / On      |           mang**e**ait           |
-|           Nous           |          ==mangions==           |
-|           Vous           |           ==mangiez==          |
-|       Ils / Elles        |          mang**e**aient          |
->
+> |  |  |
+> | :----------------------: | :----------------------: |
+> |            Je            |           mang**e**ais           |
+> |            Tu            |           mang**e**ais           |
+> |      Il / Elle / On      |           mang**e**ait           |
+> |           Nous           |          ==mangions==           |
+> |           Vous           |           ==mangiez==          |
+> |       Ils / Elles        |          mang**e**aient          |
 
->[!warning] Verbs ending in -CER
+> [!warning] Verbs ending in -CER
 >
->Verbs like commencer, annoncer, avancer, menacer, lancer end in "**cer**". This verbs have a slightly different conjugation in **nous** and **vous** form. 
+> Verbs like commencer, annoncer, avancer, menacer, lancer end in "**cer**". This verbs have a slightly different conjugation in **nous** and **vous** form.
 >
->In nous and vous forms, replace the extra "**ç**" at the end before putting the endings for "**c**".
+> In nous and vous forms, replace the extra "**ç**" at the end before putting the endings for "**c**".
 >
->Here is an example:
+> Here is an example:
 >
-><u>commencer - to begin</u>
+> <u>commencer - to begin</u>
 >
->manger in nous form in present tense -> Nous commenç<font color="#ff0000">ons</font>
+> manger in nous form in present tense -> Nous commenç<font color="#ff0000">ons</font>
 >
->Imparfait stem -> ==commenç== 
+> Imparfait stem -> ==commenç==
 >
->|  |  |
-| :----------------------: | :----------------------: |
-|            Je            |           commen**ç**ais           |
-|            Tu            |           commen**ç**ais           |
-|      Il / Elle / On      |           commen**ç**ait           |
-|           Nous           |          commen==c==ions          |
-|           Vous           |           commen==c==iez          |
-|       Ils / Elles        |          commen**ç**aient          |
->
+> |  |  |
+> | :----------------------: | :----------------------: |
+> |            Je            |           commen**ç**ais           |
+> |            Tu            |           commen**ç**ais           |
+> |      Il / Elle / On      |           commen**ç**ait           |
+> |           Nous           |          commen==c==ions          |
+> |           Vous           |           commen==c==iez          |
+> |       Ils / Elles        |          commen**ç**aient          |
 
->[!warning] Verbs ending in -IER
+> [!warning] Verbs ending in -IER
 >
-><div style="border-radius:8px; padding:20px; margin-top:20px; border: 3px solid black; border-color:#555 ; font-size: 18px; text-align: center; font-weight:500"><p>This is not an actual rule</p> <p>but more of a word of advice</p></div>
+> <div style="border-radius:8px; padding:20px; margin-top:20px; border: 3px solid black; border-color:#555 ; font-size: 18px; text-align: center; font-weight:500"><p>This is not an actual rule</p> <p>but more of a word of advice</p></div>
 >
->Verbs that end in "**ier**" have a double "**ii**" in **nous** and **vous** form. this is not an exception just something to take note of.
+> Verbs that end in "**ier**" have a double "**ii**" in **nous** and **vous** form. this is not an exception just something to take note of.
 >
->Some verbs that end in "**ier**" are oublier, copier, associer, certifier and étudier
+> Some verbs that end in "**ier**" are oublier, copier, associer, certifier and étudier
 >
->Here is an example:
+> Here is an example:
 >
-><u>oublier - to begin</u>
+> <u>oublier - to begin</u>
 >
->manger in nous form in present tense -> oubli<font color="#ff0000">ons</font>
+> manger in nous form in present tense -> oubli<font color="#ff0000">ons</font>
 >
->Imparfait stem -> ==oubli== 
+> Imparfait stem -> ==oubli==
 >
->|  |  |
-| :----------------------: | :----------------------: |
-|            Je            |           oubliais           |
-|            Tu            |           oubliais           |
-|      Il / Elle / On      |           oubliait           |
-|           Nous           |          oubl**ii**ons          |
-|           Vous           |           oubl**ii**ez          |
-|       Ils / Elles        |          oubliaient          |
->
+> |  |  |
+> | :----------------------: | :----------------------: |
+> |            Je            |           oubliais           |
+> |            Tu            |           oubliais           |
+> |      Il / Elle / On      |           oubliait           |
+> |           Nous           |          oubl**ii**ons          |
+> |           Vous           |           oubl**ii**ez          |
+> |       Ils / Elles        |          oubliaient          |
 
 ## The Only Exception: ÊTRE
 
@@ -317,8 +313,9 @@ The imparfait stem for être is "==Ét=="
 <h4>Resources Used:</h4>
 
 - [French Imperfect - Imparfait - Lawless French Grammar](https://www.lawlessfrench.com/grammar/imperfect/)
-  
+
 - [L’imparfait: The imperfect tense in French](https://francais.lingolia.com/en/grammar/tenses/imparfait#a-when-to-use-the-imperfect-tense)
-  
+
 - [French Imperfect Tense | FrenchLearner Grammar Lessons](https://www.frenchlearner.com/grammar/imperfect-tense/)
-- Notes by Mitkisha Mada 
+
+- Notes by Mitkisha Mada

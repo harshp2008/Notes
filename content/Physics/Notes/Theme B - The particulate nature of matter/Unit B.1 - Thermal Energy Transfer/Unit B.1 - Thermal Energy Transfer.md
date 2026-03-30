@@ -1,14 +1,14 @@
 ---
+publish: true
 title: Unit B.1 - Thermal Energy Transfer
-draft: false
-tags: 
-Authors:
-  - Harsh
+created: 2026-03-31T01:36:55.852+05:30
+modified: 2026-03-30T19:56:56.693+05:30
+published: 2026-03-30T19:56:56.693+05:30
 ---
+
 ---
 
 # Introduction
-
 
 ---
 

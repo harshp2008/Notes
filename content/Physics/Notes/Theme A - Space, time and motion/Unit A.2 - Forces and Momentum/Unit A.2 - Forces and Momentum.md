@@ -1,23 +1,25 @@
 ---
+publish: true
 title: Unit A.2 - Forces and Momentum
-draft: false
+created: 2026-03-31T01:36:55.652+05:30
+modified: 2026-03-30T19:56:56.692+05:30
+published: 2026-03-30T19:56:56.692+05:30
 tags:
   - physics
-Authors:
-  - Harsh
----
 ---
 
->[!info] Tables of Contents
+---
+
+> [!info] Tables of Contents
 >
->[[Section 1 - Forces]]
+> [[Section 1 - Forces]]
 > [[Section 2 - Newton's Laws of Motion]]
 
-
->[!info] Guiding Questions ( From Textbook )
->- How can forces acting on a system be represented both visually and algebraically? 
->- How can Newton’s laws be modelled mathematically?
->- How can knowledge of forces and momentum be used to predict the behaviour of interacting bodies?
+> [!info] Guiding Questions ( From Textbook )
+>
+> - How can forces acting on a system be represented both visually and algebraically?
+> - How can Newton’s laws be modelled mathematically?
+> - How can knowledge of forces and momentum be used to predict the behaviour of interacting bodies?
 
 # Introduction
 

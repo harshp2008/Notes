@@ -1,17 +1,20 @@
 ---
+publish: true
 title: Kinematic Equations of Motion
-draft: false
+created: 2026-03-31T01:36:55.477+05:30
+modified: 2026-03-30T19:56:56.688+05:30
+published: 2026-03-30T19:56:56.688+05:30
 tags:
   - physics
-Authors:
-  - Harsh
 ---
+
 ---
 
 [[Section 1 - Kinematic Quantities and Graphs| Previous Section : Kinematic Quantities and Graphs]]
 [[Section 3 - Motion with Gravity | Next Section : Motion with Gravity]]
 
 ---
+
 # Introduction
 
 Kinematic equations are sets of 5 equations that show the relation between 5 variable if acceleration is constant throughout the motion i.e the motion is uniform.
@@ -52,11 +55,11 @@ Kinematic equations are sets of 5 equations that show the relation between 5 var
 | ${s = vt - \frac{1}{2}at^2}$ | ${a \space-\space \text{acceleration}}$  |
 | ${v^2 - u^2 = 2as}$          | ${t \space-\space \text{time}}$          |
 
-## Deriving Suvat Equations [Extra]
+## Deriving Suvat Equations \[Extra]
 
 Suvat equations come from observing patterns in velocity-time graphs. Here is the velocity-time graph that bodies with uniform motion follows.
 
-![[suvat equation triangle.png]]
+![[Physics/Notes/Theme A - Space, time and motion/Unit A.1 - Kinematics/Images/suvat equation triangle.png]]
 
 Looking at the equation of the straight-line in the velocity graph above we can see:
 
@@ -64,17 +67,17 @@ ${v = u + at} \space\space\rightarrow \text{Equation 1}$
 
 Given that the area under the curve is the displacement ($s$) and the the green triangle + yellow rectangle above adds up to that we can observe that:
 
-${s = ut + \frac{1}{2} * (v - u)t}$
+${s = ut + \frac{1}{2} \* (v - u)t}$
 
-${s = t(u + \frac{1}{2} * v - \frac{1}{2}u)}$
+${s = t(u + \frac{1}{2} \* v - \frac{1}{2}u)}$
 
-${s = t(\frac{1}{2} * u + \frac{1}{2}v)}$
+${s = t(\frac{1}{2} \* u + \frac{1}{2}v)}$
 
 ${s = \frac{1}{2}t(u + v)} \space\space\rightarrow \text{Equation 2}$
 
 Substituting **Equation 1** into **Equation 2** we get:
 
-${s = \frac{1}{2}t(u + [\space u + at \space])}$
+${s = \frac{1}{2}t(u + \[\space u + at \space])}$
 
 ${s = \frac{1}{2}t(2u + at)}$
 
@@ -90,7 +93,7 @@ ${u = v - at}$
 
 and substituting that into **equation 2** gives :
 
-${s = \frac{1}{2}t([\space v - at \space] + v)}$
+${s = \frac{1}{2}t(\[\space v - at \space] + v)}$
 
 ${s = \frac{1}{2}t(2v - at)}$
 
@@ -108,10 +111,10 @@ Rearrange it!
 
 ${v^2 - u^2 = 2a(ut) + a(at^2)}$
 
-${v^2 - u^2 = 2a[\space ut + \frac{1}{2}at^2\space]}$
+${v^2 - u^2 = 2a\[\space ut + \frac{1}{2}at^2\space]}$
 
 The text in the square brackets is exactly **equation 3**. We can substitute it into the equation above.
 
-${v^2 - u^2 = 2a[s]}$
+${v^2 - u^2 = 2a\[s]}$
 
 ${v^2 - u^2 = 2as \space\space\rightarrow \text{Equation 5}}$

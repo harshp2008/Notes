@@ -1,40 +1,42 @@
 ---
+publish: true
 title: Le Subjonctif
-draft: false
+created: 2026-03-31T01:36:55.051+05:30
+modified: 2026-03-30T19:56:56.591+05:30
+published: 2026-03-30T19:56:56.591+05:30
 tags:
   - french
   - grammer
-Authors:
-  - Harsh
 ---
+
 ---
+
 # Where is Subjonctif Used:
 
 - Subjonctif is a french mood that expresses the speaker’s
-    - opinion
-    - desire,
-    - emotion
-    - uncertainty
+  - opinion
+  - desire,
+  - emotion
+  - uncertainty
 
 # Formation:
 
 1. Add Subject Pronoun
-    
-2. Add Conjugated the verb in **Ils / Elles** from of the **present tense**
-    
-3. Drop the last **-ENT**
-    
-4. Add Subjonctif Endings:
 
+2. Add Conjugated the verb in **Ils / Elles** from of the **present tense**
+
+3. Drop the last **-ENT**
+
+4. Add Subjonctif Endings:
 
 | Pronoun     | Ending  |
 | ----------- | ------- |
-| Je          | \- e    |
-| Tu          | \- es   |
-| Il / Elle   | \- e    |
-| Nous        | \- ions |
-| Vous        | \- iez  |
-| Ils / Elles | \- ent  |
+| Je          | - e    |
+| Tu          | - es   |
+| Il / Elle   | - e    |
+| Nous        | - ions |
+| Vous        | - iez  |
+| Ils / Elles | - ent  |
 
 # When to Use Subjonctif:
 
@@ -46,12 +48,13 @@ Authors:
 |    R    | ->  | Request / Require / Recommend |
 |    D    | ->  | Doubt / Demand                |
 |    O    | ->  | Opinions                      |
+
 - **Can** only be used after the word **“Que”**.
 - **Cannot** be used after words that show **certainty**:
-    - Être **certain(e)** que + _____
-    - Être **sûr(e)** que + _____
-    - Être est **clair(e)** que + _____
-    - Être est **évident(e)** que + _____
+  - Être **certain(e)** que + \_\_\_\_\_
+  - Être **sûr(e)** que + \_\_\_\_\_
+  - Être est **clair(e)** que + \_\_\_\_\_
+  - Être est **évident(e)** que + \_\_\_\_\_
 
 ## W - Wishing / Wanting :
 
@@ -61,7 +64,7 @@ Authors:
 | ==Souhaiter== |  +  | que + Subjonctif |
 | ==Désirer==   |  +  | que + Subjonctif |
 
->[!info] Words that are highlighted can be conjugated in any tense
+> [!info] Words that are highlighted can be conjugated in any tense
 
 ## E - Emotion :
 
@@ -72,6 +75,7 @@ Authors:
 | ==Être== |  +  | triste      |  +  | que + Subjonctif |
 | ==Être== |  +  | surprise    |  +  | que + Subjonctif |
 | ==Être== |  +  | peur        |  +  | que + Subjonctif |
+
 ## I - Impersonal Expressions
 
 |     |     |                   |     |                  |
@@ -111,16 +115,14 @@ Authors:
 | Vous                     | **fass** + iez         | **Puiss** + iez          | **Sach** + iez          | **Aill** + iez         | **Vaill** + iez       |
 | Ils / Elles              | **fass** + ent         | **Puiss** + ent          | **Sach** + ent          | **Aill** + ent         | **Vaill** + ent       |
 
-
-
 | <center>Pronoun</center> | <center>Vouloir</center> | <center>Avoir</center> | <center>Être</center> |
 | ------------------------ | ------------------------ | ---------------------- | --------------------- |
-| je                       | **Veuill** + e           | **ai + e**             | ==**Sois**==          |
-| Tu                       | **Veuill** + es          | **ai + es**            | ==**Sois**==          |
-| Il / Elle                | **Veuill** + e           | **ai + e**             | ==**Soit**==          |
-| Nous                     | ==**Voulions**==         | ==**ayons**==          | ==**Soyons**==        |
-| Vous                     | ==**Vouliez**==          | ==**ayez**==           | ==**Soyez**==         |
-| Ils / Elles              | **Veuill** + ent         | **ai + ent**           | ==**Soient**==        |
+| je                       | **Veuill** + e           | **ai + e**             | ==\*\*Sois\*\*==          |
+| Tu                       | **Veuill** + es          | **ai + es**            | ==\*\*Sois\*\*==          |
+| Il / Elle                | **Veuill** + e           | **ai + e**             | ==\*\*Soit\*\*==          |
+| Nous                     | ==\*\*Voulions\*\*==         | ==\*\*ayons\*\*==          | ==\*\*Soyons\*\*==        |
+| Vous                     | ==\*\*Vouliez\*\*==          | ==\*\*ayez\*\*==           | ==\*\*Soyez\*\*==         |
+| Ils / Elles              | **Veuill** + ent         | **ai + ent**           | ==\*\*Soient\*\*==        |
 
 # Acronym:
 

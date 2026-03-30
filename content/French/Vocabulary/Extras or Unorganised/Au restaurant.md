@@ -1,4 +1,3 @@
-
 | Au restaurant                                                            | At the restaurant                                       |
 | ------------------------------------------------------------------------ | ------------------------------------------------------- |
 | Voici la carté                                                           | Here is the menu                                        |
@@ -10,4 +9,3 @@
 | Qu'est ce que vous avez comme desserts?                                  | What desserts do you have?                              |
 | Vous avez besoin autre choses?<br><br>Vous avez besoin de quelque chose? | Do you need anything else?                              |
 | On a besoin de l'addition                                                | We need the bill                                        |
-

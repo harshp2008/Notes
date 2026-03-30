@@ -1,22 +1,24 @@
 ---
+publish: true
 title: Les Herbes et Les Épices [ optional ]
-draft: false
+created: 2026-03-31T01:36:55.321+05:30
+modified: 2026-03-30T19:56:56.613+05:30
+published: 2026-03-30T19:56:56.613+05:30
 tags:
   - french
   - Extra-Vocabulary
-Authors:
-  - Harsh
----
 ---
 
->[!todo] TODO : Reorganisation
+---
+
+> [!todo] TODO : Reorganisation
 >
->This page has just been copied from the website linked below. 
->It will need to be organised better.
+> This page has just been copied from the website linked below.
+> It will need to be organised better.
 
 ---
 
->[!warning] This entire section is optional
+> [!warning] This entire section is optional
 > it is **extremely unlikely** that this will come out in the examination. But it is encouraged to learn some of the vocabulary as it can help write better french essays.
 
 ## General words connected to spices
@@ -82,6 +84,7 @@ Authors:
 | Le curry<br><br>Le cari                                                   | <br>Curry                     |
 | les herbes de Provence<br><br>(thym, romarin, sarriette, origan, lavande) | <br>Herbes de Provence mix    |
 | Le mélange d’épices à citrouille                                          | Pumpkin spice mix             |
+
 # Verbs, adjectives, and nouns connected to spices
 
 | <center>French</center>         | <center>English</center>      |
@@ -106,9 +109,7 @@ Many spices offer health benefits. **This is how to say those in French :**
 | Avoir un effet désinfectant <br><br>Être antiseptique | <br>To be antisepetic      |
 | Être riche en antioxydants                            | To be rich in antioxidants |
 
-
 ---
+
 <h4>Resources Used:</h4>
 - https://www.frenchanted.com/list-of-spices-and-aromatic-herbs-in-french/
-
-

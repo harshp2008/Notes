@@ -1,22 +1,24 @@
 ---
+publish: true
 title: Les Pays, Capital et Villes
-draft: false
+created: 2026-03-31T01:36:55.141+05:30
+modified: 2026-03-30T19:56:56.596+05:30
+published: 2026-03-30T19:56:56.596+05:30
 tags:
   - french
   - vocabulary
-Authors:
-  - Sritha
----
 ---
 
->[!warning] this page is incomplete
+---
+
+> [!warning] this page is incomplete
 
 # Le pays francophones
 
 - Benin
 - Congo:
-	- Democratic Republic of Congo
-	- Republic of Congo
+  - Democratic Republic of Congo
+  - Republic of Congo
 - France
 - Gabon
 - Guinea
@@ -25,6 +27,7 @@ Authors:
 - Niger
 - Senegal
 - Togo
+
 #### En Europe:
 
 - La Belgique
@@ -33,13 +36,13 @@ Authors:
 - Le Luxembourg
 - La Moldavie
 - La Roumanie
-- La Suisse 
+- La Suisse
 - Monaco
 - La Pologne
 
 #### En Afrique:
 
-- L'Algerie 
+- L'Algerie
 - Le Benin
 - La Guinee
 - Le Burkina Faso
@@ -48,12 +51,12 @@ Authors:
 - La Cote d'Ivoire
 - Le Gabon
 - Le Cameroun
-- Madagascar 
+- Madagascar
 - Le Senegal
 - Les Seychelles
 - Le Congo
-	- Democratic Republic of Congo
-	- Republic of Congo
+  - Democratic Republic of Congo
+  - Republic of Congo
 - Le Maroc
 - Le Rwanda
 - Le Mali
@@ -67,7 +70,7 @@ Authors:
 
 #### En Amérique du Sud et aux Caraibes:
 
-- La Guadeloupe 
+- La Guadeloupe
 - La Martinique
 - La Dominique
 - Sainte-Lucie
@@ -92,14 +95,14 @@ Countries that end with an 'e' are ==feminine== and therefore take the article, 
 
 The remaining countries that do not end with an 'e' are ==masculine== and take the article, 'le'. (Le Canada, Le Portugal, Le Japon, Le Luxembourg)
 
-Countries beginning with a vowel take the article ' l' '. (L'Algerie, l'Inde, L'Allemande) 
+Countries beginning with a vowel take the article ' l' '. (L'Algerie, l'Inde, L'Allemande)
 Note: although these countries take l', they are considered feminine as the end with an 'e'
 
-
->[!todo] TODO : What to cover (rough note) 
+> [!todo] TODO : What to cover (rough note)
+>
 > - le pays francophone
 > - gender of countries
->  - masc, fem, plural, countries that do not take any vowel 
-> - exceptions 
+> - masc, fem, plural, countries that do not take any vowel
+> - exceptions
 > - countries, cities, villes
 > - vowels the take (au, aux, en, a)

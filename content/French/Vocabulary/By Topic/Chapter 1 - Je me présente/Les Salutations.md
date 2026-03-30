@@ -1,8 +1,11 @@
 ---
+publish: true
 title: Les Salutations (Incomplete)
-draft: false
-tags:
+created: 2026-03-31T01:36:55.159+05:30
+modified: 2026-03-30T19:56:56.597+05:30
+published: 2026-03-30T19:56:56.597+05:30
 ---
+
 ---
 
 # Vocabulary List
@@ -37,10 +40,8 @@ tags:
 
 ## Sample conversation 1
 
-
-
-
 ---
-# Credits: 
+
+# Credits:
 
 1. https://ecampusontario.pressbooks.pub/frenchcopy/chapter/1-2-greetings/

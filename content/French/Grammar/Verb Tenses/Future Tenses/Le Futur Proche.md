@@ -1,11 +1,14 @@
 ---
+publish: true
 title: New Note
-draft: false
+created: 2026-03-31T01:36:55.061+05:30
+modified: 2026-03-30T19:56:56.593+05:30
+published: 2026-03-30T19:56:56.593+05:30
 tags:
   - french
   - grammer
-Authors:
 ---
+
 ---
 
 ---
@@ -14,8 +17,8 @@ Authors:
 
 ---
 
-
 ---
+
 # Resources Used
 
 - https://www.lawlessfrench.com/grammar/present-tense/

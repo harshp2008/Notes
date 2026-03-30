@@ -1,11 +1,13 @@
 ---
+publish: true
 title: Kinematic Quantities and Graphs
-draft: false
+created: 2026-03-31T01:36:55.475+05:30
+modified: 2026-03-30T19:56:56.688+05:30
+published: 2026-03-30T19:56:56.688+05:30
 tags:
   - physics
-Authors:
-  - Harsh
 ---
+
 ---
 
 [[Unit A.1 - Kinematics | Back to index page A.1]]
@@ -30,8 +32,7 @@ Authors:
 > [!info] Define Vector
 >
 > - A vector is a physical quantity that has size and direction
-> - <u>Examples:</u> - Displacement - Velocity - Acceleration - Force - Time
->   <br>
+> - <u>Examples:</u> - Displacement - Velocity - Acceleration - Force - Time <br>
 > - Any unit that relies on a vector quantity is a vector
 > - <u>Examples:</u> - Pressure = Force / Area - Force is a **Vector** and Area is a **Scalar** > <br> - Momentum = Mass \* Velocity - Mass is a **Scalar** and Velocity is a **Vector**
 
@@ -54,7 +55,7 @@ Authors:
 > - Displacement can be found by drawing a straight line between two points
 > - displacement is denoted with a ==" s "==
 
-![[Distance vs displacement.webp]]
+![[Physics/Notes/Theme A - Space, time and motion/Unit A.1 - Kinematics/Images/Distance vs displacement.webp]]
 
 ### Speed Vs Velocity
 
@@ -65,8 +66,8 @@ Authors:
 > - Speed is a **scalar** quantity
 > - Speed can be found by taking the gradient of a distance-time graph
 > - Speed is denoted by " $v$ " (italics)
->   
->    $Speed = \dfrac{\triangle distance }{\triangle time}$
+>
+>   $Speed = \dfrac{\triangle distance }{\triangle time}$
 
 > [!info] Velocity
 >
@@ -75,10 +76,10 @@ Authors:
 > - Velocity is a **vector** quantity.
 > - Velocity can be found by taking the gradient of a displacement-time graph
 > - Speed is denoted by " $v$" (bold)
->   
->     $veloctiy = \dfrac{ds}{dt}$
+>
+>   $veloctiy = \dfrac{ds}{dt}$
 
-![[Speed vs Velocity.png]]
+![[Physics/Notes/Theme A - Space, time and motion/Unit A.1 - Kinematics/Images/Speed vs Velocity.png]]
 
 #### Average Speed vs Velocity
 
@@ -88,7 +89,7 @@ Authors:
 > - Average Speed is a **scalar**
 > - Average speed is **always positive** and ==doesn't indicate the direction of motion==.
 > - Can be found by taking the area under a d-t graph and dividing by the time
->   
+>
 >   $Average \space Speed = \dfrac{total \space distance}{time}$
 
 > [!info] Average Velocity
@@ -96,10 +97,10 @@ Authors:
 > - Average velocity is the displacement divided by the time.
 > - Average Speed is a **vector**.
 > - Can be found by taking the area under a s-t graph and dividing by the time
->   
->   $Average \space Velocity = \dfrac{displacement}{time} = \dfrac{\triangle \space position}{\triangle \space time}$ 
 >
->   $Average \space Velocity = \dfrac{\triangle x_{final} - \triangle x_{initial}}{\triangle t_{final} - \triangle t_{initial}}$
+>   $Average \space Velocity = \dfrac{displacement}{time} = \dfrac{\triangle \space position}{\triangle \space time}$
+>
+>   $Average \space Velocity = \dfrac{\triangle x\_{final} - \triangle x\_{initial}}{\triangle t\_{final} - \triangle t\_{initial}}$
 
 #### Instantaneous Speed vs Velocity
 
@@ -107,16 +108,15 @@ Authors:
 >
 > - Instantaneous speed is ==the speed of an object at a specific moment in time==
 > - Instantaneous Speed is a **scalar**.
-> - can be found by taking the gradient at a specific time value in a d-t graph
->   <br> $Instantaneous \space Speed = \dfrac{distance \space travelled \space at \space time \space t}{t}$
+> - can be found by taking the gradient at a specific time value in a d-t graph <br> $Instantaneous \space Speed = \dfrac{distance \space travelled \space at \space time \space t}{t}$
 
 > [!info] Instantaneous Velocity
 >
 > - Instantaneous speed is ==the velocity of an object at a specific moment in time==
 > - Instantaneous Speed is a **vector**.
 > - can be found by taking the gradient at a specific time value in a s-t graph
->   
->    $Instantaneous \space Velocity = \dfrac{displacement \space at \space t=T }{T}$
+>
+>   $Instantaneous \space Velocity = \dfrac{displacement \space at \space t=T }{T}$
 
 ### Acceleration
 
@@ -126,15 +126,13 @@ Authors:
 > - Si unit is $ms^{-2}$.
 > - Acceleration is a **vector** quantity.
 > - Acceleration can be found by taking the gradient of a Velocity time graph
-> - Speed is denoted by " $a$ "
->   <br> ${acceleration = \dfrac{d^2s}{dt^2} \space or \space \dfrac{velocity}{time \space taken}}$
+> - Speed is denoted by " $a$ " <br> ${acceleration = \dfrac{d^2s}{dt^2} \space or \space \dfrac{velocity}{time \space taken}}$
 
 > [!info] Average Acceleration
 >
 > - Average velocity is the **overall velocity over the time period**.
 > - Average acceleration is a **vector**.
-> - Can be found by taking the area under a v-t graph and dividing by the time
->   <br> ${Average \space acceleration = \dfrac{\triangle \space Velocity}{\triangle \space time} = \dfrac{\triangle v - \triangle u}{\triangle t_{2} - \triangle t_{1}}}$
+> - Can be found by taking the area under a v-t graph and dividing by the time <br> ${Average \space acceleration = \dfrac{\triangle \space Velocity}{\triangle \space time} = \dfrac{\triangle v - \triangle u}{\triangle t\_{2} - \triangle t\_{1}}}$
 
 #### Instantaneous acceleration
 
@@ -142,18 +140,18 @@ Authors:
 >
 > - Instantaneous acceleration is ==the acceleration of an object at a specific moment in time==
 > - Instantaneous acceleration is a **vector**.
-> - can be found by taking the gradient at a specific time value in a v-t graph
->   <br> ${Instantaneous \space acceleration = \dfrac{Velocity \space at \space t=T }{T}}$
+> - can be found by taking the gradient at a specific time value in a v-t graph <br> ${Instantaneous \space acceleration = \dfrac{Velocity \space at \space t=T }{T}}$
 
 ## Analysing Graphs (Incomplete)
 
-![[d-t graphs.jpg]]
+![[Physics/Notes/Theme A - Space, time and motion/Unit A.1 - Kinematics/Images/d-t graphs.jpg]]
 
 - Distance-time Graphs
+
 - Displacement-time Graphs
 
 - Speed-time Graphs
+
 - Velocity-time Graphs
 
 - Acceleration-time Graphs
-

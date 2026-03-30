@@ -1,12 +1,14 @@
 ---
+publish: true
 title: Le Présent
-draft: false
+created: 2026-03-31T01:36:55.110+05:30
+modified: 2026-03-30T19:56:56.595+05:30
+published: 2026-03-30T19:56:56.595+05:30
 tags:
   - french
   - grammer
-Authors:
-  - Harsh
 ---
+
 ---
 
 The French present tense, also known as the present indicative, is fairly similar to the English simple present, but there are some key differences. The French present tense can talk about any of the following:
@@ -48,8 +50,6 @@ The French present tense, also known as the present indicative, is fairly simila
 
 **6.** [Historical accounts](https://www.lawlessfrench.com/grammar/historical-tenses/)
 
-
-
 ---
 
 <h1 style="text-align:center">WORK IN PROGRESS FROM THIS POINT FORWARD</h1>
@@ -58,13 +58,12 @@ The French present tense, also known as the present indicative, is fairly simila
 
 # Conjugation
 
-
-
-
 ## Exceptions
+
 <br><br>
 
 ---
+
 # Resources Used
 
 Information take from https://www.lawlessfrench.com/grammar/present-tense/

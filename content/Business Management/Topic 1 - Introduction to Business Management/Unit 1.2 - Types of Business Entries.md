@@ -1,11 +1,13 @@
 ---
+publish: true
 title: Unit 1.2 - Types of Business Entries
-draft: false
+created: 2026-03-31T01:36:54.950+05:30
+modified: 2026-03-30T19:56:56.582+05:30
+published: 2026-03-30T19:56:56.582+05:30
 tags:
   - BM
-Authors:
-  - Harsh
 ---
+
 ---
 
 - [[Unit 1.1 - Types of Business Entries| Previous Unit : What is a Business ? ]]
@@ -18,24 +20,24 @@ Authors:
 - refers to businesses owned by private individuals.
 - The main aim of a private sector business is to make profit.
 - Other aims include :
-    - high market share
-    - high growth
-    - etc.
+  - high market share
+  - high growth
+  - etc.
 - Examples :
-    - Infosys Limited
-    - Lenskart Solutions Private Limited
+  - Infosys Limited
+  - Lenskart Solutions Private Limited
 
 # Public Sector
 
 - Refers to businesses owned by the government.
 - The main aim of a public sector is to make the product available to as many people as possible at an affordable rate.
 - other aims include
-    - achieving lower cost by high economies of scale.
-    - taking care of under provision of education and healthcare.
-    - etc.
+  - achieving lower cost by high economies of scale.
+  - taking care of under provision of education and healthcare.
+  - etc.
 - Examples :
-    - Indian Railways
-    - Maharashtra State Electricity Distribution Company (MSEDCL)
+  - Indian Railways
+  - Maharashtra State Electricity Distribution Company (MSEDCL)
 
 # Types of Organizations
 
@@ -45,9 +47,9 @@ Authors:
 - The business and the person are the same legal entity
 - The Owner has **Unlimited Liability** in the business
 - Examples :
-    - Doctor (Physician)
-    - Lawyer
-    - Garage Mechanic
+  - Doctor (Physician)
+  - Lawyer
+  - Garage Mechanic
 
 ### Characteristics (generally):
 
@@ -81,8 +83,8 @@ Authors:
 - Partners may be **working partners** or **sleeping partners**
 - The partner jointly have **unlimited liability** in the business. (Liability & Profit may be shared equally regardless of equity or it may be customised by mentioning it in the partnership agreement)
 - Examples :
-    - CA (Chartered Accountant) Partnership Firms
-    - Law Partnership Firms
+  - CA (Chartered Accountant) Partnership Firms
+  - Law Partnership Firms
 
 ### Characteristics (Generally) :
 
@@ -104,13 +106,14 @@ Authors:
 ## Privately Held Companies:
 
 > Privately held companies are private businesses which are **owned by shareholders** who can be individuals or other business
+
 - A company is a **separate legal entity** from its shareholders and has rights to enter into agreements.
 - The shareholder have **limited liability**.
 - Shareholders appoint **Board of Directors** to run the company who make top level decision of the company
 - The managers run the company on a day-to-day basis
 - Examples:
-    - IKEA (Sweden)
-    - ROLEX (Switzerland)
+  - IKEA (Sweden)
+  - ROLEX (Switzerland)
 
 ### Characteristics (Generally) :
 
@@ -145,8 +148,8 @@ Authors:
 - The managers run the company on a day-to-day basis
 - The **Shares are traded publicly** on the stock exchange and any person can buy them
 - Examples:
-    - MRF Tyres (India)
-    - Google
+  - MRF Tyres (India)
+  - Google
 
 ### Characteristics (Generally) :
 

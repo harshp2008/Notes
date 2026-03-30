@@ -1,13 +1,14 @@
 ---
+publish: true
 title: The Send Off
-draft: false
+created: 2026-03-31T01:36:55.031+05:30
+modified: 2026-03-30T19:56:56.589+05:30
+published: 2026-03-30T19:56:56.589+05:30
 tags:
   - English
-Authors:
-  - Harsh
----
 ---
 
+---
 
 # Poem
 
@@ -37,9 +38,7 @@ A few, a few, too few for drums and yells,
 May creep back, silent, to still village wells
 Up half-known roads.
 
-
 # Poem Analysis
-
 
 ---
 

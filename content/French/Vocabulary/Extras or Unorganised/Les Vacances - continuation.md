@@ -1,16 +1,15 @@
 ---
+publish: true
 title: Les Vacances
-draft: false
-Authors: []
+created: 11 / 12 / 2024
+modified: 2026-03-30T19:56:56.615+05:30
+published: 11 / 12 / 2024
 tags:
   - vocabulary
   - french
-date: 11 / 12 / 2024
 ---
 
-
-
-# 
+#
 
 | French                     | English                         |
 | -------------------------- | ------------------------------- |
@@ -32,7 +31,7 @@ date: 11 / 12 / 2024
 | --------------------------------------------------------------------------------- | --------------------------------------------------------- |
 | Au guichet / À la billetterie                                                     | At the ticket counter                                     |
 | Je peux vous aider?                                                               | Can I help you?                                           |
-| Je voudrais un aller simple ou un billet aller-retour pour ___ , s’il vous plaît. | I would like a single-go / a round ticket to ___ , please |
+| Je voudrais un aller simple ou un billet aller-retour pour \_\_\_ , s’il vous plaît. | I would like a single-go / a round ticket to \_\_\_ , please |
 | En quelle classe ?                                                                | In which class?                                           |
 | En première / deuxième classe.                                                    | In First / Second class                                   |
 | C'est quel quai?                                                                  | Which platform is it ?                                    |
@@ -40,7 +39,7 @@ date: 11 / 12 / 2024
 | C'est un train direct.                                                            | The train is direct.                                      |
 | Est-ce qu'il faut change les trains?                                              | Do I have to change trains?                               |
 
-# Moyens de transports et sa préférences 
+# Moyens de transports et sa préférences
 
 | Je voyage toujours en train, avion etc, parce que c'est ... | I always travel by train, plane etc, because it is... |
 | ----------------------------------------------------------- | ----------------------------------------------------- |
@@ -55,13 +54,14 @@ date: 11 / 12 / 2024
 | moins cher                                                  | Less Expensive                                        |
 
 ---
+
 <h1> -- Personal Work -- </h1>
 
 Write a message émail  à invitez votre ami(e), pur une soirée musicale dans quartier (region / place / area). Écrivez ce e-mail.
 
 ---
-# Les activités en vacances
 
+# Les activités en vacances
 
 | French                                      | English                                            |
 | :------------------------------------------ | :------------------------------------------------- |
@@ -87,6 +87,5 @@ Write a message émail  à invitez votre ami(e), pur une soirée musicale dans q
 | Je me reposerais                            | I would rest                                       |
 | Je nagerais avec les poissons tropicaux     | I swim with tropical fish                          |
 
-on -> informal 
+on -> informal
 nous -> formal
-

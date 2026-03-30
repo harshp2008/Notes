@@ -1,23 +1,25 @@
 ---
+publish: true
 title: La Nourriture
-draft: false
+created: 2026-03-31T01:36:55.304+05:30
+modified: 2026-03-30T19:56:56.612+05:30
+published: 2026-03-30T19:56:56.612+05:30
 tags:
   - french
-Authors:
-  - Harsh
-  - Nirja
 ---
----
->[!tip] Memorise better with flashcards : Brainscape (work in progress)
->
->Clicking on the link below will take you to a website that is great for memorisation.
->
->>[!cite] I personally used it for 1 and half hour and memorised 68 french words in that short time.
->
->https://www.brainscape.com/p/672KB-LH-DBVPR 
 
+---
+
+> [!tip] Memorise better with flashcards : Brainscape (work in progress)
+>
+> Clicking on the link below will take you to a website that is great for memorisation.
+>
+> > [!cite] I personally used it for 1 and half hour and memorised 68 french words in that short time.
+>
+> https://www.brainscape.com/p/672KB-LH-DBVPR
 
 # Vocabulary List
+
 ## Les heures de repas
 
 | <center>French</center> | <center>English</center> |
@@ -82,7 +84,7 @@ Authors:
 | Du soda                                                   | Soda                     |
 | Du vin rouge                                              | Red wine                 |
 
-## Les viandes 
+## Les viandes
 
 | <center>French</center> | <center>English</center> |
 | ----------------------- | ------------------------ |
@@ -99,25 +101,12 @@ Authors:
 | De la langouste         | Lobster                  |
 | De l’autruche           | Ostricich                |
 
-
-
-
-
 ## Les goûters
-
 
 | <center>French</center> | <center>English</center> |
 | ----------------------- | ------------------------ |
 |                         |                          |
 
-
-
-
 De la crème fraîche - fresh cream
 
 Le fromage - cheese
-
-
-
-
-
