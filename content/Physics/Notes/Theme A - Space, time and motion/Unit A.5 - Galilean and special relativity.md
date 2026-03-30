@@ -1,9 +1,13 @@
 ---
+publish: true
 title: Unit A.5 - Galilean and special relativity
-draft: false
+created: 2026-03-31T01:36:55.801+05:30
+modified: 2026-03-30T19:56:56.693+05:30
+published: 2026-03-30T19:56:56.693+05:30
 tags:
   - physics
 ---
+
 ---
 
 ---

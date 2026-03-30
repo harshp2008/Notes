@@ -1,8 +1,11 @@
 ---
+publish: true
 title: Data analysis and modelling physics
-draft: false
-tags:
+created: 2026-03-31T01:36:56.209+05:30
+modified: 2026-03-30T19:56:56.696+05:30
+published: 2026-03-30T19:56:56.696+05:30
 ---
+
 ---
 
 ---

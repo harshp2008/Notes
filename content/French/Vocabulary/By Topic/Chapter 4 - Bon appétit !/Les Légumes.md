@@ -1,12 +1,14 @@
 ---
+publish: true
 title: Les Legumes
-draft: false
+created: 2026-03-31T01:36:55.323+05:30
+modified: 2026-03-30T19:56:56.613+05:30
+published: 2026-03-30T19:56:56.613+05:30
 tags:
   - french
   - vocabulary
-Authors:
-  - Harsh
 ---
+
 ---
 
 # The Root Vegetables
@@ -22,7 +24,6 @@ Authors:
 
 # Bulb Vegetables
 
-
 | <center>French</center> | <center>English</center> |
 | ----------------------- | ------------------------ |
 | Les oignons (m)         | Onions                   |
@@ -30,7 +31,6 @@ Authors:
 | Les échalotes (f)       | Shallots                 |
 | Les fenouils (m)        | Fennel                   |
 | Les poireaux (m)        | Leeks                    |
-
 
 # Tuber Vegetables
 
@@ -44,7 +44,6 @@ Authors:
 
 # Flower Vegetables
 
-
 | <center>French</center>                               | <center>English</center> |
 | ----------------------------------------------------- | ------------------------ |
 | Le chou-fleur (m)                                     | Cauliflower              |
@@ -52,8 +51,6 @@ Authors:
 | Les artichuats (m)                                    | Artichokes               |
 | Les courgettes fleurs<br><br>Les fleurs de courgettes | <br>Zucchini Blossoms    |
 | Les capucines (f)                                     | Nasturtium               |
-
-
 
 # Stem & Shoot Vegetables
 
@@ -65,9 +62,7 @@ Authors:
 | Les tige(s) de fenouil (f) | Fennel Stalks            |
 | Le céleri-rave (m)         | Celeriac                 |
 
-
 # Fruit Vegetables
-
 
 | <center>French</center> | <center>English</center> |
 | ----------------------- | ------------------------ |
@@ -78,10 +73,7 @@ Authors:
 | Les concombres (m)      | Cucumbers                |
 | Les piments (m)         | Chili                    |
 
-
-
 # Fungi & Mushroom
-
 
 | <center>French</center>   | <center>English</center> |
 | ------------------------- | ------------------------ |
@@ -91,10 +83,7 @@ Authors:
 | Les pleurotes             | Oyster Mushrooms         |
 | Les trompettes de la Mort | Black trumpets           |
 
-
-
 # Green Leafy Vegetables
-
 
 | <center>French</center> | <center>English</center> |
 | ----------------------- | ------------------------ |
@@ -105,8 +94,6 @@ Authors:
 | La bette                | Swiss chard              |
 | La roquette             | Arugula                  |
 
-
-
 # Seed Vegetable
 
 | <center>French</center> | <center>English</center> |
@@ -116,8 +103,6 @@ Authors:
 | Le maïs                 | Corn                     |
 | Les pois des champs     | Field Peas               |
 | La courges              | Squash                   |
-
-
 
 # Sea Vegetables
 

@@ -1,17 +1,20 @@
 ---
+publish: true
 title: Motion with Gravity
-draft: false
+created: 2026-03-31T01:36:55.479+05:30
+modified: 2026-03-30T19:56:56.689+05:30
+published: 2026-03-30T19:56:56.689+05:30
 tags:
   - physics
-Authors:
-  - Harsh
 ---
+
 ---
 
 [[Section 2 - Suvat Equations| Previous Section : Suvat Equations]]
 [[Section 4 - Projectile Motion| Next Section : Projectile Motion]]
 
 ---
+
 # Introduction
 
 Watch a dog catching a ball thrown high into the air. It is a remarkable feat of coordination by the animal. What is the physics of the motion? The ball is moving in two dimensions, and it is subject to the vertical acceleration of gravity and the deceleration of air resistance. How do physicists treat this complex situation? The trick they use is to split it up into horizontal and vertical components.
@@ -28,7 +31,7 @@ The acceleration due to gravity at Earth’s surface is given the symbol $g$ . T
 
 [[A.1 - junk 1]]
 
-![[Pasted image 20241216171204.png|400]]
+![[Physics/Notes/Theme A - Space, time and motion/Unit A.1 - Kinematics/Images/Pasted image 20241216171204.png|400]]
 
 A baseball is thrown vertically upwards with an initial speed $u$. Gravity acts on the baseball from the moment of its release, slowing it down until it stops for an instant at the top of its motion. Gravity continues to act and the baseball now accelerates downwards to reach the ground with the same speed at which it was released. Without air resistance, the displacement–time graph would look like Figure 1 below. The ball goes vertically up and then down to land in the same spot from which it was projected. The path in the air is called the trajectory and is a vertical line up and down for this case.
 
@@ -36,11 +39,11 @@ A distance–time graph would look different (Figure 2). It gives similar inform
 
 |                   Displacement-time graph                   |                        Distance-time graph                         |
 | :---------------------------------------------------------: | :----------------------------------------------------------------: |
-| ![[{D1A7F92B-AA85-4653-B48B-1144202385C7}.png]]<br>figure 1 | ![[{874E6162-6009-4741-85EC-8CEB30AE1C01}.png\|250px]]<br>figure 2 |
+| ![[Physics/Notes/Theme A - Space, time and motion/Unit A.1 - Kinematics/Images/{D1A7F92B-AA85-4653-B48B-1144202385C7}.png]]<br>figure 1 | ![[Physics/Notes/Theme A - Space, time and motion/Unit A.1 - Kinematics/Images/{874E6162-6009-4741-85EC-8CEB30AE1C01}.png|250px]]<br>figure 2 |
 
 |                     Velocity-time graph                     |                      Speed-time graph                       |
 | :---------------------------------------------------------: | :---------------------------------------------------------: |
-| ![[{5F846B84-1B35-4A2B-A80F-40B6E11ADEEF}.png]]<br>Figure 3 | ![[{9F8C94D7-3E19-43D7-9E2B-3693C9F5F95C}.png]]<br>Figure 4 |
+| ![[Physics/Notes/Theme A - Space, time and motion/Unit A.1 - Kinematics/Images/{5F846B84-1B35-4A2B-A80F-40B6E11ADEEF}.png]]<br>Figure 3 | ![[Physics/Notes/Theme A - Space, time and motion/Unit A.1 - Kinematics/Images/{9F8C94D7-3E19-43D7-9E2B-3693C9F5F95C}.png]]<br>Figure 4 |
 
 ### Suvat Equation Analyses
 
@@ -75,9 +78,9 @@ The kinematic equations are printed again but with differences to reflect the ve
 >
 > A student drops a stone from rest at the top of a well. She hears the stone splash into the water at the bottom of the well $2.3 \space s$ after releasing the stone. Ignore the time taken for the sound to reach the student from the bottom of the well. The acceleration due to gravity $g$ is $9.8 \space ms^{-2}$ .
 >
-> 1.  Calculate the depth of the well.
-> 2.  Calculate the speed at which the stone hits the water surface.
-> 3.  Explain why the time taken for the sound to reach the student can be ignored
+> 1. Calculate the depth of the well.
+> 2. Calculate the speed at which the stone hits the water surface.
+> 3. Explain why the time taken for the sound to reach the student can be ignored
 
 > [!solution] Solution:
 >
@@ -135,9 +138,7 @@ The kinematic equations are printed again but with differences to reflect the ve
 >
 > $T = \dfrac{5.0}{9.8}$
 >
-> $T = +0.51 \space s$
-> <br>
-> <u>Part 3</u>
+> $T = +0.51 \space s$ <br> <u>Part 3</u>
 >
 > If we imagine that the starting position of the object to be as $0\space m$, the highest point to be at $+1.28\space m$ and the ground to be at $-30\space m$ relative from the starting point we can easily use ${s = ut + \frac{1}{2}at^2}$ to find the total time taken.
 >

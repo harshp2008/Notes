@@ -1,16 +1,24 @@
 ---
+publish: true
 title: Test Run
 draft: true
-tags: 
-Authors:
-  - Sritha
+created: 2026-03-31T01:36:54.771+05:30
+modified: 2026-03-30T19:56:56.467+05:30
+published: 2026-03-30T19:56:56.467+05:30
 ---
+
 ---
+
 # Heading 1
+
 ## Heading 2
+
 ### Heading 3
+
 #### Heading 4
+
 ##### Heading 5
+
 ###### Heading 6
 
 | <center>heading 1</center> | heading 2 |
@@ -21,13 +29,12 @@ Authors:
 ![[3 - Data analysis and modelling physics]]
 ![[A.1 - independent motion 1.svg]]
 
->[!info] Dogs
->dogs
+> [!info] Dogs
+> dogs
 
 # Latex
 
 $x=y+1+\dfrac{x}{y}$
-
 
 |     |     |
 | --- | --- |

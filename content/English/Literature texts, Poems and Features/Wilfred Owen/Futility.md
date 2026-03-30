@@ -1,35 +1,34 @@
 ---
+publish: true
 title: Futility
-draft: false
+created: 2026-03-31T01:36:55.026+05:30
+modified: 2026-03-30T19:56:56.588+05:30
+published: 2026-03-30T19:56:56.588+05:30
 tags:
   - English
-Authors:
-  - Harsh
----
 ---
 
+---
 
 # Poem
 
-Move him into the sun—  
-Gently its touch awoke him once,  
-At home, whispering of fields half-sown.  
-Always it woke him, even in France,  
-Until this morning and this snow.  
-If anything might rouse him now  
+Move him into the sun—\
+Gently its touch awoke him once,\
+At home, whispering of fields half-sown.\
+Always it woke him, even in France,\
+Until this morning and this snow.\
+If anything might rouse him now\
 The kind old sun will know.
 
-Think how it wakes the seeds—  
-Woke once the clays of a cold star.  
-Are limbs, so dear-achieved, are sides 
-Full-nerved, still warm, too hard to stir?  
-Was it for this the clay grew tall?  
-—O what made fatuous sunbeams toil  
+Think how it wakes the seeds—\
+Woke once the clays of a cold star.\
+Are limbs, so dear-achieved, are sides
+Full-nerved, still warm, too hard to stir?\
+Was it for this the clay grew tall?\
+—O what made fatuous sunbeams toil\
 To break earth's sleep at all?
 
-
 # Poem Analysis
-
 
 ---
 

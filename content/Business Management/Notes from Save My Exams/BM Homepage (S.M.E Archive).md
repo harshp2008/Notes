@@ -1,12 +1,14 @@
 ---
+publish: true
 title: BM Homepage (S.M.E Archive)
-draft: false
+created: 2026-03-31T01:36:54.845+05:30
+modified: 2026-03-30T19:56:56.579+05:30
+published: 2026-03-30T19:56:56.579+05:30
 tags:
   - BM
   - save_my_exams
-Authors:
-  - Harsh
 ---
+
 ---
 
 <div style = "
@@ -21,28 +23,28 @@ Authors:
   display:flex;flex-direction:column;
   gap:10px;">
 
-  <span style="color:white;">Save My Exam notes are provided by</span>
+<span style="color:white;">Save My Exam notes are provided by</span>
 
-  <a href="https://smearchive.pages.dev/dp/" style="
-  padding: 10px 20px;
-  border-radius: 8px;
-  border: 3px solid black;
-  border-color: #555;
-  letter-spacing: 3px;
-  max-width: 400px
-  font-weight: bold;
-  background-color:rgb(242, 201, 76);
-  color: black;">PIRATE IB</a>
+<a href="https://smearchive.pages.dev/dp/" style="
+padding: 10px 20px;
+border-radius: 8px;
+border: 3px solid black;
+border-color: #555;
+letter-spacing: 3px;
+max-width: 400px
+font-weight: bold;
+background-color:rgb(242, 201, 76);
+color: black;">PIRATE IB</a>
+
 </div>
 
 ---
 
->[!tip] 1\. Introduction to Business Management
-> >[!info] 1\.1 What is a Business?
+> [!tip] 1. Introduction to Business Management
+>
+> > [!info] 1.1 What is a Business?
 > >
 > > - [[A. The Nature of Business | The Nature of Business]]
 > > - [[B. The Four Business Sectors | The Four Business Sectors]]
 > > - [[C. Entrepreneurship | Entrepreneurship]]
 > > - [[D. Starting Up a Business | Starting Up a Business]]
->
->

@@ -1,13 +1,14 @@
 ---
+publish: true
 title: Dulce et Decorum Est
-draft: false
+created: 2026-03-31T01:36:55.013+05:30
+modified: 2026-03-30T19:56:56.588+05:30
+published: 2026-03-30T19:56:56.588+05:30
 tags:
   - English
-Authors:
-  - Harsh
----
 ---
 
+---
 
 # Poem
 
@@ -39,10 +40,7 @@ Come gargling from the froth-corrupted lungs,
 Obscene as cancer, bitter as the cud
 Of vile, incurable sores on innocent tongues,—
 My friend, you would not tell with such high zest
-To children ardent for some desperate glory,
-<font color="#c0504d">The old Lie: <i>Dulce et decorum est</i></font>
-<font color="#c0504d"><i>Pro patria mori.</i></font>
-
+To children ardent for some desperate glory, <font color="#c0504d">The old Lie: <i>Dulce et decorum est</i></font> <font color="#c0504d"><i>Pro patria mori.</i></font>
 
 ---
 

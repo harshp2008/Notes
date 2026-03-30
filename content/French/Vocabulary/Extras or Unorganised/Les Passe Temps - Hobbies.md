@@ -1,10 +1,14 @@
 ---
+publish: true
 title: Les Passe Temps - Hobbies
-draft: false
+created: 2026-03-31T01:36:55.342+05:30
+modified: 2026-03-30T19:56:56.615+05:30
+published: 2026-03-30T19:56:56.615+05:30
 tags:
   - vocabulary
   - french
 ---
+
 ---
 
 # Outdoor Games
@@ -26,6 +30,7 @@ tags:
 | à la pétanque |     |
 | Aux cartes    |     |
 | Aux échecs    |     |
+
 # Sports
 
 |     |     |
@@ -33,8 +38,8 @@ tags:
 |     |     |
 |     |     |
 
-
 # Instruments
+
 |                |     |
 | -------------- | --- |
 | Du piano       |     |
