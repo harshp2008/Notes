@@ -9,11 +9,7 @@ private/
 .replit
 replit.nix
 
-**/.obsidian/workspace.json
-**/.obsidian/workspace-mobile.json
-**/.obsidian/cache/
-**/.obsidian/indexed-db/
-**/.obsidian/backups/
-**/.obsidian/community-plugins.json
+# Obsidian
+**/.obsidian/
 **/.obsidian/
 content/.obsidian/
