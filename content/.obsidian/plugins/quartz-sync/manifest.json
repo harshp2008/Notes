@@ -1,0 +1,9 @@
+{
+    "id": "quartz-sync-harsh",
+    "name": "Quartz Sync Pro",
+    "version": "1.0.0",
+    "minAppVersion": "1.0.0",
+    "description": "Pauses Remotely Save and runs Quartz sync.",
+    "author": "Harsh",
+    "isDesktopOnly": true
+}
