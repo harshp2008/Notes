@@ -14,3 +14,4 @@ replit.nix
 **/.obsidian/cache/
 **/.obsidian/indexed-db/
 **/.obsidian/backups/
+**/.obsidian/community-plugins.json
