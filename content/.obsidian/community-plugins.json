@@ -4,5 +4,6 @@
   "templater-obsidian",
   "callout-manager",
   "remotely-save",
-  "editing-toolbar"
+  "editing-toolbar",
+  "obsidian-shellcommands"
 ]

@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Notes/Theme A - Space, time and motion/Unit A.2 - Forces and Momentum/Sub Units/Section 1 - Forces.md",
+                "file": "-- Contribution --/Guides/Setting up.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Section 1 - Forces"
+              "title": "Backlinks for Setting up"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/Notes/Theme A - Space, time and motion/Unit A.2 - Forces and Momentum/Sub Units/Section 1 - Forces.md",
+                "file": "-- Contribution --/Guides/Setting up.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Section 1 - Forces"
+              "title": "Outgoing links from Setting up"
             }
           },
           {
@@ -128,7 +128,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -140,10 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/Notes/Theme A - Space, time and motion/Unit A.2 - Forces and Momentum/Sub Units/Section 1 - Forces.md"
+                "file": "-- Contribution --/Guides/Setting up.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Section 1 - Forces"
+              "title": "Outline of Setting up"
             }
           },
           {
@@ -159,13 +164,23 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
+          },
+          {
+            "id": "98fef1fba9a57c71",
+            "type": "leaf",
+            "state": {
+              "type": "SC-custom-variables-view",
+              "state": {},
+              "icon": "code-glyph",
+              "title": "Shell commands: Custom variables"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,10 +194,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "templater-obsidian:Templater": false,
       "callout-manager:Insert Callout": false,
-      "remotely-save:Remotely Save": false
+      "remotely-save:Remotely Save": false,
+      "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "c971da788473055e",
+  "active": "98fef1fba9a57c71",
   "lastOpenFiles": [
     "index.md",
     "Pasted image 20250203115818.png",
