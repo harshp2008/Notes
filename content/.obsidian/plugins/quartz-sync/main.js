@@ -1,106 +1,94 @@
 const { Plugin, Notice, Modal, Setting } = require('obsidian');
 const { exec } = require('child_process');
-const { promisify } = require('util');
-const execPromise = promisify(exec);
 
 class CommitModal extends Modal {
     constructor(app, onSubmit) {
         super(app);
         this.onSubmit = onSubmit;
     }
-
     onOpen() {
         const { contentEl } = this;
         contentEl.createEl('h2', { text: 'Quartz Sync' });
-        let commitMessage = '';
-
-        new Setting(contentEl)
-            .setName('Commit Message')
-            .setDesc('Empty field defaults to your GitHub username')
-            .addText((text) =>
-                text.onChange((value) => {
-                    commitMessage = value;
-                })
-            );
-
-        new Setting(contentEl)
-            .addButton((btn) =>
-                btn
-                    .setButtonText('Sync to Web')
-                    .setCta()
-                    .onClick(() => {
-                        this.close();
-                        this.onSubmit(commitMessage);
-                    })
-            );
+        let msg = '';
+        new Setting(contentEl).setName('Commit Message').addText(t => t.onChange(v => msg = v));
+        new Setting(contentEl).addButton(b => b.setButtonText('Sync').setCta().onClick(() => {
+            this.close();
+            this.onSubmit(msg);
+        }));
     }
-
-    onClose() {
-        this.contentEl.empty();
-    }
+    onClose() { this.contentEl.empty(); }
 }
 
 module.exports = class QuartzSyncPlugin extends Plugin {
     async onload() {
-        console.log('Quartz Sync Plugin: Loaded');
+        console.log('Quartz Sync: Ready');
         this.addRibbonIcon('paper-plane', 'Run Quartz Sync', () => {
-            new CommitModal(this.app, (result) => {
-                this.runSync(result);
-            }).open();
+            new CommitModal(this.app, (m) => this.runSync(m)).open();
         });
     }
 
     async runSync(userMsg) {
-        // IMPORTANT: Verify this ID matches your folder name in .obsidian/plugins/
         const pluginId = 'remotely-save'; 
         const plugins = this.app.plugins;
         const projectPath = 'C:/Users/harsh/OneDrive/Documents/GITHUB PROJECTS/Notes';
 
-        console.log('--- Sync Process Started ---');
-        console.log(`Working Directory: ${projectPath}`);
-
+        console.log('--- SYNC START ---');
+        
         try {
+            // 1. Disable backup
             if (plugins.enabledPlugins.has(pluginId)) {
-                console.log(`Disabling plugin: ${pluginId}`);
+                console.log('Disabling Remotely Save...');
                 await plugins.disablePluginAndSave(pluginId);
-                new Notice('Syncing... Editor stabilized.');
-            } else {
-                console.log(`Plugin ${pluginId} was already disabled or not found.`);
             }
 
-            console.log('Fetching GitHub username...');
-            let gitUser = 'Harsh';
-            try {
-                const { stdout: gitUserRaw } = await execPromise('git config user.name', { cwd: projectPath });
-                gitUser = gitUserRaw.trim() || 'Harsh';
-                console.log(`Username found: ${gitUser}`);
-            } catch (e) {
-                console.error('Failed to get git user.name, using fallback.');
-            }
+            // 2. Prepare Command
+            const gitUser = await this.getGitUser(projectPath);
+            const finalMsg = userMsg.trim() || `sync from ${gitUser}`;
+            const cmd = `npx quartz sync -m "${finalMsg}"`;
 
-            const finalMsg = userMsg.trim() !== '' ? userMsg : `commit from ${gitUser}`;
-            console.log(`Executing: npx quartz sync -m "${finalMsg}"`);
+            // 3. Execute
+            new Notice('Quartz Syncing... stay on this page.');
+            console.log(`Running: ${cmd}`);
 
-            const { stdout, stderr } = await execPromise(`npx quartz sync -m "${finalMsg}"`, { cwd: projectPath });
-            
-            console.log('Quartz Sync Output:', stdout);
-            if (stderr) console.error('Quartz Sync Errors:', stderr);
-            
-            new Notice('Quartz Sync Complete!');
+            exec(cmd, { cwd: projectPath }, async (error, stdout, stderr) => {
+                console.log('STDOUT:', stdout);
+                if (stderr) console.warn('STDERR:', stderr);
+
+                if (error) {
+                    new Notice(`Sync failed! Check console.`);
+                    console.error('EXEC ERROR:', error);
+                } else {
+                    new Notice('Quartz Sync Complete!');
+                }
+
+                // 4. THE FIX: Wait for the "dust to settle"
+                // This gives Windows/OneDrive/Git 2 seconds to release file locks
+                console.log('Waiting 2s for file system to settle...');
+                setTimeout(async () => {
+                    console.log('Attempting re-enable...');
+                    try {
+                        await plugins.enablePluginAndSave(pluginId);
+                        console.log('SUCCESS: Remotely Save is back.');
+                        new Notice('Backup active again.');
+                    } catch (e) {
+                        console.error('Re-enable failed:', e);
+                    }
+                    console.log('--- SYNC FINISHED ---');
+                }, 2000);
+            });
 
         } catch (e) {
-            console.error('CRITICAL SYNC ERROR:', e);
-            new Notice(`Sync failed: ${e.message}`);
-        } finally {
-            console.log(`Attempting to re-enable: ${pluginId}`);
-            if (plugins.manifests[pluginId]) {
-                await plugins.enablePluginAndSave(pluginId);
-                console.log(`${pluginId} successfully re-enabled.`);
-                new Notice('Backup system back online.');
-            } else {
-                console.error(`ERROR: Plugin ID "${pluginId}" not found in manifests. Check your spelling.`);
-            }
-            console.log('--- Sync Process Finished ---');
+            console.error('Setup Error:', e);
+            // Emergency fallback to turn it back on
+            await plugins.enablePluginAndSave(pluginId);
         }
+    }
+
+    getGitUser(path) {
+        return new Promise((resolve) => {
+            exec('git config user.name', { cwd: path }, (err, stdout) => {
+                resolve(stdout.trim() || 'Harsh');
+            });
+        });
     }
 }
