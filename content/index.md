@@ -5,7 +5,6 @@ tags:
 Authors:
   - Harsh
 ---
-
 This is a collection of Personal Notes related to school and studies. The main notes heavily focuses on IBDP but has expansions to other levels of complexity. 
 
 >[!info] Note on 05 Jan 2025 
