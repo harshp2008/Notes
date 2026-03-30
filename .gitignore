@@ -9,5 +9,3 @@ private/
 .replit
 replit.nix
 
-# Obsidian settings (ignored to prevent Quartz sync conflicts)
-content/.obsidian/
