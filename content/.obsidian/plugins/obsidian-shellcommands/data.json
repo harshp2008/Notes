@@ -26,7 +26,7 @@
     {
       "id": "ecqbsvfs4q",
       "platform_specific_commands": {
-        "default": "npx quartz sync -m \"{{_commit_message}}\""
+        "default": "powershell -Command \"Start-Sleep -s 2\" && npx quartz sync -m \"{{_commit_message}}\""
       },
       "shells": {},
       "alias": "Quartz Sync",
