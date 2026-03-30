@@ -34,11 +34,13 @@ module.exports = class QuartzSyncPlugin extends Plugin {
 
         console.log('--- SYNC START ---');
         
+        let wasEnabled = false;
         try {
-            // 1. Disable backup
+            // 1. Disable backup (memory-only to avoid disk conflicts)
             if (plugins.enabledPlugins.has(pluginId)) {
-                console.log('Disabling Remotely Save...');
-                await plugins.disablePluginAndSave(pluginId);
+                wasEnabled = true;
+                console.log('[QuartzSync] Pausing Remotely Save...');
+                await plugins.disablePlugin(pluginId);
             }
 
             // 2. Prepare Command
@@ -61,48 +63,46 @@ module.exports = class QuartzSyncPlugin extends Plugin {
                     new Notice('Quartz Sync Complete!');
                 }
 
-                // 4. THE FIX: More robust re-enable with retries for OneDrive/Locks
-                console.log('Sync finished. Waiting for file system...');
+                // 4. THE FIX: Robust re-enable (without loadManifests to avoid hangs)
+                console.log('[QuartzSync] Sync finished. Attempting recovery...');
                 
                 let attempts = 0;
                 const maxAttempts = 3;
                 
                 const tryEnable = async () => {
                     attempts++;
-                    console.log(`Attempt ${attempts}: Re-enabling ${pluginId}...`);
+                    console.log(`[QuartzSync] Attempt ${attempts}: Re-enabling ${pluginId}...`);
                     
                     try {
-                        // Force Obsidian to "see" the plugin again (handles disk changes)
-                        if (typeof plugins.loadManifests === 'function') {
-                            await plugins.loadManifests();
+                        // Only re-enable if we were the ones who turned it off
+                        if (wasEnabled) {
+                            await plugins.enablePlugin(pluginId);
+                            console.log('[QuartzSync] SUCCESS: Remotely Save is back.');
+                            new Notice('Backup active again.');
+                        } else {
+                            console.log('[QuartzSync] Remotely Save was not active initially. Skipping.');
                         }
-                        
-                        await plugins.enablePluginAndSave(pluginId);
-                        
-                        console.log('SUCCESS: Remotely Save is back.');
-                        new Notice('Backup active again.');
                         console.log('--- SYNC FINISHED ---');
                     } catch (e) {
-                        console.error(`Attempt ${attempts} failed:`, e);
+                        console.error(`[QuartzSync] Attempt ${attempts} error:`, e);
                         if (attempts < maxAttempts) {
-                            const delay = 3000 * attempts; // Increasing delay: 3s, 6s...
-                            console.log(`Retrying in ${delay/1000}s...`);
-                            setTimeout(tryEnable, delay);
+                            const nextDelay = 4000 * attempts;
+                            console.log(`[QuartzSync] Retrying in ${nextDelay/1000}s...`);
+                            setTimeout(tryEnable, nextDelay);
                         } else {
                             new Notice('Could not re-enable backup automatically. Please check your plugins.');
-                            console.log('--- SYNC FINISHED ---');
+                            console.log('--- SYNC FINISHED (FAILED) ---');
                         }
                     }
                 };
 
-                // Start the first attempt after 2 seconds
-                setTimeout(tryEnable, 2000);
+                // Buffer wait to ensure file system is stable
+                setTimeout(tryEnable, 3000);
             });
 
         } catch (e) {
             console.error('Setup Error:', e);
-            // Emergency fallback to turn it back on
-            await plugins.enablePluginAndSave(pluginId);
+            if (wasEnabled) await plugins.enablePlugin(pluginId);
         }
     }
 
