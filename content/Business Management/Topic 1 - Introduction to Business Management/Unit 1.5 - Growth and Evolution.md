@@ -28,7 +28,7 @@ tags:
 
 ![[Business Management/Images/average cost by output curve.jpg]]
 
-## ==\\\\\\\[ Internal ]==
+## ==[ Internal ]==
 
 ### <u>Technical</u>
 
@@ -54,7 +54,7 @@ tags:
 - Large firms may be able to negotiate lower sales commission, lower credit card period, lesser profit margin from their customers. <br>
 - They are able to spread the communication cost across the output.
 
-## ==\\\\\\\[ External ]==
+## ==[ External ]==
 
 ### <u>Infrastructure</u>
 
@@ -74,7 +74,7 @@ tags:
 
 # Diseconomies of Scale
 
-## ==\\\\\\\[Internal]==
+## ==[Internal]==
 
 ### <u>Communication and Coordination</u>
 
@@ -92,7 +92,7 @@ tags:
 - Large firms may be complacent with their ways of working and may not identify threats or opportunities.
 - Smaller rival firms may be able to do things better than the larger ones.
 
-## ==\\\\\\\[External]==
+## ==[External]==
 
 ### <u>Higher Inflation</u>
 

@@ -190,7 +190,7 @@ The imperfect is often used with _si_, in which case it’s not a past tense. I
 |        |                                                                                    |                                             |
 | ------ | ---------------------------------------------------------------------------------- | ------------------------------------------- |
 | **1.** | **Questions**                                                                      |                                             |
-|        | _Elle m’a demandé si j’étais marié._                                               | She asked if I was married.\*                |
+|        | _Elle m’a demandé si j’étais marié._                                               | She asked if I was married.*                |
 | **2.** | **Suggestions**                                                                    |                                             |
 |        | _Si on allait au ciné demain ?_                                                    | How about going to the movies tomorrow?     |
 | **3.** | **Wishes**                                                                         |                                             |
@@ -200,7 +200,7 @@ The imperfect is often used with _si_, in which case it’s not a past tense. I
 | **5.** | **[_Si_ clauses](https://www.lawlessfrench.com/grammar/si-clauses-conditionals/)** |                                             |
 |        | _Si tu avais un emploi, tu pourrais acheter une voiture._                          | If you had a job, you could buy a car.      |
 
-> [!warning] \* I know this sounds like it’s in the past, but at the time, it wasn’t. She wanted to know if I was married in the present tense of her asking.
+> [!warning] * I know this sounds like it’s in the past, but at the time, it wasn’t. She wanted to know if I was married in the present tense of her asking.
 
 # Conjugation Rules
 

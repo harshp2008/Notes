@@ -64,7 +64,7 @@ The _passé composé_ is used when talking about:
 
 ### 1st group verbs (-ER)
 
-1. Remove the -ER Ending  →Parl\*\*~~er~~\*\*
+1. Remove the -ER Ending  →Parl**~~er~~**
 2. Add **-É** to it → Parl**é**
 
 ### 2nd group verbs (-IR)
@@ -75,7 +75,7 @@ The _passé composé_ is used when talking about:
 ### 3rd group verbs (-RE)
 
 1. Remove the -RE Ending  → attend~~re~~
-2. Add **-U**\* to it → attend**u**
+2. Add **-U*** to it → attend**u**
 
 # Verbs that use Être as the auxiliary:
 

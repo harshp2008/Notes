@@ -114,14 +114,14 @@ tags:
 | Vous                     | **fass** + iez         | **Puiss** + iez          | **Sach** + iez          | **Aill** + iez         | **Vaill** + iez       |
 | Ils / Elles              | **fass** + ent         | **Puiss** + ent          | **Sach** + ent          | **Aill** + ent         | **Vaill** + ent       |
 
-| <center>Pronoun</center> | <center>Vouloir</center> | <center>Avoir</center> | <center>Être</center> |
-| ------------------------ | ------------------------ | ---------------------- | --------------------- |
-| je                       | **Veuill** + e           | **ai + e**             | ==\\\\\\\*\\\\\\\*Sois\\\\\\\*\\\\\\\*==          |
-| Tu                       | **Veuill** + es          | **ai + es**            | ==\\\\\\\*\\\\\\\*Sois\\\\\\\*\\\\\\\*==          |
-| Il / Elle                | **Veuill** + e           | **ai + e**             | ==\\\\\\\*\\\\\\\*Soit\\\\\\\*\\\\\\\*==          |
-| Nous                     | ==\\\\\\\*\\\\\\\*Voulions\\\\\\\*\\\\\\\*==         | ==\\\\\\\*\\\\\\\*ayons\\\\\\\*\\\\\\\*==          | ==\\\\\\\*\\\\\\\*Soyons\\\\\\\*\\\\\\\*==        |
-| Vous                     | ==\\\\\\\*\\\\\\\*Vouliez\\\\\\\*\\\\\\\*==          | ==\\\\\\\*\\\\\\\*ayez\\\\\\\*\\\\\\\*==           | ==\\\\\\\*\\\\\\\*Soyez\\\\\\\*\\\\\\\*==         |
-| Ils / Elles              | **Veuill** + ent         | **ai + ent**           | ==\\\\\\\*\\\\\\\*Soient\\\\\\\*\\\\\\\*==        |
+| <center>Pronoun</center> | <center>Vouloir</center>                    | <center>Avoir</center>                    | <center>Être</center>                      |
+| ------------------------ | ------------------------------------------- | ----------------------------------------- | ------------------------------------------ |
+| je                       | **Veuill** + e                              | **ai + e**                                | ==\*\*Sois\*\*==   |
+| Tu                       | **Veuill** + es                             | **ai + es**                               | ==\*\*Sois\*\*==   |
+| Il / Elle                | **Veuill** + e                              | **ai + e**                                | ==\*\*Soit\*\*==   |
+| Nous                     | ==*\*Voulions\*\*==       | ==\*\*ayons\*\*== | ==\*\*Soyons\*\*== |
+| Vous                     | ==\*\*Vouliez\*\*== | ==\*\*ayez\*\*==  | ==\*\*Soyez\*\*==  |
+| Ils / Elles              | **Veuill** + ent                            | **ai + ent**                              | ==\*\*Soient\*\*== |
 
 # Acronym:
 
