@@ -127,7 +127,7 @@ tags:
 > [!success] Expectation from the business
 >
 > - Pay taxes on time and should abide by the laws
-> - Grwoth causing less unemployement and more economic growth
+> - Growth causing less unemployement and more economic growth
 
 > [!Warning] Responsibilities towards the business
 >
