@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Business Management/Topic 1 - Introduction to Business Management/Unit 1.4 - Stakeholders.md",
+                "file": "French/Grammar/Verb Moods/Le Subjonctif.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Unit 1.4 - Stakeholders"
+              "title": "Le Subjonctif"
             }
           }
         ]
@@ -113,7 +113,6 @@
   "left-ribbon": {
     "hiddenItems": {
       "command-palette:Open command palette": false,
-      "quartz-syncer:Quartz Syncer publication center": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "templater-obsidian:Templater": false,
       "callout-manager:Insert Callout": false,
@@ -121,9 +120,7 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "omnisearch:Omnisearch": false,
-      "publish:Publish changes...": false,
-      "obsidian-git:Open Git source control": false,
-      "terminal:Open terminal": false
+      "publish:Publish changes...": false
     }
   },
   "active": "72902d8ac0ad8002",
