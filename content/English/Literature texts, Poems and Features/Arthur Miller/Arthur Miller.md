@@ -3,7 +3,6 @@ publish: true
 title: Arthur Miller
 created: 2026-03-31T01:36:55.005+05:30
 modified: 2026-03-31T01:43:54.505+05:30
-published: 2026-03-31T01:43:54.505+05:30
 tags:
   - English
 ---
@@ -17,5 +16,3 @@ Arthur Miller (1915-2005) was an influential American playwright, essayist, and 
 ---
 
 <h1 style="text-align:center">WORK IN PROGRESS FROM THIS POINT FORWARD</h1>
-
-

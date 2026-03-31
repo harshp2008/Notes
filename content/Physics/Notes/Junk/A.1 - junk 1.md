@@ -3,7 +3,6 @@ publish: true
 title: New Note
 created: 2026-03-31T01:36:55.419+05:30
 modified: 2026-03-30T19:56:56.667+05:30
-published: 2026-03-30T19:56:56.667+05:30
 ---
 
 ---

@@ -3,7 +3,6 @@ publish: true
 title: Motion with Gravity
 created: 2026-03-31T01:36:55.479+05:30
 modified: 2026-03-30T19:56:56.689+05:30
-published: 2026-03-30T19:56:56.689+05:30
 tags:
   - physics
 ---
@@ -39,7 +38,7 @@ A distance–time graph would look different (Figure 2). It gives similar inform
 
 |                   Displacement-time graph                   |                        Distance-time graph                         |
 | :---------------------------------------------------------: | :----------------------------------------------------------------: |
-| ![[Physics/Notes/Theme A - Space, time and motion/Unit A.1 - Kinematics/Images/{D1A7F92B-AA85-4653-B48B-1144202385C7}.png]]<br>figure 1 | ![[Physics/Notes/Theme A - Space, time and motion/Unit A.1 - Kinematics/Images/{874E6162-6009-4741-85EC-8CEB30AE1C01}.png|250px]]<br>figure 2 |
+| ![[Physics/Notes/Theme A - Space, time and motion/Unit A.1 - Kinematics/Images/{D1A7F92B-AA85-4653-B48B-1144202385C7}.png]]<br>figure 1 | ![[Physics/Notes/Theme A - Space, time and motion/Unit A.1 - Kinematics/Images/{874E6162-6009-4741-85EC-8CEB30AE1C01}.png\|250px]]<br>figure 2 |
 
 |                     Velocity-time graph                     |                      Speed-time graph                       |
 | :---------------------------------------------------------: | :---------------------------------------------------------: |

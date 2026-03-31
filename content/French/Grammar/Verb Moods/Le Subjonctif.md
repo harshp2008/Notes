@@ -3,7 +3,6 @@ publish: true
 title: Le Subjonctif
 created: 2026-03-31T01:36:55.051+05:30
 modified: 2026-03-30T19:56:56.591+05:30
-published: 2026-03-30T19:56:56.591+05:30
 tags:
   - french
   - grammer
@@ -117,12 +116,12 @@ tags:
 
 | <center>Pronoun</center> | <center>Vouloir</center> | <center>Avoir</center> | <center>Être</center> |
 | ------------------------ | ------------------------ | ---------------------- | --------------------- |
-| je                       | **Veuill** + e           | **ai + e**             | ==\*\*Sois\*\*==          |
-| Tu                       | **Veuill** + es          | **ai + es**            | ==\*\*Sois\*\*==          |
-| Il / Elle                | **Veuill** + e           | **ai + e**             | ==\*\*Soit\*\*==          |
-| Nous                     | ==\*\*Voulions\*\*==         | ==\*\*ayons\*\*==          | ==\*\*Soyons\*\*==        |
-| Vous                     | ==\*\*Vouliez\*\*==          | ==\*\*ayez\*\*==           | ==\*\*Soyez\*\*==         |
-| Ils / Elles              | **Veuill** + ent         | **ai + ent**           | ==\*\*Soient\*\*==        |
+| je                       | **Veuill** + e           | **ai + e**             | ==\\\*\\\*Sois\\\*\\\*==          |
+| Tu                       | **Veuill** + es          | **ai + es**            | ==\\\*\\\*Sois\\\*\\\*==          |
+| Il / Elle                | **Veuill** + e           | **ai + e**             | ==\\\*\\\*Soit\\\*\\\*==          |
+| Nous                     | ==\\\*\\\*Voulions\\\*\\\*==         | ==\\\*\\\*ayons\\\*\\\*==          | ==\\\*\\\*Soyons\\\*\\\*==        |
+| Vous                     | ==\\\*\\\*Vouliez\\\*\\\*==          | ==\\\*\\\*ayez\\\*\\\*==           | ==\\\*\\\*Soyez\\\*\\\*==         |
+| Ils / Elles              | **Veuill** + ent         | **ai + ent**           | ==\\\*\\\*Soient\\\*\\\*==        |
 
 # Acronym:
 

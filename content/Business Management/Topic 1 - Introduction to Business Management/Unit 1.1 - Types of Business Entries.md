@@ -3,7 +3,6 @@ publish: true
 title: Unit 1.1 - Types of Business Entries
 created: 2026-03-31T01:36:54.945+05:30
 modified: 2026-03-30T19:56:56.582+05:30
-published: 2026-03-30T19:56:56.582+05:30
 tags:
   - BM
 ---
@@ -23,8 +22,7 @@ tags:
 
 > [!info] Define Products
 >
-> - Products are goods and / or services that are sold to costumers upon purchasing a product that they may need or want.
->   </br>
+> - Products are goods and / or services that are sold to costumers upon purchasing a product that they may need or want. </br>
 > - **Goods** are physical products, such as smartphones, clothes, books and food.
 > - **Services** are intangible products, such as haircuts, public transport, education and healthcare.
 
@@ -32,8 +30,7 @@ tags:
 
 > [!info] Define Entrepreneurs
 >
-> - The individual who plans, organise and manages a business and its operations, taking on financial risks in doing so.
->   <Br>
+> - The individual who plans, organise and manages a business and its operations, taking on financial risks in doing so. <Br>
 > - A person who is willing and able to create a new business idea or invention & takes risk in pursuing the success <br></br>
 > - Examples: Steve Jobs, Jeff Bezos, Ratan Tata
 
@@ -45,10 +42,8 @@ tags:
 
 > [!correct] They make business decisions
 >
-> - Entrepreneurs must be able to make decisions that will determine the **Success or failure of their business**
->   <br>
-> - E.g: A restaurant owner may need to decide what type of food to serve, where to locate the restaurant, and **what prices to charge.** These decisions require a combination of market research, creativity, and business skill
->   <br>
+> - Entrepreneurs must be able to make decisions that will determine the **Success or failure of their business** <br>
+> - E.g: A restaurant owner may need to decide what type of food to serve, where to locate the restaurant, and **what prices to charge.** These decisions require a combination of market research, creativity, and business skill <br>
 > - Making the wrong decision can lead to ==wasted resource==, ==lost opportunities== and **ultimately business failure.**
 
 > [!correct] They take risks

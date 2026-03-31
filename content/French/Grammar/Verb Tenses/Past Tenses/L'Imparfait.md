@@ -3,7 +3,6 @@ publish: true
 title: L'Imparfait
 created: 2026-03-31T01:36:55.078+05:30
 modified: 2026-03-30T19:56:56.594+05:30
-published: 2026-03-30T19:56:56.594+05:30
 tags:
   - french
   - grammer

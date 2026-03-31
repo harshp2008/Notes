@@ -3,7 +3,6 @@ publish: true
 title: Projectile Motion
 created: 2026-03-31T01:36:55.490+05:30
 modified: 2026-03-30T19:56:56.689+05:30
-published: 2026-03-30T19:56:56.689+05:30
 tags:
   - physics
 ---
@@ -201,7 +200,7 @@ $s\_y =  \dfrac{u^2\sin^2\theta}{2g} \space$
 ### Finding the time taken by the ball to return to the floor ( $2T$ )
 
 > [!tip] Time taken to return to the floor
-> If the ball is thrown up and returns to the same level as before, ==the time taken for this will be \*\*twice\*\* the time taken for the ball to reach max height==.
+> If the ball is thrown up and returns to the same level as before, ==the time taken for this will be \\\*\\\*twice\\\*\\\* the time taken for the ball to reach max height==.
 
 $\text{time taken} = 2T$
 

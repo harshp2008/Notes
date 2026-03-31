@@ -3,7 +3,6 @@ publish: true
 title: Unit A.1 - Kinematics
 created: 2026-03-31T01:36:55.508+05:30
 modified: 2026-03-30T19:56:56.690+05:30
-published: 2026-03-30T19:56:56.690+05:30
 tags:
   - physics
 ---

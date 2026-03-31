@@ -3,7 +3,6 @@ publish: true
 title: Projectile Motion -  Questions
 created: 2026-03-31T01:36:55.472+05:30
 modified: 2026-03-30T19:56:56.687+05:30
-published: 2026-03-30T19:56:56.687+05:30
 tags:
   - physics
   - questions
@@ -59,7 +58,7 @@ John is throwing a ball of a cliff with an angle $\theta$ with a initial velocit
 
 ==As John is a human and not a robot, his aim accuracy now has a uncertainty of ±5°.==
 
-John's friend paints a red circle with a radius $(30 \pm 5)\space m$ , which is located on the bottom of the cliff. It is located $(90 \pm 2)\space m$ horizontally from where John stand. John wants the ball to land. ==What are the ranges of angles that john must throw with (before uncertainty in his aim is added) such that it \*\*always lands in the circle\*\*== despite his horrible aim and the very uncertain position and radius of the circle.
+John's friend paints a red circle with a radius $(30 \pm 5)\space m$ , which is located on the bottom of the cliff. It is located $(90 \pm 2)\space m$ horizontally from where John stand. John wants the ball to land. ==What are the ranges of angles that john must throw with (before uncertainty in his aim is added) such that it \\\*\\\*always lands in the circle\\\*\\\*== despite his horrible aim and the very uncertain position and radius of the circle.
 
 ##### <u><strong>Extreme question</strong></u>
 

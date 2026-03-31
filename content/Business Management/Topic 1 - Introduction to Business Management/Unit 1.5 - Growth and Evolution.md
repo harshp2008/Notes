@@ -3,7 +3,6 @@ publish: true
 title: Unit 1.5 - Growth and Evolution
 created: 2026-03-31T01:36:54.972+05:30
 modified: 2026-03-30T19:56:56.583+05:30
-published: 2026-03-30T19:56:56.583+05:30
 tags:
   - BM
 ---
@@ -29,24 +28,21 @@ tags:
 
 ![[Business Management/Images/average cost by output curve.jpg]]
 
-## ==\[ Internal ]==
+## ==\\\[ Internal ]==
 
 ### <u>Technical</u>
 
-- Large business can buy costly and large-sized machinery and technology which is faster and / or more efficient and hence can produce higher output
-  <br> 
+- Large business can buy costly and large-sized machinery and technology which is faster and / or more efficient and hence can produce higher output <br>
 - This decreases the average cost of production as the cost of machinery / technology is distributed over a large size of output
 
 ### <u>Financial</u>
 
-- Large firms require higher levels of finance hence they can negotiate a cheaper interest from the lender
-  <br> 
+- Large firms require higher levels of finance hence they can negotiate a cheaper interest from the lender <br>
 - Large firms have lower risk of failure and hence lenders may be more willing to give a lower rate of interest
 
 ### <u>Managerial</u>
 
-- Large firms have specialization of the managerial and labour level. Manager may specialize in marketing, finance and labour in their respective skill set.
-  <br>
+- Large firms have specialization of the managerial and labour level. Manager may specialize in marketing, finance and labour in their respective skill set. <br>
 - Specialisation increase productivity / efficiency which decrease average cost of production
 
 ### <u>Purchasing</u>
@@ -55,11 +51,10 @@ tags:
 
 ### <u>Marketing</u>
 
-- Large firms may be able to negotiate lower sales commission, lower credit card period, lesser profit margin from their customers.
-  <br>
+- Large firms may be able to negotiate lower sales commission, lower credit card period, lesser profit margin from their customers. <br>
 - They are able to spread the communication cost across the output.
 
-## ==\[ External ]==
+## ==\\\[ External ]==
 
 ### <u>Infrastructure</u>
 
@@ -79,12 +74,11 @@ tags:
 
 # Diseconomies of Scale
 
-## ==\[Internal]==
+## ==\\\[Internal]==
 
 ### <u>Communication and Coordination</u>
 
-- As firms become larger, communication may not reach to all intended parties in the right time
-  <br>
+- As firms become larger, communication may not reach to all intended parties in the right time <br>
 - Coordination among employees / department may be difficult as different managers have different styles and preferences
 
 ### <u> Lack of Motivation </u>
@@ -98,7 +92,7 @@ tags:
 - Large firms may be complacent with their ways of working and may not identify threats or opportunities.
 - Smaller rival firms may be able to do things better than the larger ones.
 
-## ==\[External]==
+## ==\\\[External]==
 
 ### <u>Higher Inflation</u>
 
@@ -110,12 +104,10 @@ tags:
 
 # Reasons for a business to grow
 
-- Success is usually associated with growth and it's highly satisfying for the owners / investors to grow their business
-  <br>
+- Success is usually associated with growth and it's highly satisfying for the owners / investors to grow their business <br>
 - A large business:
   - Is financially more sustainable and has lesser risk of failure <br>
-  - Benefits from economies of scale and is able to influence suppliers, customers, lenders, etc.
-      <br>
+  - Benefits from economies of scale and is able to influence suppliers, customers, lenders, etc. <br>
   - Attract potential investors and human
 
 # The two types of Growth

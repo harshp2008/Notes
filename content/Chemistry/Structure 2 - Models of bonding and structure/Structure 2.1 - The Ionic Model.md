@@ -3,7 +3,6 @@ publish: true
 title: Structure 2.1 - The Ionic Model
 created: 2026-03-31T01:36:54.994+05:30
 modified: 2026-03-30T19:56:56.585+05:30
-published: 2026-03-30T19:56:56.585+05:30
 tags:
   - chemistry
 ---

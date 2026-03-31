@@ -3,7 +3,6 @@ publish: true
 title: Unit 1.3 - Business Objectives
 created: 2026-03-31T01:36:54.963+05:30
 modified: 2026-03-30T19:56:56.583+05:30
-published: 2026-03-30T19:56:56.583+05:30
 tags:
   - BM
 ---
@@ -17,9 +16,9 @@ tags:
 
 # Vision and Mission Statements
 
-- A business needs to have a ==\*\*Vision\*\*== about its future.
-- A ==\*\*Vision Statement\*\*== sets out what the business wants to be in the future.
-- A ==\*\*Mission Statement\*\*== sets out the overall purpose a business
+- A business needs to have a ==\\\*\\\*Vision\\\*\\\*== about its future.
+- A ==\\\*\\\*Vision Statement\\\*\\\*== sets out what the business wants to be in the future.
+- A ==\\\*\\\*Mission Statement\\\*\\\*== sets out the overall purpose a business
 
 ## Example - TCS:
 
