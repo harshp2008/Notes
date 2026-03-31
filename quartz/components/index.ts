@@ -21,8 +21,8 @@ import MobileOnly from "./MobileOnly"
 import RecentNotes from "./RecentNotes"
 import Breadcrumbs from "./Breadcrumbs"
 import Comments from "./Comments"
-import Flex from "./Flex"
-import ConditionalRender from "./ConditionalRender"
+export { default as Flex } from "./Flex"
+export { default as ConditionalRender } from "./ConditionalRender"
 
 export {
   ArticleTitle,
