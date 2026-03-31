@@ -16,9 +16,9 @@ tags:
 
 # Vision and Mission Statements
 
-- A business needs to have a ==\*\*Vision\*\*== about its future.
-- A ==\*\*Vision Statement\*\*== sets out what the business wants to be in the future.
-- A ==\*\*Mission Statement\*\*== sets out the overall purpose a business
+- A business needs to have a ==\\\*\\\*Vision\\\*\\\*== about its future.
+- A ==\\\*\\\*Vision Statement\\\*\\\*== sets out what the business wants to be in the future.
+- A ==\\\*\\\*Mission Statement\\\*\\\*== sets out the overall purpose a business
 
 ## Example - TCS:
 

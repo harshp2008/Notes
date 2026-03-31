@@ -200,7 +200,7 @@ $s\_y =  \dfrac{u^2\sin^2\theta}{2g} \space$
 ### Finding the time taken by the ball to return to the floor ( $2T$ )
 
 > [!tip] Time taken to return to the floor
-> If the ball is thrown up and returns to the same level as before, ==the time taken for this will be \*\*twice\*\* the time taken for the ball to reach max height==.
+> If the ball is thrown up and returns to the same level as before, ==the time taken for this will be \\\*\\\*twice\\\*\\\* the time taken for the ball to reach max height==.
 
 $\text{time taken} = 2T$
 

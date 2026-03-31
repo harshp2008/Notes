@@ -9,4 +9,4 @@ tags:
 
 ---
 
-![[Pasted image 20250203115818.png]]
+![[English/Pasted image 20250203115818.png]]

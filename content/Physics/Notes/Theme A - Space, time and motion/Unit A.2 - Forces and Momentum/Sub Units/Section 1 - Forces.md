@@ -23,20 +23,16 @@ A Force is a vector property. It has both magnitude and a direction.
 >
 > Force can set an object in motion, stop a moving object, or change its speed or direction: 
 >
-> - **Starting motion**: Pushing a box on a table to get it moving 
->    <br>
-> - **Stopping motion**: Catching a ball and making it stop 
->     <br>
-> - **Changing speed**: Increasing the speed of a bicycle by pedalling harder 
->   <br>
+> - **Starting motion**: Pushing a box on a table to get it moving  <br>
+> - **Stopping motion**: Catching a ball and making it stop  <br>
+> - **Changing speed**: Increasing the speed of a bicycle by pedalling harder  <br>
 > - **Changing direction**: Changing the direction of a cricket ball after hitting it 
 
 > [!info] Changing shape or size
 >
 > Force can change the shape or size of an object: 
 >
-> - **Changing shape**: Squeezing toothpaste to change its shape 
->    <br>
+> - **Changing shape**: Squeezing toothpaste to change its shape  <br>
 > - **Changing size**: Using a rolling pin to change a small ball of dough into a larger, flat, circular chapatti 
 
 > [!info] Changing position
