@@ -29,9 +29,7 @@
   "syntax_highlighting": true,
   "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [
-    "-- Templates --/New Note - Untitled.md",
     "-- Templates --/Work in Progress.md",
-    "-- Templates --/Proofing Required.md",
     "-- Templates --/Centred Box.md",
     "-- Templates --/Insert Tab.md",
     "-- Templates --/French Vocab Table.md",

@@ -3,7 +3,6 @@ publish: true
 title: Home Page
 created: 2026-03-31T01:36:55.361+05:30
 modified: 2026-03-30T22:15:03.869+05:30
-published: 2026-03-30T22:15:03.869+05:30
 ---
 
 This is a collection of Personal Notes related to school and studies. The main notes heavily focuses on IBDP but has expansions to other levels of complexity.

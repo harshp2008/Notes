@@ -3,7 +3,6 @@ publish: true
 title: Dulce et Decorum Est
 created: 2026-03-31T01:36:55.013+05:30
 modified: 2026-03-30T19:56:56.588+05:30
-published: 2026-03-30T19:56:56.588+05:30
 tags:
   - English
 ---

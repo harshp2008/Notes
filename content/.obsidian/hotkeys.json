@@ -17,15 +17,6 @@
       "key": "E"
     }
   ],
-  "templater-obsidian:-- Templates --/New Note - Untitled.md": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "N"
-    }
-  ],
   "templater-obsidian:-- Templates --/Work in Progress.md": [
     {
       "modifiers": [
@@ -132,5 +123,24 @@
       ],
       "key": "U"
     }
-  ]
+  ],
+  "omnisearch:show-modal-infile": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "F"
+    }
+  ],
+  "omnisearch:show-modal": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "S"
+    }
+  ],
+  "editor:open-search": [],
+  "file-explorer:new-file-in-new-pane": []
 }

@@ -4,21 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "57f3e93417509321",
+        "id": "3fef4286d81ed35e",
         "type": "tabs",
         "children": [
           {
-            "id": "db5c4d1fd4b9ac4f",
+            "id": "72902d8ac0ad8002",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/Literature texts, Poems and Features/Arthur Miller/Arthur Miller.md",
+                "file": "index.md",
                 "mode": "source",
-                "source": false
+                "source": true,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Arthur Miller"
+              "title": "index"
             }
           }
         ]
@@ -35,7 +36,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b267d84434496030",
+            "id": "3db31d9e9d45260a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "00958eb7ae2b38e1",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -46,35 +57,9 @@
               "icon": "lucide-folder-closed",
               "title": "Files"
             }
-          },
-          {
-            "id": "77303eabc41cb802",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
-            }
-          },
-          {
-            "id": "3db31d9e9d45260a",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -89,68 +74,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ca958302918b2317",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "index.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for index"
-            }
-          },
-          {
-            "id": "29a56cb4f93b4847",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "index.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from index"
-            }
-          },
-          {
-            "id": "922be2e427656577",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "59ff29af2f8ac66b",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "All properties"
-            }
-          },
-          {
             "id": "e5e0b3217d27ecd7",
             "type": "leaf",
             "state": {
@@ -163,6 +86,20 @@
               },
               "icon": "lucide-list",
               "title": "Outline of index"
+            }
+          },
+          {
+            "id": "cc361d4ba380a208",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
         ]
@@ -179,62 +116,59 @@
       "templater-obsidian:Templater": false,
       "callout-manager:Insert Callout": false,
       "remotely-save:Remotely Save": false,
-      "bases:Create new base": false,
-      "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "command-palette:Open command palette": false,
-      "audio-recorder:Start/stop recording": false
+      "omnisearch:Omnisearch": false,
+      "publish:Publish changes...": false
     }
   },
-  "active": "db5c4d1fd4b9ac4f",
+  "active": "72902d8ac0ad8002",
   "lastOpenFiles": [
-    "-- Contribution --/Guides/Setting up.md",
-    "-- Contribution --/Contribution Homepage.md",
-    "English/English Homepage.md",
-    "English/Magazine Analysis.md",
-    "English/Literature texts, Poems and Features/Arthur Miller/Arthur Miller.md",
-    "index.md",
-    "Pasted image 20250203115818.png",
-    "Business Management/Notes from Save My Exams/BM Homepage (S.M.E Archive).md",
-    "Business Management/Notes from Save My Exams/BM Glossary.md",
-    "Business Management/Notes from Save My Exams/Chapter 1/Topic 1.1 - What is a Business/A. The Nature of Business.md",
-    "Business Management/Notes from Save My Exams/Chapter 1/Topic 1.1 - What is a Business/B. The Four Business Sectors.md",
-    "Business Management/Business Management Home Page.md",
-    "Business Management/Notes from Save My Exams/Chapter 1/Topic 1.1 - What is a Business/C. Entrepreneurship.md",
+    "Physics/Physics Home Page.md",
+    "Physics/Notes/Tools for physics/3 - Data analysis and modelling physics.md",
+    "Physics/Notes/Tools for physics/2 - Experimental tools for physics.md",
+    "Physics/Notes/Tools for physics/1 - Mathematical tools for physics.md",
+    "Physics/Notes/Theme B - The particulate nature of matter/Unit B.5 - Current and Circuits/Unit B.5 - Current and Circuits.md",
+    "Physics/Notes/Theme B - The particulate nature of matter/Unit B.4 - Thermodynamics/Unit B.4 - Thermodynamics.md",
+    "Physics/Notes/Theme B - The particulate nature of matter/Unit B.3 - Gas Laws/Unit B.3 - Gas Laws.md",
+    "Physics/Notes/Theme B - The particulate nature of matter/Unit B.2 - Greenhouse Effect/Unit B.2 - Greenhouse Effect.md",
+    "Physics/Notes/Theme B - The particulate nature of matter/Unit B.1 - Thermal Energy Transfer/Unit B.1 - Thermal Energy Transfer.md",
+    "Physics/Notes/Theme A - Space, time and motion/Unit A.5 - Galilean and special relativity.md",
+    "Physics/Notes/Theme A - Space, time and motion/Unit A.4 - Rigid Body Mechanics.md",
+    "Physics/Notes/Theme A - Space, time and motion/Unit A.3 - Work, Energy and Power.md",
+    "Physics/Notes/Theme A - Space, time and motion/Unit A.2 - Forces and Momentum/Unit A.2 - Forces and Momentum.md",
+    "Physics/Notes/Theme A - Space, time and motion/Unit A.2 - Forces and Momentum/Sub Units/Section 2 - Newton's Laws of Motion.md",
+    "Physics/Notes/Theme A - Space, time and motion/Unit A.2 - Forces and Momentum/Sub Units/Section 1 - Forces.md",
+    "Physics/Notes/Theme A - Space, time and motion/Unit A.1 - Kinematics/Unit A.1 - Kinematics.md",
+    "Physics/Notes/Theme A - Space, time and motion/Unit A.1 - Kinematics/Sub Units/Section 5 - Moving through Fluids.md",
+    "Physics/Notes/Theme A - Space, time and motion/Unit A.1 - Kinematics/Sub Units/Section 4 - Projectile Motion.md",
+    "Physics/Notes/Theme A - Space, time and motion/Unit A.1 - Kinematics/Sub Units/Section 3 - Motion with Gravity.md",
+    "Physics/Notes/Theme A - Space, time and motion/Unit A.1 - Kinematics/Sub Units/Section 2 - Suvat Equations.md",
+    "Physics/Notes/Theme A - Space, time and motion/Unit A.1 - Kinematics/Sub Units/Section 1 - Kinematic Quantities and Graphs.md",
+    "Physics/Notes/Theme A - Space, time and motion/Unit A.1 - Kinematics/Questions/Projectile Motion -  Questions.md",
+    "Physics/Notes/Junk/A.1 - junk 1.md",
+    "Physics/Extra Material/Extra Materials.md",
+    "French/French Home Page.md",
+    "French/Vocabulary/Extras or Unorganised/Les Vacances - continuation.md",
+    "English/Pasted image 20250203115818.png",
     "Business Management/Notes from Save My Exams/Images and Resources/Chapter 1.1 A - The transformation process.png",
+    "Business Management/Canvas/BM Figure 1.1 - The production process.excalidraw.svg",
+    "Excalidraw",
+    "Physics/Canvas/A.1 - Kinematics/A.1 - independent motion 1.svg",
+    "Physics/Canvas/A.1 - Kinematics/A.1 - cliff example.svg",
+    "Physics/Canvas/A.1 - Kinematics/A.1 - ball projectile motion.svg",
+    "Physics/Extra Material/HC Verma Concepts of Physics Volume 1.pdf",
+    "Business Management/Images/average cost by output curve.jpg",
+    "Business Management/Images/Strategic, Tactical, operational.jpg",
+    "Business Management/Images/BM-banner.jpeg",
+    "English/Literature texts, Poems and Features/Arthur Miller/Untitled.base",
     "Business Management/Notes from Save My Exams/Images and Resources",
-    "Business Management/Notes from Save My Exams/Chapter 1/Topic 1.1 - What is a Business/D. Starting Up a Business.md",
-    "French/Grammar/Preposition.md",
-    "Business Management/Notes from Save My Exams/Chapter 1/Topic 1.1 - What is a Business.md",
     "Business Management/Notes from Save My Exams/Chapter 1/Topic 1.2 - Type of Business Entities",
     "Business Management/Notes from Save My Exams/Chapter 1/Topic 1.1 - What is a Business",
-    "Business Management/Notes from Save My Exams/Chapter 1/Chapter 1 - Introduction to Business Management.md",
     "Business Management/Notes from Save My Exams/Chapter 1/Topics",
     "Business Management/Notes from Save My Exams/Chapter 1",
-    "French/French Home Page.md",
-    "Business Management/Topic 4 - Marketing/Unit 4.1 - Introduction to Marketing.md",
-    "French/Grammar/Business Management (S.M.E Archive).md",
     "Business Management/Notes from Save My Exams",
-    "Business Management/Topic 4 - Marketing/Unit 4.2 - Marketing Planning.md",
     "English/Literature texts, Poems and Features/Arthur Miller",
-    "English/Literature texts, Poems and Features/Henrik Ibsen",
-    "French/Grammar/Verb Tenses/Past Tenses/La Passé Compose.md",
-    "French/Grammar/Verb Tenses/Verb Tenses Homepage.md",
-    "French/Grammar/Verb Tenses/Past Tenses/L'Imparfait.md",
-    "French/Grammar/Verb Tenses/La Passe Compose.md",
-    "French/Grammar/Verb Tenses/Past Tenses/La Passé Recent.md",
-    "French/Vocabulary/By Topic/Chapter 4 - Bon appétit !/Les Sauces, Mélanges et Vinaigrettes.md",
-    "French/Vocabulary/By Topic/Chapter 4 - Bon appétit !/Images/Pasted image 20250109123703.png",
-    "French/Vocabulary/By Topic/Chapter 4 - Bon appétit !/Images",
-    "French/Vocabulary/By Topic/Chapter 4 - Bon appétit !/Images/Pasted image 20250109124824.png",
-    "French/Vocabulary/By Topic/Chapter 4 - Bon appétit !/Images/Pasted image 20250109124813.png",
-    "French/Vocabulary/By Topic/Chapter 4 - Bon appétit !/Images/Pasted image 20250109124742.png",
-    "French/Vocabulary/By Topic/Chapter 4 - Bon appétit !/Images/Pasted image 20250109124719.png",
-    "French/Vocabulary/By Topic/Chapter 4 - Bon appétit !/Images/Pasted image 20250109123811.png",
-    "-- Contribution --/Images/Setting up/Installing VS Code/{F192901F-CEC1-46F1-95E4-7A29FA17EC59}.png",
-    "-- Contribution --/Images/Setting up/Installing VS Code/{C7046EBB-B856-44DA-92B7-6F3A9D700598}.png",
-    "-- Contribution --/Guides/Publishing and Syncing"
+    "French/Vocabulary/By Topic/Chapter 4 - Bon appétit !/Images/Pasted image 20250109123703.png"
   ]
 }

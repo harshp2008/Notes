@@ -3,7 +3,6 @@ publish: true
 title: Arthur Miller
 created: 2026-03-31T01:36:55.005+05:30
 modified: 2026-03-31T01:43:54.505+05:30
-published: 2026-03-31T01:43:54.505+05:30
 tags:
   - English
 ---

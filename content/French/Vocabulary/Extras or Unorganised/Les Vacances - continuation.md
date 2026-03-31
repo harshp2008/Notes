@@ -3,7 +3,6 @@ publish: true
 title: Les Vacances
 created: 11 / 12 / 2024
 modified: 2026-03-30T19:56:56.615+05:30
-published: 11 / 12 / 2024
 tags:
   - vocabulary
   - french

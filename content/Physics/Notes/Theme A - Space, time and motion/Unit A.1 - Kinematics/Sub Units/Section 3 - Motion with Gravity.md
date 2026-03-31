@@ -3,7 +3,6 @@ publish: true
 title: Motion with Gravity
 created: 2026-03-31T01:36:55.479+05:30
 modified: 2026-03-30T19:56:56.689+05:30
-published: 2026-03-30T19:56:56.689+05:30
 tags:
   - physics
 ---

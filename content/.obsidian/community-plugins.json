@@ -6,5 +6,8 @@
   "obsidian-shellcommands",
   "remotely-save",
   "quartz-sync-harsh",
-  "quartz-syncer"
+  "quartz-syncer",
+  "omnisearch",
+  "text-extractor",
+  "ai-image-analyzer"
 ]
